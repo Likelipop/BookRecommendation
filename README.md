@@ -1,6 +1,5 @@
 # 📚 Simple Book Recommendation System
 
-Dự án này là một hệ thống gợi ý sách đơn giản, giúp người dùng tìm kiếm những cuốn sách tương tự dựa trên nội dung hoặc sở thích cá nhân. Phù hợp cho những ai đang bắt đầu tìm hiểu về **Recommender Systems** và **Machine Learning**.
 This project's purpose is to create a simple pipeline for creating a book recommendation model, tranditional one.
 The whole pipeline especially makes use of serverless Databrick platform for delegating hard work using PySpark, and Dagster for the ease of orchestration.
 
@@ -84,3 +83,4 @@ python src/ingestion/bronze.py
 ## 🤝 Contributing
 
 Feel free to open an issue or submit a pull request if you want to extend the project to Silver/Gold layers or add new recommendation algorithms.
+
