@@ -1,0 +1,67 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"17d691cc-de79-4d0a-b558-e32766654027\" name=\"Changes\" comment=\"add gold layer, fix silver's independence errors\">\r\n      <change afterPath=\"$PROJECT_DIR$/app/app.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/app/pages/home.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/app/pages/item_based.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/app/pages/popularity_based.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/app/utils.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/etl_pipeline/pyproject.toml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/etl_pipeline/pyproject.toml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/etl_pipeline/src/etl_pipeline/defs/final/gold.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/etl_pipeline/src/etl_pipeline/defs/gold.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/etl_pipeline/src/etl_pipeline/defs/ingestion/bronze.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/etl_pipeline/src/etl_pipeline/defs/bronze.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/etl_pipeline/src/etl_pipeline/defs/transformation/silver.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/etl_pipeline/src/etl_pipeline/defs/silver.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/etl_pipeline/uv.lock\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/etl_pipeline/uv.lock\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/pyproject.toml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/pyproject.toml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"PUSH_TAGS\">\r\n      <GitPushTagMode>\r\n        <option name=\"argument\" value=\"--tags\" />\r\n        <option name=\"title\" value=\"All\" />\r\n      </GitPushTagMode>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;Likelipop&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/Likelipop/BookRecommendation.git&quot;,\r\n    &quot;accountId&quot;: &quot;c7e6f93e-6028-4c37-883a-9f2ad430a58c&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 3\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"3A7dhJKFEIUJPqQiZc0szzhwiJA\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;master&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Projects\\BookRecommendation\\etl_pipeline\\src\\etl_pipeline\\defs\" />\r\n      <recent name=\"C:\\Projects\\BookRecommendation\\etl_pipeline\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-0978a7220b69-9867c7d4c0a4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.28294.336\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"17d691cc-de79-4d0a-b558-e32766654027\" name=\"Changes\" comment=\"\" />\r\n      <created>1771947661290</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1771947661290</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"first commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1771995899264</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1771995899264</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"adjust bronze layer, add silver layer\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1772380307106</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1772380307106</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"add gold layer, fix silver's independence errors\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1772386066846</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1772386066846</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"4\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"first commit\" />\r\n    <MESSAGE value=\"adjust bronze layer, add silver layer\" />\r\n    <MESSAGE value=\"add gold layer, fix silver's independence errors\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"add gold layer, fix silver's independence errors\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision fb5ce559b41c4b9d0f91cbc6ad18555c31c6aaac)
++++ b/.idea/workspace.xml	(date 1774098215013)
+@@ -1,20 +1,7 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="17d691cc-de79-4d0a-b558-e32766654027" name="Changes" comment="add gold layer, fix silver's independence errors">
+-      <change afterPath="$PROJECT_DIR$/app/app.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/app/pages/home.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/app/pages/item_based.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/app/pages/popularity_based.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/app/utils.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/etl_pipeline/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/etl_pipeline/pyproject.toml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/etl_pipeline/src/etl_pipeline/defs/final/gold.py" beforeDir="false" afterPath="$PROJECT_DIR$/etl_pipeline/src/etl_pipeline/defs/gold.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/etl_pipeline/src/etl_pipeline/defs/ingestion/bronze.py" beforeDir="false" afterPath="$PROJECT_DIR$/etl_pipeline/src/etl_pipeline/defs/bronze.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/etl_pipeline/src/etl_pipeline/defs/transformation/silver.py" beforeDir="false" afterPath="$PROJECT_DIR$/etl_pipeline/src/etl_pipeline/defs/silver.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/etl_pipeline/uv.lock" beforeDir="false" afterPath="$PROJECT_DIR$/etl_pipeline/uv.lock" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+-    </list>
++    <list default="true" id="17d691cc-de79-4d0a-b558-e32766654027" name="Changes" comment="add one gold assets.py, add streamlit module." />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -35,6 +22,7 @@
+       </GitPushTagMode>
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++    <option name="UPDATE_TYPE" value="REBASE" />
+   </component>
+   <component name="GitHubPullRequestSearchHistory">{
+   &quot;lastFilter&quot;: {
+@@ -110,7 +98,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1772386066846</updated>
+     </task>
+-    <option name="localTasksCounter" value="4" />
++    <task id="LOCAL-00004" summary="add one gold assets.py, add streamlit module.">
++      <option name="closed" value="true" />
++      <created>1774097970950</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1774097970950</updated>
++    </task>
++    <option name="localTasksCounter" value="5" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -128,6 +124,7 @@
+     <MESSAGE value="first commit" />
+     <MESSAGE value="adjust bronze layer, add silver layer" />
+     <MESSAGE value="add gold layer, fix silver's independence errors" />
+-    <option name="LAST_COMMIT_MESSAGE" value="add gold layer, fix silver's independence errors" />
++    <MESSAGE value="add one gold assets.py, add streamlit module." />
++    <option name="LAST_COMMIT_MESSAGE" value="add one gold assets.py, add streamlit module." />
+   </component>
+ </project>
+\ No newline at end of file

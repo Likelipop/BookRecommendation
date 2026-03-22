@@ -7,7 +7,7 @@
       <excludeFolder url="file://$MODULE_DIR$/etl_pipeline/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/models" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.14 (BookRecommendation)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.12 (BookRecommendation) (2)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

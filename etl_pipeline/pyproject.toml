@@ -1,12 +1,17 @@
 [project]
 name = "etl_pipeline"
-requires-python = ">=3.10,<3.15"
+requires-python = "==3.12.12"
 version = "0.1.0"
 dependencies = [
     "dagster==1.12.15",
-    "dagster-databricks>=0.28.15",
     "dagster-dg-cli>=1.12.15",
     "dagster-webserver>=1.12.15",
+    "databricks-connect==15.4.*",
+    "pip>=26.0.1",
+    "pyspark>=4.1.1",
+    "scikit-learn>=1.7.2",
+    "streamlit>=1.55.0",
+    "transformations>=2025.1.1",
 ]
 
 [dependency-groups]
