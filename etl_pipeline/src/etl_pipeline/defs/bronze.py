@@ -4,27 +4,36 @@ from delta.tables import DeltaTable
 import pyspark.sql.types as T
 from ..databrick_resource import DatabricksServerlessResource
 
+
 def get_serverless_session():
-    """Initialize Databricks Serverless Session"""
+    """
+    Initializes and returns a Databricks Serverless Spark session.
+    """
     return DatabricksSession.builder.serverless().getOrCreate()
 
 
 def execute_delta_merge(spark, source_df, dest_table, merge_condition):
     """
-    Thực thi Upsert dựa trên tài liệu chuẩn của Databricks Delta Lake.
+    Executes a Delta Lake merge (upsert) operation.
+    Creates the table if it does not exist, otherwise performs a merge based on the provided condition.
+
+    Args:
+        spark (SparkSession): The active Spark session.
+        source_df (DataFrame): The source DataFrame containing new or updated records.
+        dest_table (str): The destination Delta table name (catalog.schema.table).
+        merge_condition (str): The SQL condition used to match records between source and target.
     """
+    # Perform upsert if table exists, otherwise initialize and overwrite
     if spark.catalog.tableExists(dest_table):
-        # Bảng đã tồn tại -> Khởi tạo đối tượng DeltaTable và gọi lệnh merge
         target_delta = DeltaTable.forName(spark, dest_table)
 
         target_delta.alias("target").merge(
             source_df.alias("source"),
             merge_condition
         ).whenMatchedUpdateAll() \
-            .whenNotMatchedInsertAll() \
-            .execute()
+         .whenNotMatchedInsertAll() \
+         .execute()
     else:
-        # Bảng chưa tồn tại -> Khởi tạo lần đầu
         source_df.write.format("delta").mode("overwrite").saveAsTable(dest_table)
 
 
@@ -35,6 +44,10 @@ def execute_delta_merge(spark, source_df, dest_table, merge_condition):
     description="Upsert daily book data to bronze layer safely"
 )
 def bronze_raw_book(db_resource: DatabricksServerlessResource):
+    """
+    Ingests book data from the landing zone, applies schema enforcement,
+    deduplicates records by ISBN, and upserts into the staged library bronze table.
+    """
     spark = db_resource.get_session()
 
     book_schema = T.StructType([
@@ -53,7 +66,7 @@ def bronze_raw_book(db_resource: DatabricksServerlessResource):
     for field in book_schema:
         df = df.withColumn(field.name, df[field.name].cast(field.dataType))
 
-    # BƯỚC QUAN TRỌNG: Xóa trùng lặp theo khóa chính trước khi Merge
+    # Remove duplicates based on primary key before merging to prevent Delta merge failures
     df_deduped = df.dropDuplicates(["ISBN"])
 
     dest_catalog = "book_project"
@@ -74,6 +87,10 @@ def bronze_raw_book(db_resource: DatabricksServerlessResource):
     description="Upsert daily ratings data to bronze layer safely"
 )
 def bronze_raw_ratings(db_resource: DatabricksServerlessResource):
+    """
+    Ingests rating data from the landing zone, applies schema enforcement,
+    deduplicates records by User-ID and ISBN, and upserts into the staged library bronze table.
+    """
     spark = db_resource.get_session()
 
     rating_schema = T.StructType([
@@ -87,7 +104,7 @@ def bronze_raw_ratings(db_resource: DatabricksServerlessResource):
     for field in rating_schema:
         df = df.withColumn(field.name, df[field.name].cast(field.dataType))
 
-    # Xóa trùng lặp theo cặp User-ID và ISBN (một user chỉ có 1 rating cuối cùng cho 1 sách)
+    # Ensure only one unique rating per user per book exists
     df_deduped = df.dropDuplicates(["User-ID", "ISBN"])
 
     dest_table = "book_project.staged_library.bronze_raw_ratings"
@@ -104,6 +121,10 @@ def bronze_raw_ratings(db_resource: DatabricksServerlessResource):
     description="Upsert daily users data to bronze layer safely"
 )
 def bronze_raw_users(db_resource: DatabricksServerlessResource):
+    """
+    Ingests user data from the landing zone, applies schema enforcement,
+    deduplicates records by User-ID, and upserts into the staged library bronze table.
+    """
     spark = db_resource.get_session()
 
     user_schema = T.StructType([
@@ -117,7 +138,7 @@ def bronze_raw_users(db_resource: DatabricksServerlessResource):
     for field in user_schema:
         df = df.withColumn(field.name, df[field.name].cast(field.dataType))
 
-    # Xóa trùng lặp theo User-ID
+    # Keep only unique users based on User-ID
     df_deduped = df.dropDuplicates(["User-ID"])
 
     dest_table = "book_project.staged_library.bronze_raw_users"
