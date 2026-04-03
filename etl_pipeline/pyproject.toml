@@ -7,6 +7,7 @@ dependencies = [
     "dagster-dg-cli>=1.12.15",
     "dagster-webserver>=1.12.15",
     "databricks-connect==15.4.*",
+    "databricks-sql-connector>=4.2.5",
     "pip>=26.0.1",
     "pyspark>=4.1.1",
     "scikit-learn>=1.7.2",

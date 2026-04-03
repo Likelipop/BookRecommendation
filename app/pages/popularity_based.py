@@ -4,7 +4,8 @@ from utils import load_data
 st.set_page_config(page_title="Popularity Based", page_icon="🔥")
 st.title("🔥 Popularity-Based Recommendations")
 
-df = load_data("gold_book_metrics.csv")
+query = "select * from book_project.gold_library.gold_book_metrics"
+df = load_data(query)
 if df is None:
     st.stop()
 

@@ -9,7 +9,8 @@ st.title("🤖 Item-Based Collaborative Filtering")
 st.markdown("Hệ thống sẽ tìm những cuốn sách tương đồng dựa trên hành vi đánh giá của cộng đồng người dùng.")
 
 # 1. Load dữ liệu ma trận đã được chuẩn bị từ lớp Gold
-ml_df = load_data("gold_user_item_interactions.csv")
+query = "select * from book_project.gold_library.gold_user_item_interactions"
+ml_df = load_data(query)
 if ml_df is None:
     st.error("Chưa có file dữ liệu Machine Learning. Vui lòng chạy cập nhật file `gold.py` trên Dagster.")
     st.stop()

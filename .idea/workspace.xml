@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17d691cc-de79-4d0a-b558-e32766654027" name="Changes" comment="add trigerred email senders">
+    <list default="true" id="17d691cc-de79-4d0a-b558-e32766654027" name="Changes" comment="(fix): deleted an neccessary comment">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/pages/item_based.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/pages/item_based.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/pages/popularity_based.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/pages/popularity_based.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/utils.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/minio/.minio.sys/buckets/.bloomcycle.bin/xl.meta" beforeDir="false" afterPath="$PROJECT_DIR$/data/minio/.minio.sys/buckets/.bloomcycle.bin/xl.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/minio/.minio.sys/buckets/.usage-cache.bin.bkp/xl.meta" beforeDir="false" afterPath="$PROJECT_DIR$/data/minio/.minio.sys/buckets/.usage-cache.bin.bkp/xl.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/minio/.minio.sys/buckets/.usage-cache.bin/xl.meta" beforeDir="false" afterPath="$PROJECT_DIR$/data/minio/.minio.sys/buckets/.usage-cache.bin/xl.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/minio/.minio.sys/buckets/.usage.json/xl.meta" beforeDir="false" afterPath="$PROJECT_DIR$/data/minio/.minio.sys/buckets/.usage.json/xl.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/minio/.minio.sys/buckets/warehouse/.usage-cache.bin.bkp/xl.meta" beforeDir="false" afterPath="$PROJECT_DIR$/data/minio/.minio.sys/buckets/warehouse/.usage-cache.bin.bkp/xl.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/minio/.minio.sys/buckets/warehouse/.usage-cache.bin/xl.meta" beforeDir="false" afterPath="$PROJECT_DIR$/data/minio/.minio.sys/buckets/warehouse/.usage-cache.bin/xl.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/etl_pipeline/src/etl_pipeline/defs/bronze.py" beforeDir="false" afterPath="$PROJECT_DIR$/etl_pipeline/src/etl_pipeline/defs/bronze.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/etl_pipeline/src/etl_pipeline/defs/gold.py" beforeDir="false" afterPath="$PROJECT_DIR$/etl_pipeline/src/etl_pipeline/defs/gold.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/etl_pipeline/src/etl_pipeline/sensors/silver_sensors.py" beforeDir="false" afterPath="$PROJECT_DIR$/etl_pipeline/src/etl_pipeline/sensors/silver_sensors.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/etl_pipeline/src/etl_pipeline/utils/email_helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/etl_pipeline/src/etl_pipeline/utils/email_helper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/etl_pipeline/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/etl_pipeline/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/etl_pipeline/uv.lock" beforeDir="false" afterPath="$PROJECT_DIR$/etl_pipeline/uv.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uv.lock" beforeDir="false" afterPath="$PROJECT_DIR$/uv.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775203604492</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="(fix): deleted an neccessary comment">
+      <option name="closed" value="true" />
+      <created>1775204121734</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1775204121734</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -177,7 +188,8 @@
     <MESSAGE value="add one gold assets.py, add streamlit module." />
     <MESSAGE value="add data quality check, perform upsert on bronze layer" />
     <MESSAGE value="add trigerred email senders" />
-    <option name="LAST_COMMIT_MESSAGE" value="add trigerred email senders" />
+    <MESSAGE value="(fix): deleted an neccessary comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="(fix): deleted an neccessary comment" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
