@@ -94,7 +94,7 @@ def check_ratings_error_rate(context, db_resource: DatabricksServerlessResource)
     asset=AssetKey(["silver", "library", "silver_cleaned_ratings"]),
     description="Critical constraint: Cleaned ratings must not contain NULL user_id or ISBN"
 )
-def check_ratings_no_null_keys(context, db_resource):
+def check_ratings_no_null_keys(context, db_resource: DatabricksServerlessResource):
     spark = db_resource.get_session()
     clean_table = "book_project.cleaned_library.silver_cleaned_ratings"
 

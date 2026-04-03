@@ -9,6 +9,9 @@ from .checks import (
     check_ratings_no_null_keys
 )
 
+from .sensors.silver_sensors import silver_books_error_sensor
+
+
 from .databrick_resource import DatabricksServerlessResource
 
 bronze_assets = load_assets_from_modules([bronze])
@@ -25,6 +28,7 @@ defs = Definitions(
         check_ratings_error_rate,
         check_ratings_no_null_keys
     ],
+    sensors=[silver_books_error_sensor],
     resources={
         "db_resource": db_resource
     }

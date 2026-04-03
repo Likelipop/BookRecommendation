@@ -57,8 +57,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0684818701,The New Joy of Cooking,Marion Rombauer Becker,1997,5,9.6
 8845247414,Il Piccolo Principe,Antoine De Saint-Exupery,2002,5,9.6
 1551666014,Tomorrow's Promise: Can the Heart Let Go of Yesterday?,Sandra Brown,2000,5,9.6
-0395259398,Mike Mulligan and His Steam Shovel (Sandpiper Books),Virginia Lee Burton,1977,5,9.6
 044012929X,"God Bless You, Mr. Rosewater or Pearls Before Swine",Kurt Vonnegut,1991,5,9.6
+0395259398,Mike Mulligan and His Steam Shovel (Sandpiper Books),Virginia Lee Burton,1977,5,9.6
 0849912970,Traveling Light: Releasing the Burdens You Were Never Intended to Bear,Max Lucado,2001,5,9.6
 078691551X,"Dungeon Master's Guide: Core Rulebook II (Dungeons &amp; Dragons, Third Edition)",Monte Cook,2000,5,9.6
 0060925000,"A Suitable Boy : Novel, A",Vikram Seth,1994,5,9.6
@@ -84,8 +84,8 @@ ISBN,title,author,year,total_ratings,average_rating
 1568650108,Support Your Local Wizard,Diane Duane,1990,5,9.6
 0099429284,The Godfather,Mario Puzo,2001,5,9.6
 0316578398,The Art of Raising a Puppy,New Skete Monks,1991,5,9.6
-038070918X,Beezus and Ramona,Beverly Cleary,1990,5,9.6
 1551669056,Between Friends,Debbie Macomber,2002,5,9.6
+038070918X,Beezus and Ramona,Beverly Cleary,1990,5,9.6
 0836220889,Calvin and Hobbes,Bill Watterson,1987,17,9.59
 0836218221,The Authoritative Calvin and Hobbes (Calvin and Hobbes),Bill Watterson,1990,14,9.57
 0066238501,Complete Chronicles of Narnia,C. S. Lewis,2001,14,9.57
@@ -199,8 +199,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0451166361,The Glass Menagerie,Tennessee Williams,1993,6,9.33
 0786915501,"Player's Handbook: Core Rulebook I (Dungeons &amp; Dragons, Third Edition)",Not Applicable (Na ),2000,6,9.33
 0020418809,CADDIE WOODLAWN,Carol Ryrie Brink,1970,6,9.33
-0886774543,"Oathbreakers (Vows and Honor, Book 2)",Mercedes Lackey,1995,6,9.33
 0380010038,The Cay,Theodore Taylor,1995,6,9.33
+0886774543,"Oathbreakers (Vows and Honor, Book 2)",Mercedes Lackey,1995,6,9.33
 0441011675,Dead to the World,Charlaine Harris,2004,6,9.33
 1551669501,Diamond Spur,Diana Palmer,2002,6,9.33
 0553213008,A Midsummer Nights Dream (Bantam Classic),William Shakespeare,1988,6,9.33
@@ -278,9 +278,9 @@ ISBN,title,author,year,total_ratings,average_rating
 0380012774,The Importance of Being Earnest,Oscar Wilde,1976,5,9.2
 0345295250,White Dragon,Anne McCaffrey,1979,5,9.2
 0060278234,Lirael: Daughter of the Clayr,Garth Nix,2001,5,9.2
+0812538986,Jack of Kinrowan,Charles De Lint,1995,5,9.2
 0786888741,Lucky Man : A Memoir,Michael J. Fox,2003,5,9.2
 2020551470,Le baron perche,Calvino,2002,5,9.2
-0812538986,Jack of Kinrowan,Charles De Lint,1995,5,9.2
 0152164561,"Mary, Bloody Mary: A Young Royals Book",Carolyn Meyer,2001,5,9.2
 0345296052,The Fellowship of the Ring (Lord of the Rings (Paperback)),J. R. R. Tolkien,1981,5,9.2
 0689711735,"Alexander And The Terrible, Horrible, No Good, Very Bad Day",Judith Viorst,1987,5,9.2
@@ -306,8 +306,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0451158237,Fountainhead,Ayn Rand,1952,5,9.2
 0060916087,Tao Te Ching: A New English Version,Stephen Mitchell,1991,5,9.2
 067972477X,"I, Claudius : From the Autobiography of Tiberius Claudius, Born 10 B.C., Murdered and Deified A.D. 54 (Vintage International)",Robert Graves,1989,5,9.2
-0312873115,The Land of Laughs : A Novel,Jonathan Carroll,2001,5,9.2
 1579549586,South Beach Diet Good Fats/Good Carbs Guide: The Complete and Easy Reference for All Your Favorite Foods,Arthur Agatston,2004,5,9.2
+0312873115,The Land of Laughs : A Novel,Jonathan Carroll,2001,5,9.2
 0451458222,"The Summer Tree (The Fionavar Tapestry, Book 1)",Guy Gavriel Kay,2001,5,9.2
 0743444329,Geisha : A Life,Mineko Iwasaki,2002,5,9.2
 0140094296,The Songlines,Bruce Chatwin,1988,5,9.2
@@ -344,8 +344,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0618260250,The Lord of the Rings,J. R. R. Tolkien,2002,6,9.17
 0140150749,Portable Dorothy Parker (Viking Portable Library),Dorothy Parker,1991,6,9.17
 1551667894,Four Seasons,Mary Alice Monroe,2001,6,9.17
-0889740224,Daughters of Copper Woman,Anne Cameron,1988,6,9.17
 0375502912,Seabiscuit: An American Legend,LAURA HILLENBRAND,2001,6,9.17
+0889740224,Daughters of Copper Woman,Anne Cameron,1988,6,9.17
 0743400526,She Said Yes : The Unlikely Martyrdom of Cassie Bernall,Misty Bernall,2000,6,9.17
 0517093650,Ain't I A Woman!: A Book of Women's Poetry from Around the World,Illona Linthwaite,1993,6,9.17
 0380818337,The Lady Is Tempted,Cathy Maxwell,2002,6,9.17
@@ -379,8 +379,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0151446474,The Name of the Rose,Umberto Eco,1983,7,9.14
 0345345053,A Sand County Almanac (Outdoor Essays &amp; Reflections),Aldo Leopold,1990,7,9.14
 1563895730,Sandman: The Dream Hunters,Neil Gaiman,1999,7,9.14
-1558743324,A 2nd Helping of Chicken Soup for the Soul: 101 More Stories to Open the Heart and Rekindle the Spirit,Jack Canfield,1994,7,9.14
 0446359408,Sybil,Flora Rheta Schreiber,1989,7,9.14
+1558743324,A 2nd Helping of Chicken Soup for the Soul: 101 More Stories to Open the Heart and Rekindle the Spirit,Jack Canfield,1994,7,9.14
 0445406488,The Curse of the Pharaohs,Elizabeth Peters,1988,7,9.14
 0743407075,Grand Avenue,Joy Fielding,2001,8,9.13
 0345453743,The Ultimate Hitchhiker's Guide to the Galaxy,DOUGLAS ADAMS,2002,8,9.13
@@ -591,16 +591,16 @@ ISBN,title,author,year,total_ratings,average_rating
 0374148600,Ex Libris: Confessions of a Common Reader,Anne Fadiman,1998,5,9.0
 0440775825,Ralph S. Mouse,Not Applicable (Na ),1983,5,9.0
 0425192083,To Catch a Wolf (Berkley Sensation),Susan Krinard,2003,5,9.0
-0060185708,The Reluctant Suitor,Kathleen E. Woodiwiss,2003,5,9.0
 0060924799,"More Tales of the City (Maupin, Armistead. Tales of the City Series, V. 2.)",Armistead Maupin,1994,5,9.0
+0060185708,The Reluctant Suitor,Kathleen E. Woodiwiss,2003,5,9.0
 0812555112,Faun &amp; Games (Xanth),Piers Anthony,1998,5,9.0
 0836217179,Chickens Are Restless (Far Side Series),Gary Larson,1993,5,9.0
 0886775132,Jaran (Daw Book Collectors),Kate Elliott,1994,5,9.0
 0061097632,The Eleventh Plague,John S. Marr,1999,5,9.0
 0873529758,MLA Handbook for Writers of Research Papers (5th ed),Joseph Gibaldi,1999,5,9.0
+0679726225,"Wilderness : The Lost Writings of Jim Morrison (Morrison, Jim, Lost Writings of Jim Morrison (Vintage Books (Firm)), V. 1.)",JIM MORRISON,1989,5,9.0
 0345332636,A Short History of a Small Place,T.R. Pearson,1991,5,9.0
 0553211374,Persuasion,Jane Austen,1984,5,9.0
-0679726225,"Wilderness : The Lost Writings of Jim Morrison (Morrison, Jim, Lost Writings of Jim Morrison (Vintage Books (Firm)), V. 1.)",JIM MORRISON,1989,5,9.0
 0446315176,An Unsuitable Job for a Woman,P. D. James,1992,5,9.0
 0786880708,"Wherever You Go, There You Are : Mindfulness Meditation in Everyday Life",Jon Kabat-Zinn,1995,5,9.0
 0345389247,Crazy in Alabama,Mark Childress,1994,5,9.0
@@ -767,8 +767,8 @@ ISBN,title,author,year,total_ratings,average_rating
 1580620477,Small Miracles II,Yitta Halberstam,1998,6,8.83
 0679759336,The Fermata,Nicholson Baker,1995,6,8.83
 0060012331,The Amazing Maurice and His Educated Rodents,Terry Pratchett,2001,6,8.83
-0024182001,Elements of Style 3ED,William Jr. Strunk,1979,6,8.83
 0142000892,Miss Julia Takes over,Ann B. Ross,2002,6,8.83
+0024182001,Elements of Style 3ED,William Jr. Strunk,1979,6,8.83
 1853260177,Wind in the Willows (Wordsworth Collection),K. Grahame,1998,6,8.83
 0373835760,Men of Courage,Donna Kauffman,2003,6,8.83
 0425190374,Practical Magic,Alice Hoffman,2003,6,8.83
@@ -865,13 +865,13 @@ ISBN,title,author,year,total_ratings,average_rating
 0060163747,Return to Love: Reflections on the Principles of a Course in Miracles,Marianne Williamson,1992,5,8.8
 1581346085,The Passion of Jesus Christ: Fifty Reasons Why He Came to Die,John Piper,2004,5,8.8
 0586062009,Robots and Empire,Isaac Asimov,1986,5,8.8
-0345300793,"Queen of Sorcery (Eddings, David. , the Belgariad, Bk. 2.)",David Eddings,1982,5,8.8
 3257230885,Small World.,Martin Suter,2000,5,8.8
+0345300793,"Queen of Sorcery (Eddings, David. , the Belgariad, Bk. 2.)",David Eddings,1982,5,8.8
 0373613687,Enemy Mind,Maggie Shayne,2003,5,8.8
 0553227971,Far Pavilions,M. M. Kaye,1984,5,8.8
+1561483516,That Dorky Homemade Look: Quilting Lessons from a Parallel Universe,Lisa Boyer,2002,5,8.8
 0061043508,Strong Poison,Dorothy L. Sayers,1995,5,8.8
 3596102871,Die Feuer von Troia. Roman.,Marion Zimmer Bradley,1990,5,8.8
-1561483516,That Dorky Homemade Look: Quilting Lessons from a Parallel Universe,Lisa Boyer,2002,5,8.8
 0812504690,Jungle Book,Rudyard Kipling,1992,5,8.8
 2020385805,Neige,Maxence Fermine,2000,5,8.8
 0425183238,Mrs. Mike,Benedict Freedman,2002,5,8.8
@@ -888,19 +888,19 @@ ISBN,title,author,year,total_ratings,average_rating
 0062516582,"The Legacy of Luna: The Story of a Tree, a Woman, and the Struggle to Save the Redwoods",Julia Butterfly Hill,2000,5,8.8
 0399151850,The Queen of the South,Arturo Perez-Reverte,2004,5,8.8
 0590060198,The BFG,Roald Dahl,1982,5,8.8
-0373834489,Corinthian,Georgette Heyer,2000,5,8.8
 1550810510,Random Passage,Bernice Morgan,1992,5,8.8
-0141439572,The Picture of Dorian Gray,Oscar Wilde,2003,5,8.8
+0373834489,Corinthian,Georgette Heyer,2000,5,8.8
 1551668009,Always Dakota,Debbie Macomber,2001,5,8.8
+0141439572,The Picture of Dorian Gray,Oscar Wilde,2003,5,8.8
 0812549007,Darkangel,Meredith Ann Pierce,1984,5,8.8
 0345331354,Cosmos,Carl Sagan,1993,5,8.8
 0060968966,Linda Goodman's Love Signs : A New Approach to the Human Heart,Linda Goodman,1992,5,8.8
 0515134007,The Texan's Wager,Jodi Thomas,2002,5,8.8
-0385315031,This Year It Will Be Different: And Other Stories : A Christmas Treasury,Maeve Binchy,1996,5,8.8
 0451158601,We the Living,Ayn Rand,1991,5,8.8
+0385315031,This Year It Will Be Different: And Other Stories : A Christmas Treasury,Maeve Binchy,1996,5,8.8
 067940712X,One True Thing,Anna Quindlen,1994,5,8.8
-0425180883,Iron Chef: The Official Book,Kaoru Hoketsu,2001,5,8.8
 0375503315,Brothel: Mustang Ranch and Its Women,Alexa Albert,2001,5,8.8
+0425180883,Iron Chef: The Official Book,Kaoru Hoketsu,2001,5,8.8
 034543076X,Manifold: Time (Manifold (Paperback)),Stephen Baxter,2000,5,8.8
 0452284708,"The Drawing of the Three (The Dark Tower, Book 2)",Stephen King,2003,5,8.8
 0373790724,"The Sweetest Taboo (Harlequin Blaze, 68)",Alison Kent,2002,5,8.8
@@ -913,12 +913,12 @@ ISBN,title,author,year,total_ratings,average_rating
 044100007X,Damia's Children,Anne McCaffrey,1996,5,8.8
 067172519X,RAISE THE TITANIC (Clive Cussler),Clive Cussler,1990,5,8.8
 0439376122,"Captain Underpants and the Big, Bad Battle of the Bionic Booger Boy, Part 2 : Revenge of the Ridiculous Robo-boogers (Captain Underpants)",Dav Pilkey,2003,5,8.8
-0505523493,The Love Potion (Time of Your Life),Sandra Hill,1999,5,8.8
 0385314280,When Elephants Weep: The Emotional Lives of Animals,Jeffrey Moussaieff Masson,1996,5,8.8
+0505523493,The Love Potion (Time of Your Life),Sandra Hill,1999,5,8.8
 0152008691,The Forgotten Beasts of Eld,Patricia A. McKillip,1996,5,8.8
 0786929804,"The Thousand Orcs (Forgotten Realms: The Hunter's Blades Trilogy, Book 1)",R. A. Salvatore,2003,5,8.8
-0684862743,"GEORGE BUSH, DARK PRINCE OF LOVE: A Presidential Romance",Lydia Millet,2000,5,8.8
 067988291X,The Realms of the Gods (Immortals (Paperback)),TAMORA PIERCE,1998,5,8.8
+0684862743,"GEORGE BUSH, DARK PRINCE OF LOVE: A Presidential Romance",Lydia Millet,2000,5,8.8
 0140006680,Sons and Lovers,D.H. Lawrence,1969,5,8.8
 0060085495,Island (Perennial Classics),Aldous Huxley,2002,5,8.8
 0064470687,Weetzie Bat,Francesca Lia Block,1991,5,8.8
@@ -974,8 +974,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0020442009,Horse and His Boy,C. S. Lewis,1970,9,8.78
 0380002930,Watership Down,Richard Adams,1976,73,8.77
 0440212561,Outlander,DIANA GABALDON,1992,69,8.77
-0671776975,A RIVER RUNS THROUGH IT AND OTHER STORIES : AND OTHER STORIES,Norman Maclean,1992,13,8.77
 0553577123,The Diary of a Young Girl: The Definitive Edition,Anne Frank,1997,13,8.77
+0671776975,A RIVER RUNS THROUGH IT AND OTHER STORIES : AND OTHER STORIES,Norman Maclean,1992,13,8.77
 034544356X,"Seduced By Moonlight (Hamilton, Laurell K)",LAURELL K. HAMILTON,2004,13,8.77
 0441790348,Stranger in a Strange Land (Remembering Tomorrow),Robert A. Heinlein,1995,46,8.76
 0316693006,Four Blind Mice,James Patterson,2002,37,8.76
@@ -1004,15 +1004,15 @@ ISBN,title,author,year,total_ratings,average_rating
 0440241006,Persuader,LEE CHILD,2004,8,8.75
 1882723007,Embraced by the Light,Betty J. Eadie,1992,8,8.75
 0064408183,Weetzie Bat (10th Anniversary Edition),Francesca Lia Block,1999,8,8.75
-0380973642,Smoke &amp; Mirrors: Short Fictions and Illusions,Neil Gaiman,1998,8,8.75
 0345388771,Primal Fear,William Diehl,1996,8,8.75
+0380973642,Smoke &amp; Mirrors: Short Fictions and Illusions,Neil Gaiman,1998,8,8.75
 0943233437,Random Acts of Kindness,Conari Press,1993,8,8.75
 0380973634,Neverwhere,Neil Gaiman,1997,8,8.75
 0553212710,Dracula (Bantam Classics),BRAM STOKER,1983,8,8.75
 0375411070,Basket Case,CARL HIAASEN,2002,8,8.75
 0140185232,The Razor's Edge (Penguin Twentieth-Century Classics),W. Somerset Maugham,1992,8,8.75
-0525947655,A Perfect Day,Richard Paul Evans,2003,8,8.75
 0786866462,A Density of Souls,Christopher Rice,2000,8,8.75
+0525947655,A Perfect Day,Richard Paul Evans,2003,8,8.75
 0140071083,The Haunting of Hill House,Shirley Jackson,1984,8,8.75
 0061093084,Everville : The Second Book of the Art,Clive Barker,1995,8,8.75
 0679442588,All Over but the Shoutin',Rick Bragg,1997,8,8.75
@@ -1065,8 +1065,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0553288202,The Fall of Hyperion,Dan Simmons,1991,7,8.71
 0060393009,Foley Is Good: And the Real World Is Faker Than Wrestling,Mick Foley,2001,7,8.71
 0399151540,Divided in Death,J. D. Robb,2004,7,8.71
-0553263978,"Trail of the Spanish Bit : Spanish Bit Saga, Number 1 (Spanish Bit Saga of the Plains Indians)",DON COLDSMITH,1987,7,8.71
 0671025368,The Coldest Winter Ever,Sister Souljah,2000,7,8.71
+0553263978,"Trail of the Spanish Bit : Spanish Bit Saga, Number 1 (Spanish Bit Saga of the Plains Indians)",DON COLDSMITH,1987,7,8.71
 0140012133,Three Men in a Boat: To Say Nothing of the Dog!,Jerome Klapka Jerome,1978,7,8.71
 0553295098,The Gap into Conflict: The Real Story (Gap),Stephen R. Donaldson,1992,7,8.71
 0786889160,"No Shirt, No Shoes, No Problem!",Jeff Foxworthy,1997,7,8.71
@@ -1153,8 +1153,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0020442106,The Last Battle (The Chronicles of Narnia Book 7),C. S. Lewis,1970,6,8.67
 0671722816,Othello,William Shakespeare,1993,6,8.67
 0141309814,The Hero and the Crown,Robin McKinley,2000,6,8.67
-0312965788,All Creatures Great and Small,James Herriot,1998,6,8.67
 0743437128,Wild Orchids : A Novel,Jude Deveraux,2003,6,8.67
+0312965788,All Creatures Great and Small,James Herriot,1998,6,8.67
 0345321383,Bridge of Birds,Barry Hughart,1990,6,8.67
 038070952X,Ramona and Her Mother (Ramona Quimby (Paperback)),Beverly Cleary,1990,6,8.67
 092963408X,The Recycler's Handbook: Simple Things You Can Do,EarthWorks Group,1990,6,8.67
@@ -1163,8 +1163,8 @@ ISBN,title,author,year,total_ratings,average_rating
 1400032806,Under the Banner of Heaven : A Story of Violent Faith,JON KRAKAUER,2004,6,8.67
 0312194390,"The Autobiography of Henry VIII: With Notes by His Fool, Will Somers : A Novel",Margaret George,1998,6,8.67
 0140621334,"Three Men in a Boat, to Say Nothing of the Dog! (Penguin Popular Classics)",Jerome K. Jerome,1994,6,8.67
-037371128X,The Secret Daughter  (Raising Cane),Roz Denny Fox,2003,6,8.67
 0517189682,Anne of Green Gables (Children's Classics),L.M. MONTGOMERY,1998,6,8.67
+037371128X,The Secret Daughter  (Raising Cane),Roz Denny Fox,2003,6,8.67
 0345419081,The Eight,KATHERINE NEVILLE,1997,6,8.67
 347354034X,Die Welle,Rhue,1998,6,8.67
 0812555104,Yon Ill Wind : A Xanth Novel (Xanth),Piers Anthony,1997,6,8.67
@@ -1237,8 +1237,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0812580354,Calculating God,Robert J. Sawyer,2001,8,8.63
 0061092193,Men at Arms,Terry Pratchett,1997,8,8.63
 0452282276,Round Robin: An Elm Creek Quilts Novel (Elm Creek Quilters Novels),Jennifer Chiaverini,2001,8,8.63
-0385121679,The Shining,Stephen King,1993,8,8.63
 156402976X,Catkin,Antonia Barber,1996,8,8.63
+0385121679,The Shining,Stephen King,1993,8,8.63
 0886774616,Catfantastic II (Daw Book Collectors),Andre Norton,1994,8,8.63
 0446607258,Mythology : Timeless Tales of Gods and Heroes,Edith Hamilton,1999,8,8.63
 0836220676,Valley Of The Far Side,Gary Larson,1985,8,8.63
@@ -1300,8 +1300,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0312965680,Wings of Fire (An Ian Rutledge Mystery),Charles Todd,1999,5,8.6
 039453512X,The Demon-Haunted World: Science As a Candle in the Dark,Carl Sagan,1996,5,8.6
 0064401510,Mrs. Piggle-Wiggle's Magic,Betty MacDonald,1985,5,8.6
-1573220825,An Instance of the Fingerpost,Iain Pears,1998,5,8.6
 0140620516,Dr Jekyll and Mr Hyde (Penguin Popular Classics),Robert Louis Stevenson,1994,5,8.6
+1573220825,An Instance of the Fingerpost,Iain Pears,1998,5,8.6
 0312872399,Kushiel's Chosen (Kushiel's Legacy),Jacqueline Carey,2002,5,8.6
 0156028352,The Color Purple,Alice Walker,2003,5,8.6
 1901970310,Little Earth Book,James Bruges,2002,5,8.6
@@ -1326,15 +1326,15 @@ ISBN,title,author,year,total_ratings,average_rating
 0374423075,Finn Family Moomintroll,Tove Jansson,1990,5,8.6
 0892967811,Cyanide Wells,Marcia Muller,2003,5,8.6
 0553275569,The Right Stuff,Tom Wolfe,1983,5,8.6
-0812540344,"The Summoning God (The Anasazi Mysteries, Book 2)",Kathleen O'Neal Gear,2001,5,8.6
 0802138004,The Toughest Indian in the World,Sherman Alexie,2001,5,8.6
 0449205436,And I Don't Want to Live This Life,Deborah Spungen,1994,5,8.6
+0812540344,"The Summoning God (The Anasazi Mysteries, Book 2)",Kathleen O'Neal Gear,2001,5,8.6
 0345330145,The Puppet Masters,Robert A. Heinlein,1994,5,8.6
 0786889780,First Person Plural : My Life as a Multiple,Cameron West,1999,5,8.6
 1556706804,The Sweetness of Honey and the Sting of Bees : A Book of Love from the Ancient Mediterranean,Michelle Louvric,1997,5,8.6
 0688175716,Strange but True,John Searles,2004,5,8.6
-0525945741,Blessings from the Other Side: Wisdom and Comfort from the Afterlife for This Life,Sylvia Browne,2000,5,8.6
 0446391069,Leadership Secrets of Attila the Hun,Wess Roberts,1990,5,8.6
+0525945741,Blessings from the Other Side: Wisdom and Comfort from the Afterlife for This Life,Sylvia Browne,2000,5,8.6
 0785273425,The Sacred Romance: Drawing Closer to the Heart of God,Brent Curtis,1997,5,8.6
 0684868911,The Carousel : A Novel,Richard Paul Evans,2000,5,8.6
 0805029648,Dave Barry's Bad Habits a 100% Fact-Free Book,Dave Barry,1993,5,8.6
@@ -1354,8 +1354,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0525947752,The Second Chair: A Novel,John T. Lescroart,2004,5,8.6
 0440162041,North and South,John Jakes,1983,5,8.6
 0345453808,Killjoy,JULIE GARWOOD,2002,5,8.6
-0345315642,The Catch Trap,Marion Zimmer Bradley,1984,5,8.6
 015644450X,In Love &amp; Trouble: Stories of Black Women,Alice Walker,1974,5,8.6
+0345315642,The Catch Trap,Marion Zimmer Bradley,1984,5,8.6
 0887308716,The Joy of Work : Dilbert's Guide to Finding Happiness at the Expense of Your Co-Workers,Scott Adams,1998,5,8.6
 0756400589,Take a Thief: A Novel of Valdemar,Mercedes Lackey,2002,5,8.6
 0451207475,The Chocolate Bear Burglary: A Chocoholic Mystery (Chocoholic Mysteries),Joanna Carl,2002,5,8.6
@@ -1365,8 +1365,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0778320103,Picture Me Dead,Heather Graham,2004,5,8.6
 0886775027,Blood Trail,Tanya Huff,1997,5,8.6
 0345463935,Dead Certain,MARIAH STEWART,2004,5,8.6
-0446404292,Sanctuary Sparrow (Brother Cadfael Mysteries),Ellis Peters,1995,5,8.6
 0937611018,You Can Heal Your Life/101,Louise L. Hay,1985,5,8.6
+0446404292,Sanctuary Sparrow (Brother Cadfael Mysteries),Ellis Peters,1995,5,8.6
 0553212494,Treasure Island (Bantam Classic),ROBERT LOUIS STEVENSON,1982,5,8.6
 3822860867,"Millennium Art (Postcard book, 30 detachable postcards)",Taschen America,2001,5,8.6
 0778320227,Edge of Twilight,Maggie Shayne,2004,5,8.6
@@ -1376,8 +1376,8 @@ ISBN,title,author,year,total_ratings,average_rating
 2253044911,"Les Dames du lac, tome 1",Marion Zimmer Bradley,1988,5,8.6
 0330482203,Dry Bones That Dream (An Inspector Banks Mystery),Peter Robinson,2001,5,8.6
 0821768417,Hot Blooded (Zebra Romantic Suspense),Lisa Jackson,2001,5,8.6
-0505524279,"Baby, Oh Baby! (Time of Your Life)",Robin Wells,2001,5,8.6
 0061020052,Infinity Beach,Jack McDevitt,2001,5,8.6
+0505524279,"Baby, Oh Baby! (Time of Your Life)",Robin Wells,2001,5,8.6
 0395926882,The Best American Short Stories 2001,Katrina Kenison,2001,5,8.6
 0586071105,Foundation and Earth,Isaac Asimov,1987,5,8.6
 0767905288,"The O'Reilly Factor: The Good, the Bad, and the Completely Ridiculous in American Life",Bill O'Reilly,2000,5,8.6
@@ -1387,8 +1387,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0061031151,"Bride's Kimono, The",Sujata Massey,2002,5,8.6
 0671722891,TAMING OF THE SHREW,William Shakespeare,1992,5,8.6
 157082262X,Where's Piglet? (Mouse Works Peek-a-Pooh Book),A. A. Milne,1995,5,8.6
-2253023906,La Vie Mode D'Emploi,George Perec,2000,5,8.6
 0380792486,Outlaw Mountain: A Joanna Brady Mystery,J.A. Jance,2004,5,8.6
+2253023906,La Vie Mode D'Emploi,George Perec,2000,5,8.6
 0452261341,"Gunslinger Tower 1 (Dark Tower, No 1)",Stephen King,1988,5,8.6
 1576739627,The Prayer of Jabez for Women,Darlene Marie Wilkinson,2002,5,8.6
 0821737902,Small Town Girls,Pamela Wallace,1992,5,8.6
@@ -1419,8 +1419,8 @@ ISBN,title,author,year,total_ratings,average_rating
 038081918X,Getting Lucky (Avon Light Contemporary Romances),Susan Andersen,2003,5,8.6
 074341134X,True to Form : A Novel,Elizabeth Berg,2002,5,8.6
 1566192951,The Adventures of Huckleberry Finn,Mark Twain,1994,5,8.6
-0821772872,The Lion in Glory (Zebra Historical Romance),Shannon Drake,2003,5,8.6
 0446356603,Lovers &amp; Gamblers,Jackie Collins,1991,5,8.6
+0821772872,The Lion in Glory (Zebra Historical Romance),Shannon Drake,2003,5,8.6
 0373790961,"Looking for Trouble: Invitations to Seduction (Harlequin Blaze, 92)",Julie Elizabeth Leto,2003,5,8.6
 0743442717,A Very Gothic Christmas (Holiday Classics),Christine Feehan,2002,5,8.6
 0006485200,The Piano Man's Daughter,Timothy Findley,1999,5,8.6
@@ -1486,8 +1486,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0345391373,An Incomplete Education,Judy Jones,1995,7,8.57
 0684853159,The Wasp Factory: A Novel,Iain Banks,1998,7,8.57
 0553801945,"The Game (King, Laurie R)",LAURIE R. KING,2004,7,8.57
-0446531413,On a Night Like This,Ellen Sussman,2004,7,8.57
 0312983220,Area 7,Matthew Reilly,2003,7,8.57
+0446531413,On a Night Like This,Ellen Sussman,2004,7,8.57
 0373285019,Entranced,Nora Roberts,2004,7,8.57
 0886775302,Blood Lines (Daw Book Collectors),Tanya Huff,1993,7,8.57
 0385474903,Dead Men Do Tell Tales: The Strange and Fascinating Cases of a Forensic Anthropologist,William R. Maples,1994,7,8.57
@@ -1498,8 +1498,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0880385359,"The Crystal Shard (Forgotten Realms: The Icewind Dale Trilogy, Book 1)",R. A. Salvatore,1988,7,8.57
 0671744615,LEGEND,Jude Deveraux,1996,7,8.57
 0140195831,If the Buddha Dated: A Handbook for Finding Love on a Spiritual Path,"Charlotte Sophia, Phd. Kasl",1999,7,8.57
-0091891965,Dave Gorman's Googlewhack Adventure,Dave Gorman,2004,7,8.57
 055338015X,"Fifty Acres and a Poodle: A Story of Love, Livestock, and Finding Myself on a Farm",Jeanne Marie Laskas,2002,7,8.57
+0091891965,Dave Gorman's Googlewhack Adventure,Dave Gorman,2004,7,8.57
 3499121581,Rubinroter Dschungel.,Rita Mae Brown,1987,7,8.57
 0743422740,Shotgun Bride (McKettrick Cowboys),Linda Lael Miller,2003,7,8.57
 0312990456,One for the Money (A Stephanie Plum Novel),Janet Evanovich,2003,54,8.56
@@ -1671,8 +1671,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0767905199,Mr. Maybe,Jane Green,2001,6,8.5
 0679733973,The Killer Inside Me (Vintage Crime/Black Lizard),Jim Thompson,1991,6,8.5
 0886771404,The Shapechangers,Jennifer Roberson,1992,6,8.5
-0345371984,Last Chance to See,Douglas Adams,1992,6,8.5
 0451198808,South: The Endurance Expedition,Ernest Shackleton,1999,6,8.5
+0345371984,Last Chance to See,Douglas Adams,1992,6,8.5
 0571200435,Buddha of Suburbia,Hanif Kureishi,2000,6,8.5
 0679457143,The Cobra Event,Richard Preston,1997,6,8.5
 0679801138,Lioness Rampant (Song of the Lioness (Paperback)),Tamora Pierce,1997,6,8.5
@@ -1683,13 +1683,13 @@ ISBN,title,author,year,total_ratings,average_rating
 0689818769,Frindle,Andrew Clements,1998,6,8.5
 0060973617,Up the Down Staircase,Bel Kaufman,1991,6,8.5
 0747541604,The Gashlycrumb Tinies,Edward Gorey,1998,6,8.5
-0812534859,Geis of the Gargoyle (Xanth),Piers Anthony,1995,6,8.5
 0451203267,The Stranger Beside Me,Ann Rule,2001,6,8.5
+0812534859,Geis of the Gargoyle (Xanth),Piers Anthony,1995,6,8.5
 0439010780,The Shadow in the North,Philip Pullman,1999,6,8.5
 0312965966,Denial (Frank Clevenger),Keith Ablow,1998,6,8.5
 0399138684,The Cat Who Came to Breakfast (Cat Who... (Hardcover)),Lilian Jackson Braun,1994,6,8.5
-8420633119,El Aleph,Jorge Luis Borges,1971,6,8.5
 0439435242,The Seeing Stone,Kevin Crossley-Holland,2002,6,8.5
+8420633119,El Aleph,Jorge Luis Borges,1971,6,8.5
 0671502336,CATCH 22,Joseph Heller,1994,6,8.5
 1563899809,"Unmanned (Y: The Last Man, Book 1)",Brian K. Vaughan,2003,6,8.5
 014043187X,The Picture of Dorian Gray (Penguin Classic),Oscar Wilde,1985,6,8.5
@@ -1751,8 +1751,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0140378278,Time Cat: The Remarkable Journeys of Jason and Gareth,Lloyd Alexander,1996,11,8.45
 0345338545,Follow the River,James Alexander Thom,1996,11,8.45
 0451411137,Men in Kilts,Katie Macalister,2003,11,8.45
-3257061269,Der Alchimist.,Paulo Coelho,2003,11,8.45
 0811808173,The Tattooed Map,Barbara Hodgson,1995,11,8.45
+3257061269,Der Alchimist.,Paulo Coelho,2003,11,8.45
 0515134457,Blue Moon,Laurell K. Hamilton,1998,11,8.45
 0679777547,The Club Dumas: A Novel,Arturo Perez-Reverte,1998,11,8.45
 0671737821,Honor's Splendour,Julie Garwood,1991,11,8.45
@@ -1842,23 +1842,23 @@ ISBN,title,author,year,total_ratings,average_rating
 0446611727,Some Girls Do,Leanne Banks,2003,7,8.43
 0451181468,Praying for Sleep,Jeffery Deaver,1995,7,8.43
 055357339X,"Assassin's Apprentice (The Farseer Trilogy, Book 1)",ROBIN HOBB,1996,7,8.43
-1551665204,Baby Farm,Karen Harper,1999,7,8.43
 0393315703,The Blind Watchmaker: Why the Evidence of Evolution Reveals a Universe Without Design,Richard Dawkins,1996,7,8.43
+1551665204,Baby Farm,Karen Harper,1999,7,8.43
 0966941411,Dreamer,Richard L. Miller,2000,7,8.43
-0440314887,Coming of Age in Mississippi,Anne Moody,1997,7,8.43
 1580050158,Cunt: A Declaration of Independence (Live Girls),Inga Muscio,1998,7,8.43
+0440314887,Coming of Age in Mississippi,Anne Moody,1997,7,8.43
 0142301515,"Crown Duel (Smith, Sherwood. Crown and Court Duet, Bk. 1-2.)",Sherwood Smith,2002,7,8.43
 0886775825,Blood Pact (Daw Book Collectors),Tanya Huff,1997,7,8.43
 0765303817,The Onion Girl (Newford),Charles de Lint,2002,7,8.43
-0440952522,MANY WATERS,MADELEINE L'ENGLE,1987,7,8.43
 0812530055,A College of Magics,Caroline Stevermer,1995,7,8.43
+0440952522,MANY WATERS,MADELEINE L'ENGLE,1987,7,8.43
 067187599X,The CITY WHO FOUGHT (Brainship),Anne McCaffrey,1994,7,8.43
 014012389X,Love in the Time of Cholera,Gabriel Garcia Marquez,1998,7,8.43
 8440627203,El mÃ©dico,Noah Gordon,1992,7,8.43
 0553573357,Blue Mars,Kim Stanley Robinson,1997,7,8.43
 0140255087,The Snow Leopard (Penguin Nature Classics),Peter Matthiessen,1996,7,8.43
-0671020366,"Martyr (Star Trek New Frontier, No 5)",Peter David,1998,7,8.43
 0380775271,"Brother to Dragons, Companion to Owls",Jane Lindskold,1994,7,8.43
+0671020366,"Martyr (Star Trek New Frontier, No 5)",Peter David,1998,7,8.43
 0312146310,James Herriot's Favorite Dog Stories,James Herriot,1996,7,8.43
 0670451932,Cujo,Stephen King,1981,7,8.43
 0671528165,PEOPLE OF THE LIE,M. Scott Peck,1985,7,8.43
@@ -1904,8 +1904,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0312265859,Hard Eight : A Stephanie Plum Novel (A Stephanie Plum Novel),Janet Evanovich,2002,35,8.4
 0670835382,Four Past Midnight,Stephen King,1990,20,8.4
 0671034006,Heartbreaker,Julie Garwood,2001,20,8.4
-0425133516,The Hunt for Red October (Jack Ryan Novels),Tom Clancy,1997,15,8.4
 0440419468,Holes,LOUIS SACHAR,2003,15,8.4
+0425133516,The Hunt for Red October (Jack Ryan Novels),Tom Clancy,1997,15,8.4
 0061020680,Mort (Discworld Novels (Paperback)),Terry Pratchett,2001,15,8.4
 0836220986,The Far Side Observer,Gary Larson,1987,15,8.4
 0743411358,True to Form : A Novel,Elizabeth Berg,2003,10,8.4
@@ -1951,11 +1951,11 @@ ISBN,title,author,year,total_ratings,average_rating
 0385313632,Hard Time (V.I. Warshawski Novels (Hardcover)),SARA PARETSKY,1999,5,8.4
 0451410378,The Silent Bride (April Woo Suspense Novels (Paperback)),Leslie Glass,2002,5,8.4
 0887307884,Dogbert's Top Secret Management Handbook,Scott Adams,1996,5,8.4
-0345442741,Welcome to the Great Mysterious (Ballantine Reader's Circle),LORNA LANDVIK,2002,5,8.4
 0671042408,"Being Human (Star Trek New Frontier, No 12)",Peter David,2001,5,8.4
-0064470288,The Man Without a Face (Keypoint Book),Isabelle Holland,1987,5,8.4
+0345442741,Welcome to the Great Mysterious (Ballantine Reader's Circle),LORNA LANDVIK,2002,5,8.4
 0743411943,The Book of Fred : A Novel,Abby Bardi,2002,5,8.4
 0451127927,Dead Zone,Stephen King,1983,5,8.4
+0064470288,The Man Without a Face (Keypoint Book),Isabelle Holland,1987,5,8.4
 844507119X,Fahrenheit 451 - T.D. -,Ray Bradbury,1997,5,8.4
 0778320480,Destiny Unleashed,Sherryl Woods,2004,5,8.4
 0375703128,The Road to Mars,Eric Idle,2001,5,8.4
@@ -1964,15 +1964,15 @@ ISBN,title,author,year,total_ratings,average_rating
 0140277447,The Rape of Nanking: The Forgotten Holocaust of World War II,Iris Chang,1998,5,8.4
 0893757071,Little Women (Watermill Classic),Louisa May Alcott,1980,5,8.4
 3518367064,Demian. Die Geschichte von Emil Sinclairs Jugend.,Hermann Hesse,1974,5,8.4
-0140622454,A Woman of No Importance (Penguin Popular Classics),Oscar Wilde,2005,5,8.4
 0880385197,"Love and War (Dragonlance Tales, Vol 3)",Margaret Weis,1987,5,8.4
 0671726234,"LOVES MUSIC, LOVES TO DANCE",Mary Higgins Clark,1991,5,8.4
+0140622454,A Woman of No Importance (Penguin Popular Classics),Oscar Wilde,2005,5,8.4
 0060187271,The Last Report on the Miracles at Little No Horse,Louise Erdrich,2001,5,8.4
 0671740504,DEVIL IN A BLUE DRESS : An Easy Rawlins Mystery (Easy Rawlins Mysteries (Paperback)),Walter Mosley,1991,5,8.4
 0590300946,Long Winter,Laura Ingalls Wilder,1995,5,8.4
 078601475X,The Forgotten,Tamara Thorne,2002,5,8.4
-0679767223,My Dog Skip,Willie Morris,1996,5,8.4
 0061083259,Dreamcatcher,Dinah McCall,1996,5,8.4
+0679767223,My Dog Skip,Willie Morris,1996,5,8.4
 0385721633,Tan Veloz Como El Deseo,Laura Esquivel,2001,5,8.4
 0446356859,Sunset Embrace,Sandra Brown,1990,5,8.4
 0446355569,The City of Joy,Dominique Lapierre,1990,5,8.4
@@ -1988,26 +1988,26 @@ ISBN,title,author,year,total_ratings,average_rating
 0451402391,The Search for the Green River Killer,Carlton Smith,1991,5,8.4
 0805068015,Eva Moves the Furniture,Margot Livesey,2001,5,8.4
 0679450432,Dark Lady,Richard North Patterson,1999,5,8.4
-050552208X,A Darker Dream,Amanda Ashley,1997,5,8.4
 037325038X,A Clean Slate (Red Dress Ink),Laura Caldwell,2003,5,8.4
+050552208X,A Darker Dream,Amanda Ashley,1997,5,8.4
 0060007192,Lemony Snicket: The Unauthorized Autobiography,Lemony Snicket,2002,5,8.4
 0553573225,Home Fires,Luanne Rice,1996,5,8.4
 0671504398,Les Miserables (Enriched Classics),Victor Hugo,1983,5,8.4
 0451171128,Cat on a Hot Tin Roof,Tennessee Williams,1989,5,8.4
 1584855177,Isabel: Taking Wing (Girls of Many Lands),Annie Dalton,2002,5,8.4
 0525944885,The Songcatcher: A Ballad Novel,Sharyn McCrumb,2001,5,8.4
-0060976624,Thank You for Smoking,Christopher Buckley,1995,5,8.4
 0385335989,Drums of Autumn,DIANA GABALDON,2001,5,8.4
+0060976624,Thank You for Smoking,Christopher Buckley,1995,5,8.4
 0061054097,Gold : The Final Science Fiction Collection (The Final Sci Fi Coll.),Isaac Asimov,1996,5,8.4
 0140153195,Justine (Alexandria Quartet),Lawrence Durrell,1991,5,8.4
-0345365399,Wolfwalker,Tara K. Harper,1990,5,8.4
 840804866X,El Origen Perdido/Lost Origin,Matilde Asensi,2003,5,8.4
+0345365399,Wolfwalker,Tara K. Harper,1990,5,8.4
 0465014909,The Culture of Fear: Why Americans Are Afraid of the Wrong Things,Barry Glassner,2000,5,8.4
 0449148408,False Prophet: A Peter Decker/Rina Lazarus Mystery (Peter Decker &amp; Rina Lazarus Novels (Paperback)),Faye Kellerman,1994,5,8.4
 0385129912,Night Shift,Stephen King,1993,5,8.4
-0670852341,Mid-Life Confidential: The Rock Bottom Remainders Tour America With Three Chords and an Attitude,Dave Marsh,1994,5,8.4
 0689822804,The Cheerios Play Book,Lee Wade,1998,5,8.4
 0821762982,Beneath a Blood Red Moon (Zebra Romantic Suspense),Shannon Drake,1999,5,8.4
+0670852341,Mid-Life Confidential: The Rock Bottom Remainders Tour America With Three Chords and an Attitude,Dave Marsh,1994,5,8.4
 0374234574,Pleading Guilty,Scott Turow,1993,5,8.4
 0743216458,"Band of Brothers : E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest",Stephen E. Ambrose,2001,5,8.4
 1573240397,Uppity Women of Medieval Times,Vicki Leon,1997,5,8.4
@@ -2016,11 +2016,11 @@ ISBN,title,author,year,total_ratings,average_rating
 1880032627,Creative Visualization: Use the Power of Your Imagination to Create What You Want in Your Life,Shakti Gawain,1995,5,8.4
 0452283507,Lydia Cassatt Reading the Morning Paper: A Novel,Harriet Scott Chessman,2002,5,8.4
 0451526279,Emma (Signet Classics (Paperback)),Jane Austen,1996,5,8.4
-1401300464,Pledged: The Secret Life of Sororities,Alexandra Robbins,2004,5,8.4
 0345383273,Domes of Fire: Book One of the Tamuli (Tamuli),David Eddings,1993,5,8.4
+1401300464,Pledged: The Secret Life of Sororities,Alexandra Robbins,2004,5,8.4
+0312317441,Dead Soul (Ay Adult - Doss),James D. Doss,2003,5,8.4
 0312319142,Paranoia : A Novel,Joseph Finder,2004,5,8.4
 0684803852,Brat Farrar,Josephine Tey,1997,5,8.4
-0312317441,Dead Soul (Ay Adult - Doss),James D. Doss,2003,5,8.4
 0679769781,"We're Right, They're Wrong: A Handbook for Spirited Progressives",James Carville,1996,5,8.4
 0373259883,"A Shameless Seduction  (Heat) (Harlequin Temptation, No. 888)",Janelle Denison,2002,5,8.4
 0316769177,The Catcher in the Rye,J.D. Salinger,2001,5,8.4
@@ -2035,12 +2035,12 @@ ISBN,title,author,year,total_ratings,average_rating
 0380772469,Forever in Your Embrace,Kathleen E. Woodiwiss,1993,5,8.4
 0684867672,The Five Minute Iliad Other Instant Classics : Great Books For The Short Attention Span,Greg Nagan,2000,5,8.4
 0449149056,Mrs. Pollifax and the Second Thief,Dorothy Gilman,1995,5,8.4
-0486270610,The Gift of the Magi and Other Short Stories (Dover Thrift Editions),O. Henry,1992,5,8.4
 0553575279,Fever Season (Benjamin January (Paperback)),BARBARA HAMBLY,1999,5,8.4
+0486270610,The Gift of the Magi and Other Short Stories (Dover Thrift Editions),O. Henry,1992,5,8.4
 0451179188,Throat,Peter Straub,1999,5,8.4
 0449147282,Milk and Honey (Peter Decker &amp; Rina Lazarus Novels (Paperback)),Faye Kellerman,1991,5,8.4
-0812566645,Legends 3,Robert Silverberg,2000,5,8.4
 0064472051,The Hounds of the Morrigan,Pat O'Shea,1999,5,8.4
+0812566645,Legends 3,Robert Silverberg,2000,5,8.4
 0812571290,Factoring Humanity,Robert J. Sawyer,1999,5,8.4
 1860465811,Wind-Up Bird Chronicle,Haruki Murakami,1999,5,8.4
 0740726633,What Do You Call A Sociopath In A Cubicle?  Answer:  A Coworker  (A Dilbert Treasury),Scott Adams,2002,5,8.4
@@ -2052,9 +2052,9 @@ ISBN,title,author,year,total_ratings,average_rating
 081120457X,Captain's Verses (New Directions Paperbook),Pablo Neruda,1972,5,8.4
 0316290238,The Collector (Back Bay Books),John Fowles,1997,5,8.4
 0380793334,Joining,Johanna Lindsey,2000,5,8.4
-0316358428,The Castafiore Emerald (The Adventures of Tintin),Herge,1975,5,8.4
 0345327225,"Mister God, This Is Anna",Fynn,1996,5,8.4
 3453072057,Vaterland.,Robert Harris,1994,5,8.4
+0316358428,The Castafiore Emerald (The Adventures of Tintin),Herge,1975,5,8.4
 0765341840,"From The Two Rivers : The Eye of the World, Book 1 (Wheel of Time (Starscape))",Robert Jordan,2002,5,8.4
 0446677922,The Bottoms,Joe R. Lansdale,2001,5,8.4
 3257231199,Judiths Liebe (Diogenes Taschenbuch),Meir Shalev,1999,5,8.4
@@ -2066,8 +2066,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0743403460,Nefer the Silent,Christian Jacq,2000,5,8.4
 0767912918,Passing for Thin : Losing Half My Weight and Finding My Self,FRANCES KUFFEL,2004,5,8.4
 0330491199,The Hitch Hiker's Guide to the Galaxy (The Hitch Hiker's Guide to the Galaxy),Douglas Adams,2002,5,8.4
-0020446500,Z for Zachariah,Robert C. O'Brien,1987,5,8.4
 0785264280,The Traveler's Gift : Seven Decisions that Determine Personal Success,Andy Andrews,2002,5,8.4
+0020446500,Z for Zachariah,Robert C. O'Brien,1987,5,8.4
 0451198646,The Bargain,Mary Jo Putney,1999,5,8.4
 0380715309,"Mattimeo (Redwall, Book 3)",Brian Jacques,1998,5,8.4
 0440188415,Taming a Sea-Horse,Robert B. Parker,1987,5,8.4
@@ -2081,13 +2081,13 @@ ISBN,title,author,year,total_ratings,average_rating
 0399149368,Prince of Lost Places,Kathy Hepinstall,2003,5,8.4
 0440330076,Go Tell It on the Mountain,James Baldwin,1985,5,8.4
 051509465X,Dancing On My Grave Gelsey Kirkland,Gelsey Kirkland,1987,5,8.4
-0843950463,Night in the Lonesome October,Richard Laymon,2002,5,8.4
 0385423977,The Beauty Myth: How Images of Beauty Are Used Against Women,Naomi Wolf,1992,5,8.4
+0843950463,Night in the Lonesome October,Richard Laymon,2002,5,8.4
 1589199669,A Place Called Wiregrass,Michael Morris,2002,5,8.4
 1591820065,Chobits VOL. 3,Clamp,2002,5,8.4
 0345304225,Spell for Chameleon Xanth,Piers Anthony,1981,5,8.4
-0758205481,Unexpected,Lori Foster,2003,5,8.4
 0441005969,Riddle-Master: The Complete Trilogy,Patricia A. McKillip,1999,5,8.4
+0758205481,Unexpected,Lori Foster,2003,5,8.4
 0786889624,The Hearse You Came in On (Hitchcock Sewell Mysteries (Paperback)),Tim Cockey,2001,5,8.4
 0316096199,Lucky : A Memoir,Alice Sebold,2002,95,8.39
 051513287X,Face the Fire (Three Sisters Island Trilogy),Nora Roberts,2002,54,8.39
@@ -2128,17 +2128,17 @@ ISBN,title,author,year,total_ratings,average_rating
 0394829085,The Berenstain Bears' New Baby (Pictureback Series),Stan Berenstain,1974,8,8.38
 0380899531,Love Only Once (Malory Novels (Paperback)),Johanna Lindsey,1985,8,8.38
 0393307050,Master and Commander (Aubrey-Maturin (Paperback)),Patrick O'Brian,1990,8,8.38
+1551669404,Just Over The Mountain,Robyn Carr,2002,8,8.38
 0805061835,Real Boys: Rescuing Our Sons from the Myths of Boyhood,William Pollack,1999,8,8.38
 0385498411,Woman: An Intimate Geography,Natalie Angier,2000,8,8.38
-1551669404,Just Over The Mountain,Robyn Carr,2002,8,8.38
 3442446414,Mit dem KÃ?Â¼hlschrank durch Irland.,Tony Hawks,2000,8,8.38
 0140008535,The Harp in the South,Ruth Park,1987,8,8.38
 0553560220,Illusion,Paula Volsky,1993,8,8.38
 0671776126,Plain Truth,Jodi Picoult,2000,8,8.38
 0671870963,Prince Charming,Julie Garwood,1995,8,8.38
 0374480133,Tuck Everlasting,Natalie Babbitt,2002,8,8.38
-0684195305,CRUEL AND UNUSUAL,Patricia Cornwell,1993,8,8.38
 0451202821,Her Daughter's Eyes,Jessica Barksdale Inclan,2001,8,8.38
+0684195305,CRUEL AND UNUSUAL,Patricia Cornwell,1993,8,8.38
 0671704184,WEAVEWORLD (The Fantacy Classic),Clive Barker,1989,8,8.38
 0380698439,Behind the Attic Wall (Avon Camelot Books (Paperback)),Sylvia Cassedy,1985,8,8.38
 0553572946,Endymion,DAN SIMMONS,1996,8,8.38
@@ -2259,8 +2259,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0312187459,The Memoirs of Cleopatra: A Novel,Margaret George,1998,9,8.33
 0915811006,Way of the Peaceful Warrior: A Book That Changes Lives (Peaceful Warrior),Dan Millman,1984,9,8.33
 3548603203,Artemis Fowl.,Eoin Colfer,2003,6,8.33
-8432215333,El Perfume: Historia De UN Asesino,Patrick Suskind,1998,6,8.33
 0451171926,Atlas Shrugged,Ayn Rand,1992,6,8.33
+8432215333,El Perfume: Historia De UN Asesino,Patrick Suskind,1998,6,8.33
 0062508113,The World's Religions: Our Great Wisdom Traditions,Huston Smith,1991,6,8.33
 0440241065,Slightly Tempted,MARY BALOGH,2003,6,8.33
 0684813637,John Adams,David McCullough,2001,6,8.33
@@ -2276,12 +2276,12 @@ ISBN,title,author,year,total_ratings,average_rating
 0373240880,"Waiting For Nick  (Those Wild Ukrainians) (Silhouette Special Edition, No 1088)",Nora Roberts,1997,6,8.33
 0515133086,Beyond Seduction,Emma Holly,2002,6,8.33
 0505523302,Dark Prince,Christine Feehan,1999,6,8.33
-0553568167,Star Wars: Tales of the Bounty Hunters (Star Wars (Random House Paperback)),Kevin J. Anderson,1996,6,8.33
 0156006391,The Seville Communion,Arturo Perez-Reverte,1999,6,8.33
+0553568167,Star Wars: Tales of the Bounty Hunters (Star Wars (Random House Paperback)),Kevin J. Anderson,1996,6,8.33
 0451205073,Last Breath,Michael Prescott,2001,6,8.33
 0671553011,HARVEST,Tess Gerritsen,1996,6,8.33
-0743202961,"Every Breath You Take : A True Story of Obsession, Revenge, and Murder",Ann Rule,2001,6,8.33
 0515120448,The Wild Baron,Catherine Coulter,1997,6,8.33
+0743202961,"Every Breath You Take : A True Story of Obsession, Revenge, and Murder",Ann Rule,2001,6,8.33
 0060952520,The Simpsons: A Complete Guide to Our Favorite Family,Matt Groening,1997,6,8.33
 0553564943,Magician: Apprentice (Riftwar Saga),RAYMOND FEIST,1993,6,8.33
 0345388216,Dragonseye (Dragonriders of Pern Series),Anne McCaffrey,1997,6,8.33
@@ -2291,8 +2291,8 @@ ISBN,title,author,year,total_ratings,average_rating
 3453866797,Ring.,Koji Suzuki,2003,6,8.33
 0060177500,Small Gods: A Novel of Discworld,Terry Pratchett,1994,6,8.33
 0743204840,Jolie Blon's Bounce : A Novel,James Lee Burke,2002,6,8.33
-0140067647,The Sunne in Splendour,Sharon Kay Penman,1990,6,8.33
 0451139712,The stand,Stephen King,1980,6,8.33
+0140067647,The Sunne in Splendour,Sharon Kay Penman,1990,6,8.33
 0671606840,FLOWERS IN ATTIC (Dollanger Saga (Paperback)),V. C. Andrews,1985,6,8.33
 042518336X,American Fuji,Sara Backer,2002,6,8.33
 0553802747,Hot Ice,NORA ROBERTS,2002,6,8.33
@@ -2307,8 +2307,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0679740104,Shooting the Boh: A Woman's Voyage Down the Wildest River in Borneo (Vintage Departures),Tracy Johnston,1992,6,8.33
 044100315X,"The Bellmaker (Redwall, Book 7)",Brian Jacques,1996,6,8.33
 006096975X,Bart Simpson's Guide to Life: A Wee Handbook for the Perplexed,Matt Groening,1993,6,8.33
-0140178139,Leviathan (Contemporary American Fiction),Paul Auster,1993,6,8.33
 0875421229,Cunningham's Encyclopedia of Magical Herbs (Llewellyn's Sourcebook Series),Scott Cunningham,1984,6,8.33
+0140178139,Leviathan (Contemporary American Fiction),Paul Auster,1993,6,8.33
 0441117732,Count Zero (Ace Science Fiction),William Gibson,1987,6,8.33
 0399142614,The List,Steven Paul Martini,1997,6,8.33
 0380009471,The Dollmaker,Harriette Arnow,1999,6,8.33
@@ -2321,16 +2321,16 @@ ISBN,title,author,year,total_ratings,average_rating
 074340050X,Avatar Book One of Two (Star Trek Deep Space Nine),S. D. Perry,2001,6,8.33
 0451175816,Dracula,Bram Stoker,1992,6,8.33
 0679722637,The Thin Man (Vintage Crime/Black Lizard),Dashiell Hammett,1992,6,8.33
-0375412336,"Bare: On Women, Dancing, Sex, and Power",Elisabeth Eaves,2002,6,8.33
 0446610674,On Bear Mountain,Deborah Smith,2002,6,8.33
+0375412336,"Bare: On Women, Dancing, Sex, and Power",Elisabeth Eaves,2002,6,8.33
 0553298046,"Specter of the Past (Star Wars: The Hand of Thrawn, Book One)",Timothy Zahn,1998,6,8.33
 031600023X,Worse Than Watergate: The Secret Presidency of George W. Bush,John W. Dean,2004,6,8.33
 0452283930,Gossip Hound,Wendy Holden,2003,6,8.33
-0679851011,"Junie B. Jones and  Some Sneaky Peeky Spying (Junie B. Jones 4, paper)",Barbara Park,1994,6,8.33
 096463161X,Conceived Without Sin,Bud Macfarlane Jr.,1997,6,8.33
+0679851011,"Junie B. Jones and  Some Sneaky Peeky Spying (Junie B. Jones 4, paper)",Barbara Park,1994,6,8.33
 0439286069,Freak the Mighty,Rodman Philbrick,2001,6,8.33
-3499136457,Venusneid.,Rita Mae Brown,1995,6,8.33
 1853260029,Alice in Wonderland (Wordsworth Collection),Lewis Carroll,1998,6,8.33
+3499136457,Venusneid.,Rita Mae Brown,1995,6,8.33
 0446377651,Side Tracked Home Executives,Pam Young,1983,6,8.33
 0843949090,Bliss,Lynsay Sands,2001,6,8.33
 0312867875,Legends: Short Novels by the Masters of Modern Fantasy,Robert Silverberg,1998,6,8.33
@@ -2440,8 +2440,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0399148450,Widow's Walk (Spenser Mysteries (Hardcover)),Robert Parker,2002,7,8.29
 1580050719,The Big Rumpus: A Mother's Tale from the Trenches,Ayun Halliday,2002,7,8.29
 0440180090,Slapstick or Lonesome No More!,Kurt Vonnegut,1992,7,8.29
-0449219372,Murder on the Potomac (Capital Crime Mysteries),Margaret Truman,1995,7,8.29
 0553269151,Inherit the Wind,JEROME LAWRENCE,1982,7,8.29
+0449219372,Murder on the Potomac (Capital Crime Mysteries),Margaret Truman,1995,7,8.29
 0385416342,The Firm,John Grisham,1991,7,8.29
 0689824750,Among the Hidden,Margaret Peterson Haddix,2000,7,8.29
 0380752948,Silver Angel,Johanna Lindsey,1999,7,8.29
@@ -2624,8 +2624,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0451213599,Four Past Midnight,Stephen King,2004,9,8.22
 0553275852,The Monkey's Raincoat,ROBERT CRAIS,1992,9,8.22
 0517554399,"So Long, and Thanks for all the Fish",Douglas Adams,1984,9,8.22
-0449006581,Brothel: Mustang Ranch and Its Women,Alexa Albert,2002,9,8.22
 044022473X,Breach of Promise,Perri O'Shaughnessy,1999,9,8.22
+0449006581,Brothel: Mustang Ranch and Its Women,Alexa Albert,2002,9,8.22
 087542127X,The Truth About Witchcraft Today (Llewellyn's New Age),Scott Cunningham,1988,9,8.22
 0821742841,Lady of the Forest,Jennifer Roberson,1993,9,8.22
 0060083298,The Dominant Blonde,Alisa Kwitney,2002,9,8.22
@@ -2663,8 +2663,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0515134279,The Straw Men,Michael Marshall,2002,15,8.2
 0515131083,Plantation: A Lowcountry Tale,Dorothea Benton Frank,2001,15,8.2
 0802132758,Rosencrantz &amp; Guildenstern Are Dead,Tom Stoppard,1991,15,8.2
-0380756285,Angel,Johanna Lindsey,1992,10,8.2
 0671873210,Tarnished Gold (Landry),V.C. Andrews,1996,10,8.2
+0380756285,Angel,Johanna Lindsey,1992,10,8.2
 0385317093,Granny Dan,DANIELLE STEEL,1999,10,8.2
 0821769367,The Night Before,Lisa Jackson,2003,10,8.2
 0061093653,Twelve Red Herrings,Jeffrey Archer,1995,10,8.2
@@ -2683,32 +2683,32 @@ ISBN,title,author,year,total_ratings,average_rating
 0679436073,Spontaneous Healing: How to Discover and Enhance Your Body's Natural Ability to Maintain and Heal Itself,Andrew Weil,1995,5,8.2
 8440616368,"Ocho, El",Katherine Neville,1991,5,8.2
 0345359925,The Power of One,Bryce Courtenay,1992,5,8.2
-1555912400,Biblioholism: The Literary Addiction,Tom Raabe,2001,5,8.2
 0679770151,Sleeping at the Starlite Motel: And Other Adventures on the Way Back Home,Bailey White,1996,5,8.2
+1555912400,Biblioholism: The Literary Addiction,Tom Raabe,2001,5,8.2
+0060965819,Simpson's Christmas Book,Matt Groening,1990,5,8.2
 0684845067,COURTNEY LOVE,Poppy Z. Brite,1997,5,8.2
 0446603988,The Hippopotamus Pool (Amelia Peabody Mysteries (Paperback)),Elizabeth Peters,1997,5,8.2
-0060965819,Simpson's Christmas Book,Matt Groening,1990,5,8.2
 0618260269,"The Fellowship of the Ring (The Lord of the Rings, Part 1)",J. R. R. Tolkien,2002,5,8.2
 0689843372,Gingerbread,Rachel Cohn,2002,5,8.2
 0446679046,"Dorothy Parker's Elbow: Tattoos on Writers, Writers on Tattoos",Kim Addonizio,2002,5,8.2
 1573223565,Songbook,Nick Hornby,2003,5,8.2
 0380709120,Henry Huggins (50th Anniversary Edition),Beverly Cleary,1990,5,8.2
 0553581112,Justice Hall: A Mary Russell Novel (Mary Russell Novels (Paperback)),Laurie R. King,2003,5,8.2
-0679813438,The Black Stallion (Black Stallion (Paperback)),WALTER FARLEY,1991,5,8.2
 3257211945,Das Hotel New Hampshire,John Irving,1998,5,8.2
+0679813438,The Black Stallion (Black Stallion (Paperback)),WALTER FARLEY,1991,5,8.2
 030700645X,"Eeyore, Be Happy (Little Golden Book)",Don Ferguson,1996,5,8.2
 0441007554,All Tomorrow's Parties,William Gibson,2000,5,8.2
 0156997789,You Can't Keep a Good Woman Down,Alice Walker,1982,5,8.2
 037571894X,A Wild Sheep Chase,Haruki Murakami,2002,5,8.2
 0553110616,"House Atreides (Dune: House Trilogy, Book 1)",Brian Herbert,1999,5,8.2
-0679756450,Portnoy's Complaint,Philip Roth,1994,5,8.2
 0385312377,The Butcher Boy,Patrick McCabe,1994,5,8.2
+0679756450,Portnoy's Complaint,Philip Roth,1994,5,8.2
 0451406095,"Before He Wakes: A True Story of Money, Marriage, Sex, and Murder",Jerry Bledsoe,1996,5,8.2
 9681500555,Diario de Ana Frank,Anne Frank,2000,5,8.2
-0590442562,Weekend (Point),Christopher Pike,1993,5,8.2
 3453210719,Ich ein Tag sprechen hÃ?Â¼bsch.,David Sedaris,2002,5,8.2
-0451524357,Complete Fairy Tales of Oscar Wilde,Oscar Wilde,1996,5,8.2
+0590442562,Weekend (Point),Christopher Pike,1993,5,8.2
 0743412346,Sir Apropos of Nothing,Peter David,2002,5,8.2
+0451524357,Complete Fairy Tales of Oscar Wilde,Oscar Wilde,1996,5,8.2
 0684825546,ZORBA THE GREEK,Nikos Kazantzakis,1996,5,8.2
 0373250347,Lucy's Launderette (Red Dress Ink),Betsy Burke,2003,5,8.2
 0745926290,At Home in Mitford (The Mitford Years),Jan Karon,1994,5,8.2
@@ -2726,8 +2726,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0425180905,The Spirit Woman,Margaret Coel,2001,5,8.2
 059044297X,"Clifford, the Big Red Dog (Clifford the Big Red Dog (Paperback))",Norman Bridwell,1985,5,8.2
 0140441476,Fathers and Sons (Penguin Classics),Ivan Sergeevich Turgenev,1992,5,8.2
-0070064601,Family: The Ties That Bind and Gag!,Erma Bombeck,1987,5,8.2
 0553260669,Gather Together in My Name,MAYA ANGELOU,1985,5,8.2
+0070064601,Family: The Ties That Bind and Gag!,Erma Bombeck,1987,5,8.2
 1556611536,"Julia's Last Hope (Oke, Janette, Women of the West.)",Janette Oke,1990,5,8.2
 0439098645,Aquamarine,Alice Hoffman,2002,5,8.2
 0451176723,Mitigating Circumstances,Nancy Taylor Rosenberg,1993,5,8.2
@@ -2745,8 +2745,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0062554468,Codependent No More: How to Stop Controlling Others and Start Caring for Yourself,Melody Beattie,1992,5,8.2
 0671774662,The Outsider,Melinda Metz,1999,5,8.2
 0812510011,N-Space,Larry Niven,1991,5,8.2
-0717284832,101 Dalmatians,Walt Disney,1995,5,8.2
 0375706429,Otherwise Engaged,Suzanne Finnamore,2000,5,8.2
+0717284832,101 Dalmatians,Walt Disney,1995,5,8.2
 0449207757,Davita's Harp,Chaim Potok,1990,5,8.2
 0805061762,"A Gentle Madness : Bibliophiles, Bibliomanes, and the Eternal Passion for Books",Nicholas A. Basbanes,1999,5,8.2
 0812510356,Sati,Christopher Pike,1991,5,8.2
@@ -2758,9 +2758,9 @@ ISBN,title,author,year,total_ratings,average_rating
 0380812010,All About Love (Cynster Novels),Stephanie Laurens,2001,5,8.2
 038531387X,Deliverance,JAMES DICKEY,1994,5,8.2
 0449209113,In the Beginning,Chaim Potok,1989,5,8.2
-0812515609,"People of the Mist (The First North Americans series, Book 9)",Kathleen O'Neal Gear,1998,5,8.2
 0385336322,"Ransom (Steel, Danielle)",DANIELLE STEEL,2004,5,8.2
 0060391480,Microserfs,Douglas Coupland,1995,5,8.2
+0812515609,"People of the Mist (The First North Americans series, Book 9)",Kathleen O'Neal Gear,1998,5,8.2
 0140150625,Portable Nietzsche (Viking Portable Library),Friedrich Nietzsche,1977,5,8.2
 051513399X,Smoke in Mirrors,Jayne Ann Krentz,2002,5,8.2
 1558748008,"Chicken Soup for the Preteen Soul - 101 Stories of Changes, Choices and Growing Up for Kids, ages 10-13",Jack Canfield,2000,5,8.2
@@ -2768,11 +2768,11 @@ ISBN,title,author,year,total_ratings,average_rating
 0451458621,Priestess Of Avalon,Marion Zimmer Bradley,2002,5,8.2
 0451522907,Flatland: A Romance of Many Dimensions (Signet Classics (Paperback)),Edwin Abbott Abbott,1984,5,8.2
 0671042513,The Last Chance Cafe : A Novel,Linda Lael Miller,2003,5,8.2
-0140328742,The Wonderful Story of Henry Sugar and Six More,Roald Dahl,1988,5,8.2
 0451527100,The Communist Manifesto,Karl Marx,1998,5,8.2
-0805065415,Blue Latitudes: Boldly Going Where Captain Cook Has Gone Before,Tony Horwitz,2002,5,8.2
+0140328742,The Wonderful Story of Henry Sugar and Six More,Roald Dahl,1988,5,8.2
 1591823269,Fake (Fake),Sanami Matoh,2003,5,8.2
 0373790856,"Show &amp; Tell (Harlequin Blaze, No 81)",Rhonda Nelson,2003,5,8.2
+0805065415,Blue Latitudes: Boldly Going Where Captain Cook Has Gone Before,Tony Horwitz,2002,5,8.2
 0307021106,The Saggy Baggy Elephant,K. Jackson,1999,5,8.2
 0425126870,The Complete Bartender,Robyn M. Feller,1995,5,8.2
 0836278445,Don'T Step In The Leadership:A Dilbert Book,Scott Adams,1999,5,8.2
@@ -2839,10 +2839,10 @@ ISBN,title,author,year,total_ratings,average_rating
 0679736654,A Scanner Darkly,Philip K. Dick,1991,5,8.2
 0380821214,Eric (Discworld Novels (Paperback)),Terry Pratchett,2002,5,8.2
 0843950455,What She Wants,Lynsay Sands,2002,5,8.2
-0743442245,The Road to Perdition,Max Allan Collins,2002,5,8.2
 006019958X,Savannah Blues,Mary Kay Andrews,2002,5,8.2
-0836267451,"Journey To Cubeville-Dilbert Collection #12 (Adams, Scott, Dilbert Book.)",Scott Adams,1998,5,8.2
 0060008865,Do No Harm,Gregg Hurwitz,2002,5,8.2
+0743442245,The Road to Perdition,Max Allan Collins,2002,5,8.2
+0836267451,"Journey To Cubeville-Dilbert Collection #12 (Adams, Scott, Dilbert Book.)",Scott Adams,1998,5,8.2
 0192834622,The Tenant of Wildfell Hall (Oxford World's Classics),Anne Bronte,1998,5,8.2
 0786885912,The Lobster Chronicles : Life On a Very Small Island,Linda Greenlaw,2003,5,8.2
 0886779898,Brightly Burning,Mercedes Lackey,2001,5,8.2
@@ -2949,8 +2949,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0345346971,Mirror of Her Dreams (Mordant's Need),STEPHEN R. DONALDSON,1987,6,8.17
 0441003583,The Godmother's Apprentice,Elizabeth Ann Scarborough,1996,6,8.17
 0141301074,The Twits (Puffin Novels),Roald Dahl,1998,6,8.17
-0812524853,Burning Water (Burning Water),Mercedes Lackey,1992,6,8.17
 0786889187,Cadillac Jukebox (Dave Robicheaux Mysteries (Paperback)),James Lee Burke,1997,6,8.17
+0812524853,Burning Water (Burning Water),Mercedes Lackey,1992,6,8.17
 0375420827,The Art of Travel,Alain de Botton,2002,6,8.17
 0590457403,Emergency Room (Point),Caroline B. Cooney,1994,6,8.17
 0449213358,Hawaii,James A. Michener,1994,6,8.17
@@ -2968,17 +2968,17 @@ ISBN,title,author,year,total_ratings,average_rating
 847223682X,LA Insoportable Levedad Del Ser/the Unbearable Lightness of Being,Milan Kundera,1993,6,8.17
 0312875681,Forests of the Heart (Newford),Charles de Lint,2001,6,8.17
 080411160X,Sleeping Dogs,Thomas Perry,1993,6,8.17
-0446364266,French Silk,Sandra Brown,1993,6,8.17
 1565123824,Single Wife: A Novel,Nina Solomon,2003,6,8.17
+0446364266,French Silk,Sandra Brown,1993,6,8.17
 0140309578,Pippi Longstocking (Seafarer Book),Astrid Ericsson Lindgren,1997,6,8.17
 0374529035,Naked in Baghdad: The Iraq War as Seen by NPR's Correspondent Anne Garrels,Anne Garrels,2003,6,8.17
 0446519650,You Just Don't Duct Tape a Baby!: True Tales and Sensible Suggestions from a Veteran Pediatrician,Norman Weinberger,1997,6,8.17
 1844261085,A Book Without Covers,John Andrew Storey,2003,6,8.17
 0451199871,The Body in the Library (Miss Marple Mysteries (Paperback)),Agatha Christie,2000,6,8.17
 0394743199,"Gods, Graves, and Scholars: The Story of Archaeology",C. W. Ceram,1986,6,8.17
-0380012057,"Gabriela, Clove and Cinnamon",Jorge Amado,1982,6,8.17
 0743428617,Midnight Flight (Broken Wings),V.C. Andrews,2003,6,8.17
 0671731424,Wolf's Hour,Robert McCammon,1990,6,8.17
+0380012057,"Gabriela, Clove and Cinnamon",Jorge Amado,1982,6,8.17
 0061056219,The Lions of Al-Rassan,Guy Gavriel Kay,1996,6,8.17
 0505524686,Midnight Embrace,Amanda Ashley,2002,6,8.17
 0440117658,Deadeye Dick,"Kurt, Jr. Vonnegut",1996,6,8.17
@@ -2987,9 +2987,9 @@ ISBN,title,author,year,total_ratings,average_rating
 0671017063,The Cases That Haunt Us,John Douglas,2001,6,8.17
 0375411089,Skinny Dip,Carl Hiaasen,2004,6,8.17
 0395866502,The Book of Ruth (Oprah's Book Club (Hardcover)),Jane Hamilton,1996,6,8.17
-0374386137,A Wrinkle in Time,Madeleine L'Engle,1962,6,8.17
 0786867345,Carter Beats the Devil,Glen Gold,2001,6,8.17
 0380765489,Shoot Don't Shoot: A Joanna Brady Mystery,J.A. Jance,1996,6,8.17
+0374386137,A Wrinkle in Time,Madeleine L'Engle,1962,6,8.17
 880781000X,La Casa Degli Spiriti,Isabel Allende,1995,6,8.17
 0385334710,Looking Back,Belva Plain,2001,6,8.17
 0486290301,The Metamorphosis and Other Stories (Dover Thrift Editions),Franz Kafka,1996,6,8.17
@@ -2997,9 +2997,9 @@ ISBN,title,author,year,total_ratings,average_rating
 0064440516,Little Bear's Friend,Else Holmelund Minarik,1984,6,8.17
 0553213458,Alice's Adventures in Wonderland and Through the Looking Glass (Bantam Classics),Lewis Carroll,1984,6,8.17
 0441029205,Ariel/Book of Change,Steven Boyett,1983,6,8.17
-0140088393,"Son of \It Was a Dark and Stormy Night\"": More of the Best (? from the Bulwer-Lytton Contest)""",Scott Rice,1986,6,8.17
 0671898841,FROM TIME TO TIME : THE SEQUEL TO TIME AND AGAIN,Jack Finney,1995,6,8.17
 0590554093,"Tris's Book (Circle of Magic, 2)",Tamora Pierce,1999,6,8.17
+0140088393,"Son of \It Was a Dark and Stormy Night\"": More of the Best (? from the Bulwer-Lytton Contest)""",Scott Rice,1986,6,8.17
 0451204948,A Day Late and a Dollar Short,Terry McMillan,2002,6,8.17
 0312983751,Take a Chance on Me,Susan Donovan,2003,6,8.17
 8495359537,Sin Destino,Imre Kertesz,2001,6,8.17
@@ -3020,8 +3020,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0425193896,Cutwork,Monica Ferris,2004,6,8.17
 0875961517,"Women's Encyclopedia of Health &amp; Emotional Healing: Top Women Doctors Share Their Unique Self-Help Advice on Your Body, Your Feelings and Your Life",Denise Foley,1993,6,8.17
 0425168700,Fortune's Daughter,Alice Hoffman,1999,6,8.17
-0786864516,The Hungry Ocean : A Swordboat Captain's Journey,Linda Greenlaw,1999,6,8.17
 0751510114,Gridlock,Ben Elton,1992,6,8.17
+0786864516,The Hungry Ocean : A Swordboat Captain's Journey,Linda Greenlaw,1999,6,8.17
 0345463927,Dead Wrong,MARIAH STEWART,2004,6,8.17
 3446173471,Sofies Welt. Ein Roman Ã?Â¼ber die Geschichte der Philosophie. ( Ab 14 J.).,Jostein Gaarder,1993,6,8.17
 0375751513,The Picture of Dorian Gray (Modern Library (Paperback)),OSCAR WILDE,1998,6,8.17
@@ -3038,8 +3038,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0553212443,A Christmas Carol (Bantam Classic),CHARLES DICKENS,1986,6,8.17
 068485080X,DIANA HER TRUE STORY COMMEMORATIVE EDITION,Andrew Morton,1997,6,8.17
 0345422554,Polgara the Sorceress (Malloreon (Paperback Random House)),David Eddings,1999,6,8.17
-0060504110,Die in Plain Sight,Elizabeth Lowell,2004,6,8.17
 0385721358,Look at Me,Jennifer Egan,2002,6,8.17
+0060504110,Die in Plain Sight,Elizabeth Lowell,2004,6,8.17
 0821768379,Deep Midnight,Shannon Drake,2001,6,8.17
 0060931671,The Crying of Lot 49,Thomas Pynchon,1999,6,8.17
 0451524209,The Jungle,Upton Beall Sinclair,1981,6,8.17
@@ -3114,8 +3114,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0767912365,"Ciao, America: An Italian Discovers the U.S",Beppe Severgnini,2003,7,8.14
 0316152196,Angels Flight (Detective Harry Bosch Mysteries),Michael Connelly,1999,7,8.14
 0762406984,"The World's Shortest Stories of Love and Death: Passion, Betrayal, Suspicion, Revenge, All This and More in a New Collection of Amazing Short Stories-Each One Just 55 Words Long",Steve Moss,2000,7,8.14
-0060532149,Bare Necessity,Carole Matthews,2003,7,8.14
 0590483498,"Night of the Living Dummy II  (Goosebumps, No 31)",R. L. Stine,1995,7,8.14
+0060532149,Bare Necessity,Carole Matthews,2003,7,8.14
 0876855575,Ham on Rye,Charles Bukowski,1982,7,8.14
 0312863551,The Moon Is a Harsh Mistress,Robert A. Heinlein,1997,7,8.14
 0451525795,My Antonia (Signet Classic),Willa Cather,1994,7,8.14
@@ -3138,8 +3138,8 @@ ISBN,title,author,year,total_ratings,average_rating
 155166738X,The Highlander,Elaine Coffman,2003,7,8.14
 0345367693,Diamond Throne (Elenium (Paperback)),David Eddings,1990,7,8.14
 0671681567,INCA GOLD,Clive Cussler,1994,7,8.14
-014044100X,The Epic of Gilgamesh: An English Version With an Introduction (Penguin Classics),N.K. Sandars,1972,7,8.14
 0671467263,LIFE UNIVERS EVRTH (Hitchhiker's Trilogy (Paperback)),Douglas Adams,1983,7,8.14
+014044100X,The Epic of Gilgamesh: An English Version With an Introduction (Penguin Classics),N.K. Sandars,1972,7,8.14
 0553571834,Haunting Rachel,KAY HOOPER,1999,7,8.14
 0451205367,The Richest Man in Babylon,George S. Clason,2004,7,8.14
 0345313860,"The Vampire Lestat (Vampire Chronicles, Book II)",ANNE RICE,1986,112,8.13
@@ -3163,8 +3163,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0345410017,Fahrenheit 451,RAY BRADBURY,1996,8,8.13
 8466303316,La fiesta del chivo,Mario Vargas Llosa,2001,8,8.13
 0671020943,Thrill,Jackie Collins,1998,8,8.13
-0380709163,Ramona and Her Father (Avon Camelot Books (Paperback)),Beverly Cleary,1999,8,8.13
 0060558865,Ella Enchanted (rack),Gail Carson Levine,2004,8,8.13
+0380709163,Ramona and Her Father (Avon Camelot Books (Paperback)),Beverly Cleary,1999,8,8.13
 0061059056,Hogfather,Terry Pratchett,1999,8,8.13
 0399135782,The Kitchen God's Wife,Amy Tan,1991,8,8.13
 0553210351,The Death of Ivan Ilyich,LEO TOLSTOY,1981,8,8.13
@@ -3178,12 +3178,12 @@ ISBN,title,author,year,total_ratings,average_rating
 038072121X,In the Electric Mist with Confederate Dead,James L. Burke,1994,8,8.13
 0345348656,"Lord Foul's Bane (The Chronicles of Thomas Covenant the Unbeliever, Book 1)",Stephen R. Donaldson,1984,8,8.13
 3442444365,Das Haus der Schwestern.,Charlotte Link,1999,8,8.13
-0451524829,The Phantom of the Opera (Signet Classics (Paperback)),Gaston Leroux,1990,8,8.13
 0316812471,Revolution from Within : A Book of Self-Esteem,Gloria Steinem,1993,8,8.13
+0451524829,The Phantom of the Opera (Signet Classics (Paperback)),Gaston Leroux,1990,8,8.13
 0553106333,Ashes to Ashes,Tami Hoag,1999,8,8.13
 0312185863,Four to Score (A Stephanie Plum Novel),Janet Evanovich,1998,8,8.13
-044900483X,Children of God (Ballantine Readers Circle),Mary Doria Russell,1999,8,8.13
 3518381768,Das Geisterhaus. Roman.,Isabel Allende,1989,8,8.13
+044900483X,Children of God (Ballantine Readers Circle),Mary Doria Russell,1999,8,8.13
 0312971397,Cuba (A Jake Grafton Novel),Stephen Coonts,2000,8,8.13
 1551667223,Flamingo Diner,Sherryl Woods,2003,8,8.13
 0399142495,Small Town Girl,LaVyrle Spencer,1997,8,8.13
@@ -3555,8 +3555,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0060080841,The Stepford Wives,Ira Levin,2002,11,8.0
 3442727952,GefÃ?Â¤hrliche Geliebte.,Haruki Murakami,2002,11,8.0
 0449911357,Fried Green Tomatoes at the Whistle Stop Cafe (Ballantine Reader's Circle),Fannie Flagg,1997,11,8.0
-0553296124,"Heir to the Empire (Star Wars: The Thrawn Trilogy, Vol. 1)",Timothy Zahn,1998,11,8.0
 042518904X,Widow's Walk,Robert B. Parker,2003,11,8.0
+0553296124,"Heir to the Empire (Star Wars: The Thrawn Trilogy, Vol. 1)",Timothy Zahn,1998,11,8.0
 0553573985,Gibbon's Decline and Fall,Sheri S. Tepper,1997,11,8.0
 0345404793,Protect and Defend,Richard North Patterson,2001,11,8.0
 1853260169,Sense and Sensibility (Wordsworth Classics),Jane Austen,1997,11,8.0
@@ -3625,8 +3625,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0451210751,Blue Skies,Catherine Anderson,2004,9,8.0
 0515137200,Blindside,Catherine Coulter,2004,9,8.0
 0449911594,Dinner at the Homesick Restaurant : A Novel,ANNE TYLER,1996,8,8.0
-155166948X,Prince Joe,Suzanne Brockmann,2002,8,8.0
 0451194004,Rosemary's Baby,Ira Levin,1997,8,8.0
+155166948X,Prince Joe,Suzanne Brockmann,2002,8,8.0
 0451451384,"The Summer Tree (The Fionavar Tapestry, Book 1)",Guy Gavriel Kay,1994,8,8.0
 0020442408,Prince Caspian,C. S. Lewis,1970,8,8.0
 0449909735,Dave Barry Is Not Making This Up,Dave Barry,1995,8,8.0
@@ -3674,8 +3674,8 @@ ISBN,title,author,year,total_ratings,average_rating
 045121157X,Monkeewrench,P. J. Tracy,2004,8,8.0
 0553569473,Rama Revealed (Bantam Spectra Book),Arthur C. Clarke,1995,8,8.0
 0451459067,Dhampir,Barb Hendee,2003,8,8.0
-0449219569,Comeback,Dick Francis,1994,8,8.0
 0385285965,Legends of the Fall,Jim Harrison,1980,8,8.0
+0449219569,Comeback,Dick Francis,1994,8,8.0
 0373872127,The Courage to Dream,Margaret Daley,2003,7,8.0
 037383568X,Buckhorn Brothers: Casey,Lori Foster,2002,7,8.0
 051512902X,After Dark,Jayne Castle,2000,7,8.0
@@ -3705,10 +3705,10 @@ ISBN,title,author,year,total_ratings,average_rating
 0812533534,Seventh Son (Tales of Alvin Maker (Paperback)),Orson Scott Card,1988,7,8.0
 0061099643,Imajica,Clive Barker,1992,7,8.0
 067943853X,Of Love And Other Demons,GABRIEL GARCIA MARQUEZ,1995,7,8.0
-0553561278,For the Sake of Elena,Elizabeth George,1993,7,8.0
 0671870998,The Wedding,Julie Garwood,1996,7,8.0
-1551666650,Hurricane Bay,Heather Graham,2003,7,8.0
+0553561278,For the Sake of Elena,Elizabeth George,1993,7,8.0
 0786886307,Stolen Lives : Twenty Years in a Desert Jail (Oprah's Book Club (Paperback)),Malika Oufkir,2002,7,8.0
+1551666650,Hurricane Bay,Heather Graham,2003,7,8.0
 0340682272,Snap Happy,Fiona Walker,1999,7,8.0
 0060520507,"Sushi for Beginners : A Novel (Keyes, Marian)",Marian Keyes,2003,7,8.0
 0553257382,When the Legends Die,Hal Borland,1984,7,8.0
@@ -3739,8 +3739,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0553277464,Beaches,Iris Rainer Dart,1990,7,8.0
 0451458508,The Pillars of the World,Anne Bishop,2001,7,8.0
 0380779617,Annie's Song,Catherine Anderson,1996,7,8.0
-0380978857,The Golden One,Elizabeth Peters,2002,7,8.0
 014043223X,The Portrait of a Lady (Penguin Classics),Henry James,1988,7,8.0
+0380978857,The Golden One,Elizabeth Peters,2002,7,8.0
 042519471X,A Superior Death (Anna Pigeon Mysteries (Paperback)),Nevada Barr,2003,7,8.0
 0385333498,The Sirens of Titan,Kurt Vonnegut,1998,7,8.0
 0385315147,Smilla's Sense of Snow,Peter Hoeg,1995,7,8.0
@@ -3755,8 +3755,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0553574116,Wicked Widow,Amanda Quick,2001,6,8.0
 0060081961,Once Upon a Town: The Miracle of the North Platte Canteen,Bob Greene,2002,6,8.0
 0671526723,Audrey Hepburns Neck,Alan Brown,1997,6,8.0
-1885211155,Gutsy Women: Travel Tips and Wisdom for the Road (Travelers' Tales),Marybeth Bond,1996,6,8.0
 038081479X,Heart of a Warrior,Johanna Lindsey,2002,6,8.0
+1885211155,Gutsy Women: Travel Tips and Wisdom for the Road (Travelers' Tales),Marybeth Bond,1996,6,8.0
 0060557818,Neverwhere : A Novel,Neil Gaiman,2003,6,8.0
 038081658X,The Fresco,Sheri S. Tepper,2002,6,8.0
 0553212982,Macbeth (Bantam Classics),William Shakespeare,1988,6,8.0
@@ -3768,8 +3768,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0886775876,The Legend of Nightfall (Daw Book Collectors),Mickey Zucker Reichert,1993,6,8.0
 0886772540,"Exile's Gate (Morgaine Saga, Book 4)",C.J. Cherryh,1988,6,8.0
 0425179648,Marrying the Mistress,Joanna Trollope,2001,6,8.0
-0451524497,Anna Karenina (Signet Classics (Paperback)),Leo Tolstoy,1988,6,8.0
 006447352X,Fire and Hemlock,Diana Wynne Jones,2002,6,8.0
+0451524497,Anna Karenina (Signet Classics (Paperback)),Leo Tolstoy,1988,6,8.0
 037570387X,The Autograph Man: A Novel (Vintage International (Paperback)),Zadie Smith,2003,6,8.0
 0451525027,"Innocents Abroad or the New Pilgrims Progress: Being Some Account of the Steamship Quaker City's Pleasure Excursion to Europe and the Holy Land : With Descriptions of Countries, Nations, Incidents",Mark Twain,1997,6,8.0
 0486275574,Romeo and Juliet (Dover Thrift Editions),William Shakespeare,1993,6,8.0
@@ -3794,8 +3794,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0553583611,Fatal,MICHAEL PALMER,2003,6,8.0
 0525946756,Skipping Towards Gomorrah: The Seven Deadly Sins and the Pursuit of Happiness in America,Dan Savage,2002,6,8.0
 0380800810,How to Marry a Marquis (Avon Romantic Treasure),Julia Quinn,1999,6,8.0
-0060392991,Have a Nice Day : A Tale of Blood and Sweatsocks,Mick Foley,1999,6,8.0
 0486284999,Narrative of the Life of Frederick Douglass (Dover Thrift Editions),Frederick Douglass,1995,6,8.0
+0060392991,Have a Nice Day : A Tale of Blood and Sweatsocks,Mick Foley,1999,6,8.0
 0061013412,Orchid Beach (Holly Barker Novels (Paperback)),Stuart Woods,1999,6,8.0
 0671003518,The BRIDE - PROMOTIONAL,Julie Garwood,1996,6,8.0
 0812558626,Briar Rose,Jane Yolen,1993,6,8.0
@@ -3812,16 +3812,16 @@ ISBN,title,author,year,total_ratings,average_rating
 0486277860,The Awakening (Dover Thrift Editions),Kate Chopin,1993,6,8.0
 0380814382,True Confessions (Avon Romance),Rachel Gibson,2001,6,8.0
 3426616904,About a Boy,Nick Hornby,2002,6,8.0
-0743255224,Name All the Animals : A Memoir,Alison Smith,2004,6,8.0
 0060175818,The First Eagle,Tony Hillerman,1998,6,8.0
+0743255224,Name All the Animals : A Memoir,Alison Smith,2004,6,8.0
 0812507428,"People of the Earth (The First North Americans series, Book 3)",W. Michael Gear,1992,6,8.0
 0553583905,Kingdom Of Moonlight,Josie Litton,2002,6,8.0
 0385335970,Dragonfly in Amber,DIANA GABALDON,2001,6,8.0
 0972393617,Ultimate Unofficial Guide to the Mysteries of Harry Potter,Galadriel Waters,2003,6,8.0
 140004832X,Ambulance Girl: How I Saved Myself by Becoming an EMT,JANE STERN,2003,6,8.0
 0451193288,Reckless Endangerment,Robert K. Tanenbaum,1999,6,8.0
-0140241930,Lady of Avalon,Marion Zimmer Bradley,1998,6,8.0
 0451210727,Murder of a Barbie and Ken (National Bestselling Series),Denise Swanson,2003,6,8.0
+0140241930,Lady of Avalon,Marion Zimmer Bradley,1998,6,8.0
 0061093580,Heat,Stuart Woods,1995,6,8.0
 1576738582,The Facts of Life : And Other Lessons My Father Taught Me,Lisa Whelchel,2001,6,8.0
 0786868414,Leadership,Rudolph W. Giuliani,2002,6,8.0
@@ -3840,9 +3840,9 @@ ISBN,title,author,year,total_ratings,average_rating
 0517577550,Dave Barry Turns 40,Dave Barry,1990,6,8.0
 0671722131,Some Can Whistle,Larry McMurtry,1990,6,8.0
 0842329145,Nicolae: The Rise of Antichrist (Left Behind #3),Tim Lahaye,1997,6,8.0
+0345350480,Castle Roogna (Xanth Novels (Paperback)),Piers Anthony,1989,6,8.0
 0812509234,"Alvin Journeyman (Tales of Alvin Maker, Book 4)",Orson Scott Card,1996,6,8.0
 0020518609,Short Stories of Ernest Hemingway (A Scribner classic),Ernest Hemingway,1987,6,8.0
-0345350480,Castle Roogna (Xanth Novels (Paperback)),Piers Anthony,1989,6,8.0
 042513024X,The A.B.C. Murders,Agatha Christie,1993,6,8.0
 0312289197,Queenmaker: A Novel of King David's Queen,India Edghill,2002,6,8.0
 0756400619,The Serpent's Shadow,Mercedes Lackey,2002,6,8.0
@@ -3901,17 +3901,17 @@ ISBN,title,author,year,total_ratings,average_rating
 0743454510,Second Glance : A Novel,Jodi Picoult,2004,5,8.0
 0448089025,The House on the Cliff  (The Hardy Boys Mystery Stories 2),Franklin W. Dixon,1991,5,8.0
 1580050298,The Mother Trip: Hip Mama's Guide to Staying Sane in the Chaos of Motherhood,Ariel Gore,2000,5,8.0
-0553574582,With Child,Laurie R. King,1997,5,8.0
 0684852624,Shadow : Five Presidents and the Legacy of Watergate,Bob Woodward,1999,5,8.0
+0553574582,With Child,Laurie R. King,1997,5,8.0
 0679428879,Enigma,Robert Harris,1995,5,8.0
 0689831285,Just Ella,Margaret Peterson Haddix,2001,5,8.0
 0452282292,Cool Dead People: Obituaries of Real Folks We Wish We'd Met a Little Sooner,Jane O'Boyle,2001,5,8.0
 0312977689,Deadly Pleasure,Brenda Joyce,2002,5,8.0
 0441011020,Chindi,Jack McDevitt,2003,5,8.0
 0806518871,21st Century Wicca: A Young Witch's Guide to Living the Magical Life (Citadel Library of the Mystic Arts),Jennifer Hunter,1997,5,8.0
-0778320448,The Shop On Blossom Street,Debbie Macomber,2004,5,8.0
 0345334019,Escape the Night,Richard North Patterson,1995,5,8.0
 0449221873,Mexico,James A. Michener,1994,5,8.0
+0778320448,The Shop On Blossom Street,Debbie Macomber,2004,5,8.0
 0380757494,Piers Anthony's Visual Guide to Xanth (Xanth Novels (Paperback)),Piers Anthony,1989,5,8.0
 0380812916,Tokyo Suckerpunch : A Billy Chaka Adventure,Isaac Adamson,2000,5,8.0
 0452262933,1984,George Orwell,1983,5,8.0
@@ -3920,8 +3920,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0451210980,Bachelorette #1,Jennifer L. O'Connell,2003,5,8.0
 1560760478,Sojourn (Forgotten Realms Novel: Dark Elf Trilogy),R.A. Salvatore,1991,5,8.0
 0525244581,The Tao of Pooh,Benjamin Hoff,1982,5,8.0
-1558749330,"Chicken Soup for the Nurse's Soul: 101 Stories to Celebrate, Honor and Inspire the Nursing Profession",Jack Canfield,2001,5,8.0
 0307987655,"Eeyore, You're the Best (Disney's Pooh)",Ann Braybrooks,1996,5,8.0
+1558749330,"Chicken Soup for the Nurse's Soul: 101 Stories to Celebrate, Honor and Inspire the Nursing Profession",Jack Canfield,2001,5,8.0
 0140367152,Journey to the Centre of the Earth (Puffin Classics),Jules Verne,1994,5,8.0
 0446532371,Under the Boardwalk,Carly Phillips,2004,5,8.0
 0440484839,Taran Wanderer (Chronicles of Prydain (Paperback)),LLOYD ALEXANDER,1969,5,8.0
@@ -3954,8 +3954,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0440154731,Jailbird,Kurt Vonnegut,1992,5,8.0
 0688117619,Mayo Clinic Complete Book of Pregnancy &amp; Baby's First Year,Mayo Clinic,1994,5,8.0
 2070406962,Des chrÃ?Â©tiens et des maures,Daniel Pennac,1999,5,8.0
-0394521110,The Parsifal Mosaic,Robert Ludlum,1982,5,8.0
 0786889101,I Am Spock,Leonard Nimoy,1996,5,8.0
+0394521110,The Parsifal Mosaic,Robert Ludlum,1982,5,8.0
 0060234970,The Magician's Nephew (rpkg) (Narnia),C. S. Lewis,1994,5,8.0
 0380819201,Shadow Dance,Susan Andersen,2002,5,8.0
 0553211803,Middlemarch (Wadsworth Series in Mass Communication),George Eliot,1996,5,8.0
@@ -3983,15 +3983,15 @@ ISBN,title,author,year,total_ratings,average_rating
 2253072079,Le troupeau aveugle,John Brunner,1998,5,8.0
 0061098035,Burn Factor,Kyle Mills,2002,5,8.0
 0440209633,One Wore Blue,Heather Graham,1991,5,8.0
-0743436601,The Women of Primrose Creek (Omnibus) : Bridget/Christy/Skye/Megan,Linda Lael Miller,2002,5,8.0
 0486266850,The Raven and Other Favorite Poems (Dover Thrift Editions),Edgar Allan Poe,1991,5,8.0
+0743436601,The Women of Primrose Creek (Omnibus) : Bridget/Christy/Skye/Megan,Linda Lael Miller,2002,5,8.0
 0671698850,Knights of Ghosts &amp; Shadows,Mercedes Lackey,1990,5,8.0
 044020352X,Anguished English: An Anthology of Accidental Assaults Upon Our Language,RICHARD LEDERER,1989,5,8.0
 0440206685,Doc: The Rape of the Town of Lovell,Jack Olsen,1990,5,8.0
 0060973722,Men at Work : The Craft of Baseball,George F. Will,1991,5,8.0
 0345373529,"The Ruby Knight (Elenium, Book 2)",David Eddings,1991,5,8.0
-157856512X,Thorn in My Heart,LIZ CURTIS HIGGS,2003,5,8.0
 0441662633,"Phaze Doubt (Apprentice Adept Series, Book 7)",Piers Anthony,1994,5,8.0
+157856512X,Thorn in My Heart,LIZ CURTIS HIGGS,2003,5,8.0
 1565049004,Midnight Blue: The Sonja Blue Collection,Nancy A. Collins,1995,5,8.0
 0312269587,"Plane Insanity: A Flight Attendant's Tales of Sex, Rage, and Queasiness at 30,000 Feet",Elliott Hester,2002,5,8.0
 0671042394,"Renaissance (Star Trek New Frontier: Excalibur, Book 2)",Peter David,2000,5,8.0
@@ -4023,16 +4023,16 @@ ISBN,title,author,year,total_ratings,average_rating
 0441003443,The Lodge of the Lynx (Adept),Katherine Kurtz,2003,5,8.0
 0425190838,Track of the Cat,Nevada Barr,2003,5,8.0
 0440241111,Slightly Scandalous (Get Connected Romances),Mary Balogh,2003,5,8.0
-0345463404,The Defiant Hero,SUZANNE BROCKMANN,2003,5,8.0
 0375410287,Driving Over Lemons: An Optimist in Andalucia,Chris Stewart,2000,5,8.0
 0671025589,"Weep No More, My Lady",Mary Higgins Clark,1998,5,8.0
+0345463404,The Defiant Hero,SUZANNE BROCKMANN,2003,5,8.0
 067103992X,Wicked Forest (Debeers),V.C. Andrews,2002,5,8.0
 0553581279,The Silver Metal Lover,Tanith Lee,1999,5,8.0
 015694877X,The Waste Land and Other Poems,T. S. Eliot,1955,5,8.0
 0743205812,Fleeced : A Regan Reilly Mystery (Regan Reilly Mysteries (Hardcover)),Carol Higgins Clark,2001,5,8.0
 0060928336,Divine Secrets of the Ya-Ya Sisterhood: A Novel,Rebecca Wells,1997,201,7.98
-0385479565,The Hot Zone,Richard Preston,1995,48,7.98
 0446611212,Violets Are Blue,James Patterson,2002,48,7.98
+0385479565,The Hot Zone,Richard Preston,1995,48,7.98
 0345369947,The Mummy or Ramses the Damned,Anne Rice,1991,46,7.98
 1400034779,The No. 1 Ladies' Detective Agency (Today Show Book Club #8),Alexander McCall Smith,2003,129,7.97
 0399501487,Lord of the Flies,William Gerald Golding,1959,88,7.97
@@ -4115,15 +4115,15 @@ ISBN,title,author,year,total_ratings,average_rating
 0553580302,"House Harkonnen (Dune: House Trilogy, Book 2)",Brian Herbert,2001,15,7.93
 0671528904,Mindhunter : Inside the FBI's Elite Serial Crime Unit,John E. Douglas,1996,15,7.93
 0316734837,Fortune's Rocks : A Novel,Anita Shreve,2002,14,7.93
-0874869870,She Said Yes: The Unlikely Martyrdom of Cassie Bernall,Misty Bernall,1999,14,7.93
 0061031070,Moving Target,Elizabeth Lowell,2002,14,7.93
+0874869870,She Said Yes: The Unlikely Martyrdom of Cassie Bernall,Misty Bernall,1999,14,7.93
 0553569058,The Robber Bride,Margaret Atwood,1995,14,7.93
 0684835959,YOU BELONG TO ME,Mary Higgins Clark,1998,14,7.93
 0316153915,Chasing the Dime,Michael Connelly,2002,14,7.93
 0064400050,By the Shores of Silver Lake (Little House),Laura Ingalls Wilder,1953,14,7.93
 0380753014,Warrior's Woman,Johanna Lindsey,1999,14,7.93
-1551665301,Book Club,Mary Alice Monroe,1999,14,7.93
 3442442354,Der Strand,Alex Garland,2000,14,7.93
+1551665301,Book Club,Mary Alice Monroe,1999,14,7.93
 0140132708,Midnight's Children,Salman Rushdie,1995,14,7.93
 0451196716,The Long Walk,Stephen King,1999,14,7.93
 0448095017,"The Secret of the Old Clock (Nancy Drew Mystery Stories, No 1)",Carolyn Keene,1930,14,7.93
@@ -4145,16 +4145,16 @@ ISBN,title,author,year,total_ratings,average_rating
 0679419454,Disclosure,Michael Crichton,1994,13,7.92
 0451203593,24 Hours,Greg Iles,2001,13,7.92
 0140620125,Wuthering Heights (Penguin Popular Classics),Emily Bronte,1994,13,7.92
-0743448642,Whispers and Lies,Joy Fielding,2003,13,7.92
 0060652934,The Screwtape Letters,C. S. Lewis,2001,13,7.92
+0743448642,Whispers and Lies,Joy Fielding,2003,13,7.92
 1580628362,Please Stop Laughing at Me: One Woman's Inspirational Story,Jodee Blanco,2003,13,7.92
 055329170X,Time Bomb (Alex Delaware Novels (Paperback)),Jonathan Kellerman,1991,13,7.92
 0590634275,Captain Underpants and the Attack of the Talking Toilets: Another Epic Novel (Captain Underpants (Paper)),Dav Pilkey,1999,12,7.92
 0804106436,Oldest Living Confederate Widow Tells All,Allan Gurganus,1990,12,7.92
 037570910X,The Feast of Love (Vintage Contemporaries (Paperback)),Charles Baxter,2001,12,7.92
 0380722704,Charms for Easy Life,Kaye Gibbons,1994,12,7.92
-0345342569,Shoeless Joe,W. P. Kinsella,1989,12,7.92
 0385315279,The Fiery Cross,Diana Gabaldon,2001,12,7.92
+0345342569,Shoeless Joe,W. P. Kinsella,1989,12,7.92
 0812510992,The Girl Who Heard Dragons,Anne McCaffrey,1995,12,7.92
 0671032992,Heartbreaker,Julie Garwood,2000,12,7.92
 0553572377,"Murder, She Meowed (Mrs. Murphy Mysteries (Paperback))",RITA MAE BROWN,1997,12,7.92
@@ -4188,8 +4188,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0812570944,What Dreams May Come : A Novel,Richard Matheson,1998,29,7.9
 0345423402,A Kiss of Shadows (Meredith Gentry Novels (Paperback)),LAURELL K. HAMILTON,2002,29,7.9
 051511779X,Born in Shame,Nora Roberts,1996,21,7.9
-0425174271,Certain Prey,John Sandford,2000,20,7.9
 0345441265,The Ladies Auxiliary (Ballantine Reader's Circle),Tova Mirvis,2000,20,7.9
+0425174271,Certain Prey,John Sandford,2000,20,7.9
 0316781010,Fortune's Rocks: A Novel,Anita Shreve,1999,20,7.9
 0449911004,Patty Jane's House of Curl (Ballantine Reader's Circle),LORNA LANDVIK,1996,20,7.9
 8495618605,El Codigo Da Vinci / The Da Vinci Code,Dan Brown,2003,20,7.9
@@ -4313,10 +4313,10 @@ ISBN,title,author,year,total_ratings,average_rating
 0440177049,Season of Passion,Danielle Steel,1980,8,7.88
 0060507403,The Cheese Monkeys : A Novel in Two Semesters,Chip Kidd,2002,8,7.88
 0553582925,Tick Tock,Dean R. Koontz,2000,8,7.88
-0394895894,"The Ruby in the Smoke (Sally Lockhart Trilogy, Book 1)",PHILIP PULLMAN,1988,8,7.88
 1560761156,"Wanderlust (Dragonlance: The Meetings Sextet, Vol. 2)",Steve Winter,1991,8,7.88
-0380871556,A Gentle Feuding,Johanna Lindsey,1984,8,7.88
+0394895894,"The Ruby in the Smoke (Sally Lockhart Trilogy, Book 1)",PHILIP PULLMAN,1988,8,7.88
 0671496786,HEARTBURN,Nora Ephron,1984,8,7.88
+0380871556,A Gentle Feuding,Johanna Lindsey,1984,8,7.88
 0836204255,The Far Side Gallery 5,Gary Larson,1995,8,7.88
 0399148019,The Absence of Nectar,Kathy Hepinstall,2001,8,7.88
 0684835819,MY STORY,Sarah Ferguson,1996,8,7.88
@@ -4332,12 +4332,12 @@ ISBN,title,author,year,total_ratings,average_rating
 0393319296,Invisible Monsters,Chuck Palahniuk,1999,23,7.87
 0380820889,Blindsighted,Karin Slaughter,2002,15,7.87
 0441007813,Obsidian Butterfly,Laurell K. Hamilton,2000,15,7.87
-0066211611,Portrait in Sepia,Isabel Allende,2001,15,7.87
 0425097722,Fatherhood,Bill Cosby,1994,15,7.87
+0066211611,Portrait in Sepia,Isabel Allende,2001,15,7.87
 0767905938,A Year by the Sea: Thoughts of an Unfinished Woman,Joan Anderson,2000,15,7.87
 0553569031,Gone But Not Forgotten,PHILLIP M. MARGOLIN,1994,15,7.87
-0394561619,Love in the Time of Cholera,GABRIEL GARCIA MARQUEZ,1988,15,7.87
 3423202947,Hunde von Riga.,Henning Mankell,2000,15,7.87
+0394561619,Love in the Time of Cholera,GABRIEL GARCIA MARQUEZ,1988,15,7.87
 0684810395,Pretend You Don't See Her,Mary Higgins Clark,1997,15,7.87
 0399147128,The Villa,Nora Roberts,2001,15,7.87
 0061097101,The Saving Graces: A Novel,Patricia Gaffney,2000,44,7.86
@@ -4360,8 +4360,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0380709244,The Mouse and the Motorcycle,Beverly Cleary,1990,7,7.86
 0156226006,"Cosmicomics (Harbrace Paperbound Library, Hpl 69)",Italo Calvino,1976,7,7.86
 042516828X,Sudden Mischief,Robert B. Parker,1999,7,7.86
-0061031445,Flight Lessons,Patricia Gaffney,2003,7,7.86
 0717283208,Prince and the Pauper Walt Disney,Disney,1993,7,7.86
+0061031445,Flight Lessons,Patricia Gaffney,2003,7,7.86
 0451404327,The Rebel Bride,Catherine Coulter,1995,7,7.86
 3404142942,Das Jesus Video.,Andreas Eschbach,2000,7,7.86
 0345434684,The Skies Of Pern,Anne McCaffrey,2001,7,7.86
@@ -4378,14 +4378,14 @@ ISBN,title,author,year,total_ratings,average_rating
 0425193993,A Dilly of a Death,Susan Wittig Albert,2004,7,7.86
 0886778905,The Black Swan,Mercedes Lackey,2000,7,7.86
 0441516645,Glory Lane,Alan Dean Foster,1991,7,7.86
-0152012397,So You Want to Be a Wizard (Young Wizards (Paperback)),Diane Duane,1996,7,7.86
 1563899388,"Death: At Death's Door (Vertigo, Number 1)",Jill Thompson,2003,7,7.86
 0451203933,Black Hawk Down: A Story of Modern War,Mark Bowden,2001,7,7.86
+0152012397,So You Want to Be a Wizard (Young Wizards (Paperback)),Diane Duane,1996,7,7.86
 0345361326,Those Who Hunt the Night,Barbara Hambly,1990,7,7.86
 0446603090,Bittersweet Rain,Sandra Brown,2000,7,7.86
 0425186326,Family Album,Patricia Kay,2002,7,7.86
-0671736817,SPELLBOUND : SPELLBOUND,Christopher Pike,1990,7,7.86
 0425144062,Witches' Bane,Susan Wittig Albert,1994,7,7.86
+0671736817,SPELLBOUND : SPELLBOUND,Christopher Pike,1990,7,7.86
 0140266771,Larry's Party,Carol Shields,1998,7,7.86
 0451159535,Coma (Signet Books),Robin Cook,1994,7,7.86
 0140055770,My Uncle Oswald,Roald Dahl,1990,7,7.86
@@ -4502,16 +4502,16 @@ ISBN,title,author,year,total_ratings,average_rating
 0061093491,Dead in the Water,Stuart Woods,1998,12,7.83
 0140272658,Are You Experienced?,William Sutcliffe,1998,12,7.83
 3518365525,"Suhrkamp TaschenbÃ?Â¼cher, Nr.52, Unterm Rad",Hermann Hesse,2000,6,7.83
-0399151729,A Royal Duty,Paul Burrell,2003,6,7.83
 0380730375,Practical Demonkeeping,Christopher Moore,1999,6,7.83
+0399151729,A Royal Duty,Paul Burrell,2003,6,7.83
 1841954225,Timoleon Vieta Come Home: A Sentimental Journey,Dan Rhodes,2003,6,7.83
 0060934794,Papillon,Henri Charriere,2001,6,7.83
 0451190750,Thinner,Stephen King,1996,6,7.83
 0553564404,Finnegan's Week,Joseph Wambaugh,1996,6,7.83
 0679843655,"Thomas and the School Trip (Step-Into-Reading, Step 2)",W. REV AWDRY,1993,6,7.83
-3404125010,Die Pfeiler der Macht.,Ken Follett,1996,6,7.83
 8484505294,Bridget Jones Sobrevivre/Edge of Reason,Helen Fielding,2002,6,7.83
 0812502124,"Prentice Alvin (Tales of Alvin Maker, Book 3)",Orson Scott Card,1989,6,7.83
+3404125010,Die Pfeiler der Macht.,Ken Follett,1996,6,7.83
 0394541545,Texas,James A. Michener,1990,6,7.83
 0446357200,Name of the Rose,Umberto Eco,1994,6,7.83
 8466305033,La Carta Esferica,Arturo Perez-Reverte,2001,6,7.83
@@ -4522,8 +4522,8 @@ ISBN,title,author,year,total_ratings,average_rating
 051512947X,Once upon a Dream,Nora Roberts,2000,6,7.83
 0671523686,Murder on the Orient Express,Agatha Christie,1984,6,7.83
 0380776510,Paradise Wild,Johanna Lindsey,1981,6,7.83
-0451168364,Nectar in a Sieve,Kamala Markandaya,1998,6,7.83
 0609601008,"Another City, Not My Own: A Novel in the Form of a Memoir",Dominick Dunne,1997,6,7.83
+0451168364,Nectar in a Sieve,Kamala Markandaya,1998,6,7.83
 0385297661,Daddy,Danielle Steel,1989,6,7.83
 0307127923,Disney's The Lion King (A Golden Look-Look Book),M. Hover,1994,6,7.83
 0440226015,More than a Mistress,MARY BALOGH,2001,6,7.83
@@ -4542,8 +4542,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0385333463,His Bright Light: The Story of Nick Traina,Danielle Steel,1998,6,7.83
 0875421857,Spell Crafts: Creating Magical Objects (Llewellyn's Practical Magic),Scott Cunningham,1993,6,7.83
 0553254502,"Roll of Thunder, Hear My Cry",Mildred D. Taylor,1984,6,7.83
-1551669234,Stonebrook Cottage,Carla Neggers,2002,6,7.83
 074321689X,Call Me Crazy : A Memoir (Lisa Drew Books (Hardcover)),Anne Heche,2001,6,7.83
+1551669234,Stonebrook Cottage,Carla Neggers,2002,6,7.83
 2070374637,L'Ami retrouvÃ?Â©,Fred Uhlman,1983,6,7.83
 0451197879,Roadwork,Richard Bachman,1999,6,7.83
 0446611859,The Proving Ground,G. Bruce Knecht,2002,6,7.83
@@ -4556,8 +4556,8 @@ ISBN,title,author,year,total_ratings,average_rating
 3499150425,Garp und wie er die Welt sah.,John Irving,1982,6,7.83
 0380712520,Don't Know Much About History: Everything You Need to Know About American History but Never Learned,Kenneth Davis,1999,6,7.83
 0553578138,A Place to Call Home,Deborah Smith,1998,6,7.83
-038079960X,The Mermaids Singing,Lisa Carey,1999,6,7.83
 0934211477,Tales of Two Cities: A Persian Memoir,Abbas Milani,1996,6,7.83
+038079960X,The Mermaids Singing,Lisa Carey,1999,6,7.83
 0671755056,SHAMPOO PLANET,Douglas Coupland,1992,6,7.83
 3423205903,"Der Mann, der lÃ?Â¤chelte.",Henning Mankell,2003,6,7.83
 0373153260,The Wedding is White (Silhouette Desire),Diana Palmer,2000,6,7.83
@@ -4574,14 +4574,14 @@ ISBN,title,author,year,total_ratings,average_rating
 055321392X,Of Human Bondage (Bantam Classic),W. Somerset Maugham,1991,6,7.83
 0671014935,Likely to Die (Alexandra Cooper Mysteries (Paperback)),Linda Fairstein,1998,6,7.83
 044023655X,Kiss of the Highlander,Karen Marie Moning,2001,6,7.83
-0380784491,Murder Runs in the Family: A Southern Sisters Mystery,Anne George,1997,6,7.83
 0486268705,Dubliners (Dover Thrift Editions),James Joyce,1991,6,7.83
+0380784491,Murder Runs in the Family: A Southern Sisters Mystery,Anne George,1997,6,7.83
 0688156819,The Melancholy Death of Oyster Boy : and Other Stories,Tim Burton,1997,6,7.83
 0312986734,The Secret Ingredient,Jane Heller,2003,6,7.83
 0451523326,Jane Eyre,Charlotte Bronte,1988,6,7.83
 0738203491,The Pleasure of Finding Things Out: The Best Short Works of Richard P. Feynman,Richard P. Feynman,2000,6,7.83
-0064472264,"On the Bright Side, I'm Now the Girlfriend of a Sex God: Further Confessions of Georgia Nicolson",Louise Rennison,2002,6,7.83
 0886776511,Fifth Quarter (Daw Book Collectors),Tanya Huff,1995,6,7.83
+0064472264,"On the Bright Side, I'm Now the Girlfriend of a Sex God: Further Confessions of Georgia Nicolson",Louise Rennison,2002,6,7.83
 0871138018,The Toughest Indian in the World,Sherman Alexie,2000,6,7.83
 0679312064,Dropped Threads 2: More of What We Aren't Told,Carol Shields,2003,6,7.83
 0312969414,Fortunes of War,Stephen Coonts,1999,6,7.83
@@ -4620,8 +4620,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0451208811,Blood Orchid,Stuart Woods,2003,11,7.82
 0312099436,Women of the Silk : A Novel,Gail Tsukiyama,1993,11,7.82
 0812551494,"Soul of the Fire (Sword of Truth, Book 5)",Terry Goodkind,2000,11,7.82
-0449217493,Caribbean,James A. Michener,1991,11,7.82
 0151006725,Slammerkin,Emma Donoghue,2001,11,7.82
+0449217493,Caribbean,James A. Michener,1991,11,7.82
 038089968X,Chain Letter (Avon Camelot Books (Paperback)),Christopher Pike,1986,11,7.82
 0380754843,Wayside School is Falling Down,Louis Sachar,1990,11,7.82
 0140086838,Ceremony (Contemporary American Fiction Series),Leslie Marmon Silko,1988,11,7.82
@@ -4714,14 +4714,14 @@ ISBN,title,author,year,total_ratings,average_rating
 1584855193,Spring Pearl: The Last Flower (Girls of Many Lands),Laurence Yep,2002,5,7.8
 0140620990,The Christmas Books (Penguin Popular Classics),Charles Dickens,1994,5,7.8
 0441010156,Red Thunder,John Varley,2003,5,7.8
-0671726498,GIFT OF MAGIC : GIFT OF MAGIC,Lois Duncan,1995,5,7.8
 1565041992,The Day I Swapped My Dad for 2 Goldfish,Neil Gaiman,1998,5,7.8
+0671726498,GIFT OF MAGIC : GIFT OF MAGIC,Lois Duncan,1995,5,7.8
 0671010107,One Red Rose (Clayborne Brides),Julie Garwood,1997,5,7.8
 0345340248,Dragonriders of Pern (Pern),Anne McCaffrey,1988,5,7.8
 0439164567,"Shipwreck (Island, Book 1)",Gordon Korman,2001,5,7.8
 044021873X,Windy City Blues (V.I. Warshawski Novels (Paperback)),Sara Paretsky,1996,5,7.8
-0345450744,Between Sisters,KRISTIN HANNAH,2004,5,7.8
 0525944001,The Magician's Wife,Brian Moore,1998,5,7.8
+0345450744,Between Sisters,KRISTIN HANNAH,2004,5,7.8
 0399147926,Smoke in Mirrors,Jayne Ann Krentz,2002,5,7.8
 0486270696,The Mysterious Stranger and Other Stories (Dover Thrift Editions),Mark Twain,1992,5,7.8
 0449907155,Lady's Maid,Margaret Forster,1992,5,7.8
@@ -4734,21 +4734,21 @@ ISBN,title,author,year,total_ratings,average_rating
 0399143696,Then Came Heaven,LaVyrle Spencer,1997,5,7.8
 0451202856,Nothing but the Truth,John T. Lescroart,2001,5,7.8
 0553298860,Bloodlines (Dog Lover's Mysteries),Susan Conant,1994,5,7.8
-0380732033,Night Lives On,Walter J. Lord,1998,5,7.8
 2290315095,Le Grand Livre des gnomes,Terry Pratchett,2001,5,7.8
+0380732033,Night Lives On,Walter J. Lord,1998,5,7.8
 055357924X,Kissed a Sad Goodbye (Duncan Kincaid/Gemma James Novels (Paperback)),Deborah Crombie,2001,5,7.8
 0688155456,Witch Week (Chronicles of Chrestomanci),Diana Wynne Jones,1997,5,7.8
 067982412X,"Knight At Dawn (Magic Tree House 2, paper)",Mary Pope Osborne,1993,5,7.8
 0505525151,Call of the Moon,Ronda Thompson,2002,5,7.8
-1585671274,South from the Limpopo: Travels Through South Africa,Dervla Murphy,2001,5,7.8
 0316926086,The Loved One,Evelyn Waugh,1999,5,7.8
+1585671274,South from the Limpopo: Travels Through South Africa,Dervla Murphy,2001,5,7.8
 0345409574,Gods and Generals,Jeff Shaara,1997,5,7.8
 1551668483,North Of Clever,Suzann Ledbetter,2001,5,7.8
 0393051838,The Lost Garden: A Novel,Helen Humphreys,2002,5,7.8
 0394736656,Herland,Charlotte Perkins Gilman,1979,5,7.8
 1551664348,Montana,Debbie Macomber,1998,5,7.8
-0812515501,Cat Magic,Whitley Strieber,1987,5,7.8
 0671020374,"Fire on High (Star Trek New Frontier, No 6)",Peter David,1998,5,7.8
+0812515501,Cat Magic,Whitley Strieber,1987,5,7.8
 0060571314,"Project Princess (The Princess Diaries, Vol. 4 1/2)",Meg Cabot,2003,5,7.8
 0375724850,An Italian Affair,LAURA FRASER,2002,5,7.8
 0590483455,"The Horror at Camp Jellyjam (Goosebumps, No 33)",R. L. Stine,1995,5,7.8
@@ -4772,8 +4772,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0449000877,Naked Justice,William Bernhardt,1998,5,7.8
 0449901815,Living Loving and Learning,LEO F. BUSCAGLIA,1985,5,7.8
 1551668130,The Widow,Anne Stuart,2001,5,7.8
-0679757899,"East, West : Stories",SALMAN RUSHDIE,1995,5,7.8
 034542705X,The Man Who Listens to Horses,Monty Roberts,1998,5,7.8
+0679757899,"East, West : Stories",SALMAN RUSHDIE,1995,5,7.8
 0140390448,Walden and Civil Disobedience (Penguin American Library),Henry David Thoreau,1986,5,7.8
 0517073692,Dean R. Koontz: A New Collection : Shattered; Whispers; Watchers,DEAN KOONTZ,1992,5,7.8
 0060977027,The New Girls,Beth Gutcheon,1996,5,7.8
@@ -4781,8 +4781,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0553587064,Dime Store Magic : Women of the Otherworld,KELLEY ARMSTRONG,2004,5,7.8
 3442096480,TÃ?Â¶chter des Himmels. Roman.,Amy Tan,1992,5,7.8
 0062505963,Mother Earth Spirituality : Native American Paths to Healing Ourselves and Our World (Religion and Spirituality),Ed McGaa,1990,5,7.8
-0894806319,The Kid's Book of Questions,Gregory Stock,1988,5,7.8
 0312960344,Pandora's Clock,John J. Nance,1996,5,7.8
+0894806319,The Kid's Book of Questions,Gregory Stock,1988,5,7.8
 0425188280,Indigo Dying,Susan Wittig Albert,2003,5,7.8
 2070361039,Zazie Dans Le Metro (Folio),Raymond Queneau,1972,5,7.8
 0553251473,Iacocca: An Autobiography,Lee Iacocca,1986,5,7.8
@@ -4801,14 +4801,14 @@ ISBN,title,author,year,total_ratings,average_rating
 0886777992,This Alien Shore,C. S. Friedman,2004,5,7.8
 0449209830,Mrs. Pollifax and the Hong Kong Buddha,Dorothy Gilman,1988,5,7.8
 0451627954,Beowulf,Burton Raffel,1995,5,7.8
+0441644651,Out of Phaze (Apprentice Adept (Paperback)),Piers Anthony,1994,5,7.8
 0671027522,A Springwater Christmas (Springwater Seasons),Linda Lael Miller,1999,5,7.8
 880781076X,Eva Luna,Isabel Allende,1995,5,7.8
-0441644651,Out of Phaze (Apprentice Adept (Paperback)),Piers Anthony,1994,5,7.8
 0451159098,Prime Evil: New Stories by the Masters of Modern Horror,Douglas E. Winter,1989,5,7.8
 345309221X,Die Zauberin von Ruwenda.,Marion Zimmer Bradley,1995,5,7.8
 0786012633,Buried Memories,Irene Pence,2001,5,7.8
-226612269X,Ou Es-Tu?,Marc Levy,2003,5,7.8
 0553295101,Life 101: Everything We Wish We Had Learned in High School-But Didn't,John-Roger McWilliams,1991,5,7.8
+226612269X,Ou Es-Tu?,Marc Levy,2003,5,7.8
 0553581295,Darkness Peering,Alice Blanchard,2000,5,7.8
 0373250371,Losing It (Red Dress Ink),Lindsay Faith Rech,2003,5,7.8
 076111937X,Amazing Gracie,Dan Dye,2000,5,7.8
@@ -4828,9 +4828,9 @@ ISBN,title,author,year,total_ratings,average_rating
 0684836491,Apocalypse Wow,James Finn Garner,1997,5,7.8
 0425168220,"State of Siege (Tom Clancy's Op-Center, 6)",Tom Clancy,1999,5,7.8
 3442451353,Das Wunschspiel.,Patrick Redmond,2002,5,7.8
-0786861541,I'm Only One Man!,Regis Philbin,1995,5,7.8
 0140062718,The Rebel Angels,Robertson Davies,1983,5,7.8
 0590403605,The Magic School Bus: At the Waterworks (Magic School Bus (Paperback)),Joanna Cole,1988,5,7.8
+0786861541,I'm Only One Man!,Regis Philbin,1995,5,7.8
 0345285859,Shibumi,Trevanian,1980,5,7.8
 0786806540,Into the Cold Fire (Daughters of the Moon #2),Lynne Ewing,2000,5,7.8
 006109918X,Talking God (Jim Chee Novels),Tony Hillerman,1991,5,7.8
@@ -4846,8 +4846,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0440237238,The Edge of Justice,Clinton McKinzie,2003,5,7.8
 0671653741,SIXTH COLUMN,Robert A. Heinlein,1988,5,7.8
 0440941407,It's Not the End of the World,Judy Blume,1982,5,7.8
-0140444416,The Divine Comedy: Inferno (Penguin Classics),Dante Alighieri,1994,5,7.8
 0440505941,The Weekend Novelist,Robert Ray,1994,5,7.8
+0140444416,The Divine Comedy: Inferno (Penguin Classics),Dante Alighieri,1994,5,7.8
 0393322157,Glue,Irvine Welsh,2001,5,7.8
 0671019716,Shades Of Twilight,Linda Howard,1997,5,7.8
 0842329129,Left Behind: A Novel of the Earth's Last Days (Left Behind No. 1),Tim Lahaye,1996,107,7.79
@@ -4885,8 +4885,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0451408977,The Stargazey: A Richard Jury Mystery (Richard Jury Mysteries (Paperback)),Martha Grimes,1999,9,7.78
 0375703675,Dear Exile : The True Story of Two Friends Separated (for a Year) by an Ocean,HILARY LIFTIN,1999,9,7.78
 0446613444,The Black Ice,Michael Connelly,2003,9,7.78
-0060090375,Lucy Sullivan Is Getting Married,Marian Keyes,2002,9,7.78
 0812967224,The Day I Turned Uncool: Confessions of a Reluctant Grown-Up,Dan Zevin,2002,9,7.78
+0060090375,Lucy Sullivan Is Getting Married,Marian Keyes,2002,9,7.78
 0345434692,The Skies of Pern,Anne McCaffrey,2002,9,7.78
 0552150738,Angels and Demons,Dan Brown,2003,9,7.78
 0571206484,Prodigal Summer,Barbara Kingsolver,2002,9,7.78
@@ -4984,8 +4984,8 @@ ISBN,title,author,year,total_ratings,average_rating
 074325547X,Plan of Attack,Bob Woodward,2004,8,7.75
 0451206711,Orchid Blues (Holly Barker Novels (Paperback)),Stuart Woods,2002,8,7.75
 0393312801,The Acid House,Irvine Welsh,1995,8,7.75
-0060509392,Mrs. Kimble : A Novel,Jennifer Haigh,2003,8,7.75
 0440128994,God Save the Child,Robert B. Parker,1994,8,7.75
+0060509392,Mrs. Kimble : A Novel,Jennifer Haigh,2003,8,7.75
 0446356875,Another Dawn,Sandra Brown,1991,8,7.75
 0399142185,Executive Orders,Tom Clancy,1996,8,7.75
 0349107688,Whit,Iain Banks,1996,8,7.75
@@ -5095,8 +5095,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0515125490,Judas Child,Carol O'Connell,1999,7,7.71
 0553213423,Great Expectations (Bantam Classic),Charles Dickens,1982,7,7.71
 1401300014,The Essential 55: An Award-Winning Educator's Rules for Discovering the Successful Student in Every Child,Ron Clark,2003,7,7.71
-0374522928,Call It Sleep,Henry Roth,1992,7,7.71
 0553565060,Deception,Amanda Quick,1994,7,7.71
+0374522928,Call It Sleep,Henry Roth,1992,7,7.71
 0553561227,The Ugly Little Boy,Isaac Asimov,1993,7,7.71
 0099143712,Fried Green Tomatoes at the Whistle Stop Cafe,Fannie Flagg,1992,7,7.71
 0553560441,The Road to Omaha,Robert Ludlum,1993,7,7.71
@@ -5126,8 +5126,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0525946063,"Past Lives, Future Healing: A Psychic Reveals the Secrets to Good Health and Great Relationships",Sylvia Browne,2001,7,7.71
 0345300203,The Outside Man,Richard North Patterson,1995,7,7.71
 0452281725,The Quilter's Apprentice,Jennifer Chiaverini,2000,7,7.71
-0684854759,FLOATING IN MY MOTHER'S PALM,Ursula Hegi,1998,7,7.71
 0441006256,Freedom's Challenge,Anne McCaffrey,1999,7,7.71
+0684854759,FLOATING IN MY MOTHER'S PALM,Ursula Hegi,1998,7,7.71
 157322202X,The Dream of Scipio,Iain Pears,2002,7,7.71
 0345372050,You Just Don't Understand,DEBORAH TANNEN,1991,7,7.71
 0553380966,The Diamond Age (Bantam Spectra Book),Neal Stephenson,2000,7,7.71
@@ -5143,8 +5143,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0316926345,Brideshead Revisited,Evelyn Waugh,1999,7,7.71
 0553286285,Nemesis,Isaac Asimov,1990,7,7.71
 0425144372,Clear and Present Danger,Tom Clancy,1994,7,7.71
-037383599X,Simply Sensual (Harlequin Single Title),Carly Phillips,2004,7,7.71
 0553568728,Star Wars: The Truce at Bakura (Star Wars (Random House Paperback)),Kathy Tyers,1994,7,7.71
+037383599X,Simply Sensual (Harlequin Single Title),Carly Phillips,2004,7,7.71
 8425337690,El Secreto de La Diosa,Lorenzo Mediano,2003,7,7.71
 0425179230,Point of Impact (Tom Clancy's Net Force (Berkley Publishing Group)),Steve Perry,2001,7,7.71
 0451203585,The Dragon's Bride,Jo Beverley,2001,7,7.71
@@ -5258,8 +5258,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0440184053,Summer's End,Danielle Steel,1980,12,7.67
 0684826127,WATER WITCHES,Chris Bohjalian,1997,12,7.67
 2266023039,La Nuit des temps,RenÃ?Â© Barjavel,1988,9,7.67
-0440241049,Slightly Married (Get Connected Romances),Mary Balogh,2003,9,7.67
 0060931809,The Map That Changed the World : William Smith and the Birth of Modern Geology,Simon Winchester,2002,9,7.67
+0440241049,Slightly Married (Get Connected Romances),Mary Balogh,2003,9,7.67
 0786867248,The Art of Deception,Ridley Pearson,2002,9,7.67
 0451203046,Light a Penny Candle,Maeve Binchy,2001,9,7.67
 0425146812,Second Nature,Alice Hoffman,1995,9,7.67
@@ -5282,9 +5282,9 @@ ISBN,title,author,year,total_ratings,average_rating
 0515090395,A Heart Speaks,LaVyrle Spencer,1995,6,7.67
 042518000X,Nursery Crimes (Mommy-Track Mysteries (Paperback)),Ayelet Waldman,2001,6,7.67
 038549128X,Candles on Bay Street: A Novel,K. C. McKinnon,1999,6,7.67
+089296765X,Dead Midnight (Sharon McCone Mysteries (Hardcover)),Marcia Muller,2002,6,7.67
 0671729438,Gates of Paradise (Casteel),V.C. Andrews,1990,6,7.67
 0312983654,The Wire in the Blood (A Dr. Tony Hill &amp; Carol Jordan Mystery),Val McDermid,2002,6,7.67
-089296765X,Dead Midnight (Sharon McCone Mysteries (Hardcover)),Marcia Muller,2002,6,7.67
 0448095041,"The Mystery at Lilac Inn (Nancy Drew Mystery Stories, No 4)",Carolyn Keene,1982,6,7.67
 0345362721,Peachtree Road,Anne Rivers Siddons,1989,6,7.67
 0380841940,"Refugee (Bio of a Space Tyrant, Vol 1)",Piers Anthony,1991,6,7.67
@@ -5306,16 +5306,16 @@ ISBN,title,author,year,total_ratings,average_rating
 1558747699,Chicken Soup for the Writer's Soul : Stories to Open the Heart and Rekindle the Spirit of Writers (Chicken Soup for the Soul),Jack Canfield,2000,6,7.67
 0446612251,Back Roads,Susan Crandall,2003,6,7.67
 0553289519,Texas! Lucky,SANDRA BROWN,1991,6,7.67
-0843950641,The Very Virile Viking: (Cartoon Cover),Sandra Hill,2003,6,7.67
 0767908473,The Sorcerer's Companion: A Guide to the Magical World of Harry Potter,ALLAN ZOLA KRONZEK,2001,6,7.67
+0843950641,The Very Virile Viking: (Cartoon Cover),Sandra Hill,2003,6,7.67
 0312140908,The Invisible Circus : A Novel,Jennifer Egan,1996,6,7.67
 0553213512,The Time Machine (Bantam Classics),H. G. Wells,1984,6,7.67
 0425128458,Sullivan's Sting,Lawrence Sanders,1997,6,7.67
 0446612804,Don't Tell,Karen Rose,2003,6,7.67
 0440234859,Losing Julia,Jonathan Hull,2001,6,7.67
 1853260436,Northanger Abbey (Wordsworth Collection),Jane Austen,1998,6,7.67
-0385319525,The Pirate's Daughter: A Novel of Adventure,Robert Girardi,1997,6,7.67
 0486270513,Songs of Innocence and Songs of Experience (Dover Thrift Editions),William Blake,1992,6,7.67
+0385319525,The Pirate's Daughter: A Novel of Adventure,Robert Girardi,1997,6,7.67
 0425182010,Mistletoe Man,Susan Wittig Albert,2001,6,7.67
 0515123447,Killing Floor,Lee Child,1998,6,7.67
 1551665824,Waterfall,Carla Neggers,2000,6,7.67
@@ -5334,12 +5334,12 @@ ISBN,title,author,year,total_ratings,average_rating
 0684822776,The Riders,Tim Winton,1996,6,7.67
 0807083178,Thousand Pieces of Gold: A Biographical Novel (Asian Voices),Ruthanne Lum McCunn,1991,6,7.67
 0743446259,Whispers and Lies : A Novel,Joy Fielding,2002,6,7.67
-0140094385,Amusing Ourselves to Death: Public Discourse in the Age of Show Business,Neil Postman,1986,6,7.67
 0836228995,Casual Day Has Gone Too Far,Scott Adams,1997,6,7.67
+0140094385,Amusing Ourselves to Death: Public Discourse in the Age of Show Business,Neil Postman,1986,6,7.67
 0671034014,Mercy,Julie Garwood,2001,6,7.67
 0425166422,Evans Above (Constable Evan Evans Mysteries (Paperback)),Rhys Bowen,1998,6,7.67
-0525946500,Charleston,John Jakes,2002,6,7.67
 0671694049,LONG DARK TEA TIME OF THE SOUL,Douglas Adams,1990,6,7.67
+0525946500,Charleston,John Jakes,2002,6,7.67
 002026478X,AGE OF INNOCENCE (MOVIE TIE-IN),Edith Wharton,1993,6,7.67
 0894864025,Codependent No More: How to Stop Controlling Others and Start Caring for Yourself,Melody Beattie,1996,6,7.67
 0684829746,CRUDDY : An Illustrated Novel,Lynda Barry,1999,6,7.67
@@ -5348,10 +5348,10 @@ ISBN,title,author,year,total_ratings,average_rating
 0671035452,Hot Springs (Earl Swagger Novels (Paperback)),Stephen Hunter,2001,6,7.67
 0316107255,Penguin Dreams and Stranger Things (A Bloom County Book),Berke Breathed,1985,6,7.67
 0684193957,ALL THAT REMAINS,Patricia Cornwell,1992,6,7.67
-3499227339,Olympisches Feuer.,Liza Marklund,2001,6,7.67
 0385319959,Outlander,Diana Gabaldon,1998,6,7.67
 0505525534,Love Bites,Lynsay Sands,2004,6,7.67
 0448095025,"The Hidden Staircase (Nancy Drew Mystery Stories, No 2)",Carolyn Keene,1991,6,7.67
+3499227339,Olympisches Feuer.,Liza Marklund,2001,6,7.67
 0140250948,In the Lake of the Woods,Tim O'Brien,1995,6,7.67
 0064405109,Little Farm in the Ozarks (Little House),Roger Lea MacBride,1994,6,7.67
 0380762277,"20,001 Names For Baby : Revised and Updated",Carol McD. Wallace,1992,6,7.67
@@ -5377,8 +5377,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0385477058,"Hyperspace: A Scientific Odyssey Through Parallel Universes, Time Warps and the Tenth Dimension",Michio Kaku,1995,6,7.67
 0451202244,Above the Law: A Novel,J. F. Freedman,2001,6,7.67
 044651974X,Strange Highways,Dean R. Koontz,1995,6,7.67
-0441646611,Cat-A-Lyst,Alan Dean Foster,1991,6,7.67
 0062507249,Becoming a Man : Half a Life Story,Paul Monette,1993,6,7.67
+0441646611,Cat-A-Lyst,Alan Dean Foster,1991,6,7.67
 0380798581,He Shall Thunder in the Sky,Elizabeth Peters,2001,6,7.67
 0375718850,Ash Wednesday: A Novel (Vintage Contemporaries (Paperback)),Ethan Hawke,2003,6,7.67
 0345410998,Street Boys,Lorenzo Carcaterra,2003,6,7.67
@@ -5576,12 +5576,12 @@ ISBN,title,author,year,total_ratings,average_rating
 0062505319,The Woman's Comfort Book : A Self-Nurturing Guide for Restoring Balance in Your Life,Jennifer Louden,1992,10,7.6
 0515119652,From the Heart: Tonight and Always/A Matter of Choice/Endings and Beginnings,Nora Roberts,1996,10,7.6
 0393315606,Morality Play,Barry Unsworth,1996,10,7.6
-0380805995,Kiss of the Bees: A Novel of Suspense,J.A. Jance,2001,10,7.6
 0061009504,Shinju,Laura Joh Rowland,1996,10,7.6
+0380805995,Kiss of the Bees: A Novel of Suspense,J.A. Jance,2001,10,7.6
+0553289063,An Inconvenient Woman,Dominick Dunne,1991,5,7.6
 0345441788,The Forest,EDWARD RUTHERFURD,2001,5,7.6
 0553579525,The Moor (Mary Russell Novels (Paperback)),LAURIE R. KING,1999,5,7.6
 0671777351,Letters from Cicely,Ellis Weiner,1992,5,7.6
-0553289063,An Inconvenient Woman,Dominick Dunne,1991,5,7.6
 0786913886,"The Silent Blade (Forgotten Realms:  Paths of Darkness, Book 1)",R. A. Salvatore,1999,5,7.6
 0671649728,MOVING BEYOND WORDS,Gloria Steinem,1994,5,7.6
 0375703829,Silk,Alessandro Baricco,1998,5,7.6
@@ -5590,8 +5590,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0553353896,Homecoming : Reclaiming and Championing Your Inner Child,JOHN BRADSHAW,1992,5,7.6
 0671739778,Lost Lady,Jude Deveraux,1991,5,7.6
 0440204798,Taming the Star Runner (Laurel-Leaf Contemporary Fiction),S.E. HINTON,1989,5,7.6
-0876451121,Mrs Caliban,Rachel Ingalls,1997,5,7.6
 0345349350,Get Off the Unicorn,Anne McCaffrey,1984,5,7.6
+0876451121,Mrs Caliban,Rachel Ingalls,1997,5,7.6
 0671013963,"Into the Void (Star Trek New Frontier, No 2)",Peter David,1997,5,7.6
 0679443673,Auden: Poems (Everyman's Library Pocket Poets),W. H. Auden,1995,5,7.6
 0743467426,I Burn For You,Susan Sizemore,2003,5,7.6
@@ -5630,17 +5630,17 @@ ISBN,title,author,year,total_ratings,average_rating
 0679457224,Until the Real Thing Comes Along:,Elizabeth Berg,1999,5,7.6
 080505622X,The Stargazey (Richard Jury Mystery Series/Martha Grimes),Martha Grimes,1998,5,7.6
 0553575104,In Pursuit of the Proper Sinner,Elizabeth George,2000,5,7.6
-0671736809,"GRADUATION (FINAL FRIENDS 3) : GRADUATION (Final Friends, No 3)",Christopher Pike,1991,5,7.6
 3499125803,Wassermusik. Roman.,Tom Coraghessan Boyle,1990,5,7.6
+0671736809,"GRADUATION (FINAL FRIENDS 3) : GRADUATION (Final Friends, No 3)",Christopher Pike,1991,5,7.6
 042506803X,Taken at the Flood (Hercule Poirot Mysteries (Paperback)),Agatha Christie,2004,5,7.6
 0060907002,No One Writes to the Colonel,Gabriel Garcia Marquez,1979,5,7.6
 055323336X,God Project,John Saul,1983,5,7.6
-0671700103,"The Eyes of the Beholders (Star Trek: The Next Generation, No. 13)",A.C. Crispin,1990,5,7.6
 345386980X,Der Richter.,John Grisham,2003,5,7.6
+0671700103,"The Eyes of the Beholders (Star Trek: The Next Generation, No. 13)",A.C. Crispin,1990,5,7.6
 0312981848,Record Time,Beverly Brandt,2002,5,7.6
+0449912302,Dave Barry in Cyberspace,Dave Barry,1997,5,7.6
 222613459X,L'Arbre des possibles et autres histoires,Bernard Werber,2002,5,7.6
 0446600458,The Thomas Berryman Number,James Patterson,1996,5,7.6
-0449912302,Dave Barry in Cyberspace,Dave Barry,1997,5,7.6
 2070426823,"Dirk Gentle, dÃ?Â©tective holistique, tome 1 : Un cheval dans la salle de bains",Douglas Adams,2003,5,7.6
 0393049566,Socrates Cafe: A Fresh Taste of Philosophy,Christopher Phillips,2001,5,7.6
 0553584367,Dream of Me/Believe in Me,Josie Litton,2001,5,7.6
@@ -5650,11 +5650,11 @@ ISBN,title,author,year,total_ratings,average_rating
 0553089218,The Web,Jonathan Kellerman,1996,5,7.6
 0821769286,Knight Triumphant (Zebra Historical Romance),Shannon Drake,2002,5,7.6
 3499134039,"Schade, daÃ?Â? du nicht tot bist. Ein Fall fÃ?Â¼r Mrs. Murphy.",Rita Mae Brown,1994,5,7.6
-0452264790,Tar Baby,Toni Morrison,1987,5,7.6
 2266034839,Entretien Avec UN Vampire/Interview With the Vampire,Anne Rice,1992,5,7.6
+0452264790,Tar Baby,Toni Morrison,1987,5,7.6
 2070417948,La Jeune Fille a la Perle / Girl with a Pearl Earring,Tracy Chevalier,2002,5,7.6
-0451186648,Silent Snow,Steve Thayer,2000,5,7.6
 0446608270,The Last Victim : A True-Life Journey into the Mind of the Serial Killer,Jason Moss,2000,5,7.6
+0451186648,Silent Snow,Steve Thayer,2000,5,7.6
 2070364232,Le Petit Nicolas,Goscinny Sempe,1989,5,7.6
 0446611514,Skin Tight,Carl Hiaasen,2002,5,7.6
 0553583913,Castles in the Mist,Josie Litton,2002,5,7.6
@@ -5686,8 +5686,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0671692674,Dirk Gently's Holistic Detective Agency,Douglas Adams,1989,5,7.6
 0446360325,Naked Once More,Barbara Mertz,1990,5,7.6
 0451205987,Wild at Heart,Patricia Gaffney,2002,5,7.6
-8423307247,Las Ratas,Miguel Delibes,2003,5,7.6
 0505522551,The Last Viking (Viking),Sandra Hill,1998,5,7.6
+8423307247,Las Ratas,Miguel Delibes,2003,5,7.6
 0380781042,"Grail (The Pendragon Cycle, Book 5)",Stephen R. Lawhead,1998,5,7.6
 080505104X,The Church of Dead Girls: A Novel,Stephen Dobyns,1998,5,7.6
 0609806564,Aqua Erotica: 18 Stories for a Steamy Bath,Mary Anne Mohanraj,2000,5,7.6
@@ -5708,9 +5708,9 @@ ISBN,title,author,year,total_ratings,average_rating
 1551665352,Remember Me,Sharon Sala,1999,5,7.6
 0804107149,Ordinary Love and Good Will,Jane Smiley,1991,5,7.6
 0767902076,Take Time for Your Life: A Personal Coach's Seven-Step Program for Creating the Life You Want,Cheryl Richardson,1999,5,7.6
-0449219143,Bethlehem Road,Anne Perry,1997,5,7.6
 0064400204,Sounder,William H. Armstrong,1972,5,7.6
 0307021491,Alice in Wonderland,Jane Werner,1920,5,7.6
+0449219143,Bethlehem Road,Anne Perry,1997,5,7.6
 3453147235,Wassermelone.,Marian Keyes,1998,5,7.6
 0345368436,Starship Titanic,Terry Jones,1998,5,7.6
 0671774786,Section 31: Shadow (Star Trek Voyager),Dean Wesley Smith,2001,5,7.6
@@ -5738,8 +5738,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0345368975,Pegasus in Flight,Anne McCaffrey,1991,5,7.6
 2253147923,Comment voyager avec un saumon. Nouveaux pastiches et postiches,Umberto Eco,2000,5,7.6
 1566193087,Wuthering Heights,Emily Bronte,1994,5,7.6
-0060192895,Hunting Badger,Tony Hillerman,1999,5,7.6
 0380773805,The Class Menagerie (Jane Jeffry Mysteries (Paperback)),Jill Churchill,1999,5,7.6
+0060192895,Hunting Badger,Tony Hillerman,1999,5,7.6
 0156013908,The Honey Thief,Elizabeth Graver,2000,5,7.6
 0312857675,A Crown of Swords : Book Seven of 'The Wheel of Time' (Wheel of Time),Robert Jordan,1996,5,7.6
 0425098087,Zodiac,Robert Graysmith,2002,5,7.6
@@ -5813,15 +5813,15 @@ ISBN,title,author,year,total_ratings,average_rating
 0553564978,Venus Envy,Rita Mae Brown,1996,7,7.57
 0451194888,The Burglar Who Studied Spinoza: A Bernie Rhodenbarr Mystery (Burglar Series),Lawrence Block,1998,7,7.57
 0886775167,"Winds of Fate (The Mage Winds, Book 1)",Mercedes Lackey,1997,7,7.57
-0449209105,The Promise,Chaim Potok,1985,7,7.57
 0553575619,Raptor Red,ROBERT T. BAKKER,1996,7,7.57
 0060002077,A Gentleman's Honor,Stephanie Laurens,2003,7,7.57
 0679404864,Dave Barry's Guide to Guys: A Fairly Short Book,Dave Barry,1995,7,7.57
+0449209105,The Promise,Chaim Potok,1985,7,7.57
 0380820056,Stuck on You (Avon Romance),Patti Berg,2003,7,7.57
 0747525722,The Tortilla Curtain,Coraghessan T. Boyle,1996,7,7.57
 0156453800,Invisible Cities (A Harvest/Hbj Book),Italo Calvino,1978,7,7.57
-0440219760,The Transall Saga,GARY PAULSEN,1999,7,7.57
 0451209486,Killer Hair,Ellen Byerrum,2003,7,7.57
+0440219760,The Transall Saga,GARY PAULSEN,1999,7,7.57
 0425098451,N or M?,Agatha Christie,1996,7,7.57
 0807508527,"The Boxcar Children (Boxcar Children, No 1)",Gertrude Chandler Warner,1989,7,7.57
 0440219329,Both Sides of Time (Scholastic Classics),Caroline B. Cooney,1997,7,7.57
@@ -5834,9 +5834,9 @@ ISBN,title,author,year,total_ratings,average_rating
 0743420373,The Millionaire Next Door: The Surprising Secrets of America's Wealthy,Thomas J. Stanley,2000,7,7.57
 0060988258,Running In Heels: A Novel,Anna Maxted,2002,7,7.57
 0449006840,Hide and Seek,Cherry Adair,2001,7,7.57
-0440216877,Promises,Belva Plain,1997,7,7.57
 0886776376,Foreigner: A Novel of First Contact (Daw Book Collectors),C.J. Cherryh,1994,7,7.57
 0553564684,Star Wars: Tales from the Mos Eisley Cantina (Star Wars (Random House Paperback)),Kevin J. Anderson,1995,7,7.57
+0440216877,Promises,Belva Plain,1997,7,7.57
 0151003076,The Curious Sofa: A Pornographic Work by Ogdred Weary,Edward Gorey,1997,7,7.57
 038532720X,Demon in My View,Amelia Atwater-Rhodes,2000,7,7.57
 0515131660,Once upon a Rose,Nora Roberts,2001,7,7.57
@@ -5906,8 +5906,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0312287364,Feeling Sorry for Celia : A Novel,Jaclyn Moriarty,2002,9,7.56
 0061091464,The Thief of Always,Clive Barker,1993,9,7.56
 1551668432,Texas Ranger,Diana Palmer,2001,9,7.56
-0553268945,Forging the Darksword (Darksword Trilogy),Margaret Weis,1997,9,7.56
 0440234700,The Bridegroom,Joan Johnston,1999,9,7.56
+0553268945,Forging the Darksword (Darksword Trilogy),Margaret Weis,1997,9,7.56
 0440241812,Shopaholic Takes Manhattan,SOPHIE KINSELLA,2004,9,7.56
 0671742760,DRAGON,Clive Cussler,1991,9,7.56
 0425154882,Carriers,Patrick Lynch,1996,9,7.56
@@ -5972,8 +5972,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0449204324,Blue Highways a Journey Into America,William Least Heat-Moon,1983,15,7.53
 0451409973,Julie and Romeo: A Novel,Jeanne Ray,2001,15,7.53
 0553287346,Well-Schooled in Murder,Elizabeth George,1991,15,7.53
-0425178951,Deep South,Nevada Barr,2001,15,7.53
 0373484429,Reflections And Dreams,Nora Roberts,2001,15,7.53
+0425178951,Deep South,Nevada Barr,2001,15,7.53
 0425184943,Blue Diary,Alice Hoffman,2002,15,7.53
 044023722X,A Painted House,John Grisham,2001,156,7.52
 0440226104,Black and Blue,ANNA QUINDLEN,1999,67,7.52
@@ -6046,8 +6046,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0671867296,Imzadi (Star Trek: The Next Generation),Peter David,1993,10,7.5
 0373240007,"Pride Of Jared Mackade (The Mackade Brothers/) (Silhouette Special Edition, No 1000)",Nora Roberts,1995,10,7.5
 0140445560,The Odyssey (Penguin Classics),Homer,1992,10,7.5
-8420482013,La piel del tambor,Arturo Perez-Reverte,1998,8,7.5
 0671793888,Cowboys Are My Weakness,Pam Houston,1993,8,7.5
+8420482013,La piel del tambor,Arturo Perez-Reverte,1998,8,7.5
 1573226882,Fever Pitch,Nick Hornby,1998,8,7.5
 076534128X,Rebekah (Women of Genesis),Orson Scott Card,2002,8,7.5
 0688171621,Naked Pictures of Famous People,Jon Stewart,1999,8,7.5
@@ -6064,8 +6064,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0811821706,The Bad Girl's Guide to the Open Road,Cameron Tuttle,1999,8,7.5
 0140245162,Nice Girls Finish Last (Viking Mystery Suspense),Sparkle Hayter,1997,8,7.5
 006109157X,Dead Eyes,Stuart Woods,1994,8,7.5
-0385489129,My Losing Season (Alex Awards (Awards)),Pat Conroy,2002,8,7.5
 0440224721,Obstruction of Justice,Perry O'Shaughnessy,1998,8,7.5
+0385489129,My Losing Season (Alex Awards (Awards)),Pat Conroy,2002,8,7.5
 0553582941,Sole Survivor,DEAN KOONTZ,2000,8,7.5
 0375508562,The Demon in the Freezer : A True Story,RICHARD PRESTON,2002,8,7.5
 0316198951,Jim the Boy : A Novel,Tony Earley,2001,8,7.5
@@ -6090,8 +6090,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0812575237,Legends 2 : Short Novels by the Masters of Modern Fantasy,Terry Goodkind,1999,8,7.5
 0060959355,More Than You Know: A Novel,Beth Gutcheon,2001,8,7.5
 0345440021,Funeral in Blue,Anne Perry,2002,8,7.5
-0684852047,SPENDING: A Novel,Mary Gordon,1999,8,7.5
 0886776287,Sing the Four Quarters (Daw Book Collectors),Tanya Huff,1996,8,7.5
+0684852047,SPENDING: A Novel,Mary Gordon,1999,8,7.5
 0609806505,"Guenevere, Queen of the Summer Country (Guenevere Novels (Paperback))",ROSALIND MILES,2000,8,7.5
 0425155188,Rapture in Death,J. D. Robb,1996,8,7.5
 3453210697,Die Bruderschaft,John Grisham,2003,8,7.5
@@ -6103,12 +6103,12 @@ ISBN,title,author,year,total_ratings,average_rating
 0440120500,The Dirty Duck,Martha Grimes,1990,6,7.5
 0786889047,Burning Angel (Dave Robicheaux Mysteries (Paperback)),James Lee Burke,1996,6,7.5
 0671721135,THROUGH THE ICE,Piers Anthony,1992,6,7.5
-0743223551,"The Kills (Fairstein, Linda)",Linda Fairstein,2004,6,7.5
 0812541642,Waiting,Frank M. Robinson,2000,6,7.5
+0743223551,"The Kills (Fairstein, Linda)",Linda Fairstein,2004,6,7.5
 0449211991,Banker,Dick Francis,1989,6,7.5
 0091867908,Playing the Moldovans at Tennis,Tony Hawks,2000,6,7.5
-0446360511,Eloquent Silence,Sandra Brown,1995,6,7.5
 0515132039,Guest Shot,David Locke,2001,6,7.5
+0446360511,Eloquent Silence,Sandra Brown,1995,6,7.5
 078688861X,Men and Other Mammals,Jim Keeble,2003,6,7.5
 038000772X,I'm Ok-You're Ok,Thomas Harris,2004,6,7.5
 0756400627,The Better Part of Valor,Tanya Huff,2002,6,7.5
@@ -6126,9 +6126,9 @@ ISBN,title,author,year,total_ratings,average_rating
 2253006629,L'Arrache-coeur: Roman (Livre de poche),Boris Vian,1992,6,7.5
 0385021747,In God We Trust: All Others Pay Cash,Jean Shepherd,1991,6,7.5
 0880389095,"Riverwind the Plainsman (Dragonlance: Preludes, Volume 4)",Paul B. Thompson,1990,6,7.5
-0517702967,The Third Twin: A Novel,Ken Follett,1996,6,7.5
 0609605925,Angel Falls,KRISTIN HANNAH,2000,6,7.5
 0345447913,The Alpine Obituary,Mary Daheim,2002,6,7.5
+0517702967,The Third Twin: A Novel,Ken Follett,1996,6,7.5
 0312969198,A Cold Day in Paradise (Alex McKnight Mysteries (Paperback)),Steve Hamilton,2000,6,7.5
 0060652926,Mere Christianity,C. S. Lewis,2001,6,7.5
 0312926294,The Carousel,Rosamunde Pilcher,1991,6,7.5
@@ -6151,8 +6151,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0345349342,Juxtaposition (Apprentice Adept (Paperback)),Piers Anthony,1991,6,7.5
 0440214424,Out of Sight,Elmore Leonard,1998,6,7.5
 038097536X,The Heir,Johanna Lindsey,2000,6,7.5
-042518045X,Unraveled Sleeve (Needlecraft Mysteries),Monica Ferris,2001,6,7.5
 0385313667,Total Recall: A V.I. Warshawski Novel,Sara Paretsky,2001,6,7.5
+042518045X,Unraveled Sleeve (Needlecraft Mysteries),Monica Ferris,2001,6,7.5
 0451527097,One Day in the Life of Ivan Denisovich (Signet Classics (Paperback)),Alexander Solzhenitsyn,1998,6,7.5
 1551669072,Desperate Measures (Barbara Holloway Novels (Paperback)),Kate Wilhelm,2002,6,7.5
 0385501412,Three Weeks in Paris,BARBARA TAYLOR BRADFORD,2002,6,7.5
@@ -6162,9 +6162,9 @@ ISBN,title,author,year,total_ratings,average_rating
 1558742913,Chicken Soup for the Soul (Chicken Soup for the Soul Series  (Cloth)),Jack Canfield,1993,6,7.5
 0451518640,The Wonderful Wizard of Oz (Signet Classics (Paperback)),L. Frank Baum,1984,6,7.5
 0062513591,Your Sixth Sense: Unlocking the Power of Your Intuition,Belleruth Naparstek,1997,6,7.5
+0553562746,Fanta C,Sandra Brown,1993,6,7.5
 0880385480,"The Legend of Huma (Dragonlance Heroes, Vol. 1)",Richard Knaak,1988,6,7.5
 0767903625,"Wake Up, I'm Fat!",Camryn Manheim,1999,6,7.5
-0553562746,Fanta C,Sandra Brown,1993,6,7.5
 0812506898,The Phoenix Guards (Phoenix Guards),Steven Brust,1992,6,7.5
 0515110396,Compelling Evidence,Steven Paul Martini,1993,6,7.5
 0684846713,HOLDING OUT : A NOVEL,Anne O. Faulk,1998,6,7.5
@@ -6249,8 +6249,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0671873199,All That Glitters (Landry),V.C. Andrews,1995,11,7.45
 0671002031,Temptation,Jude Deveraux,2000,11,7.45
 1551668246,Perfect Evil (Maggie O'Dell Novels (Paperback)),Alex Kava,2001,11,7.45
-0345382323,The PMS Outlaws : An Elizabeth MacPherson Novel,Sharyn McCrumb,2001,11,7.45
 0385306024,Accident,Danielle Steel,1994,11,7.45
+0345382323,The PMS Outlaws : An Elizabeth MacPherson Novel,Sharyn McCrumb,2001,11,7.45
 0515129933,The Scottish Bride (Bride Trilogy (Paperback)),Catherine Coulter,2001,11,7.45
 0380780860,Murder on a Girls' Night Out: A Southern Sisters Mystery,Anne George,1996,11,7.45
 0449006344,Angel Falls,KRISTIN HANNAH,2001,11,7.45
@@ -6315,8 +6315,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0553572040,Killer Pancake,Diane Mott Davidson,1996,14,7.43
 0812533666,Isle of Woman (Geodyssey),Piers Anthony,1994,14,7.43
 0804109729,Russka : The Novel of Russia,EDWARD RUTHERFURD,1992,14,7.43
-0385494246,Amsterdam : A Novel,IAN MCEWAN,1999,14,7.43
 0374270325,A Man in Full,Tom Wolfe,1998,14,7.43
+0385494246,Amsterdam : A Novel,IAN MCEWAN,1999,14,7.43
 0553287532,Wish You Were Here (Mrs. Murphy Mysteries (Paperback)),RITA MAE BROWN,1991,14,7.43
 0061000175,Skinwalkers (Joe Leaphorn/Jim Chee Novels),Tony Hillerman,1990,14,7.43
 084395048X,Lair of the Lion,Christine Feehan,2002,14,7.43
@@ -6438,8 +6438,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0312252943,Welcome to Temptation,Jennifer Crusie,2000,5,7.4
 0373226063,Bayou Blood Brothers: Tyler/Nick/Jules (Harlequin Intrigue 606),Rebecca York,2001,5,7.4
 0380000490,Sunshine: A Novel (An Avon/Flare Book),Norma Klein,1982,5,7.4
-3442442540,Der Verehrer.,Charlotte Link,1998,5,7.4
 0684867818,The Looking Glass : A Novel (The Locket Series),Richard Paul Evans,1999,5,7.4
+3442442540,Der Verehrer.,Charlotte Link,1998,5,7.4
 0312979770,The Seven Dials Mystery (St. Martin's Minotaur Mysteries),Agatha Christie,2001,5,7.4
 051509160X,Hummingbird,Lavyrle Spencer,1994,5,7.4
 0060161582,The Lost Continent: Travels in Small Town America,Bill Bryson,1989,5,7.4
@@ -6454,18 +6454,18 @@ ISBN,title,author,year,total_ratings,average_rating
 0380777150,From Here to Paternity (Jane Jeffry Mysteries (Paperback)),Jill Churchill,1995,5,7.4
 0812545249,The Chronoliths,Robert Charles Wilson,2002,5,7.4
 0449215946,Illumination Night,Alice Hoffman,1992,5,7.4
+8845407039,E Venne Chiamata Due Cuori,M. Morgan,1998,5,7.4
 0553298062,Star Wars: Showdown at Centerpoint (Star Wars: The Corellian Trilogy (Paperback)),Roger MacBride Allen,1998,5,7.4
 0671747150,Fancy Pants,Susan Elizabeth Phillips,1991,5,7.4
-8845407039,E Venne Chiamata Due Cuori,M. Morgan,1998,5,7.4
 1573228281,A Gesture Life,Chang-Rae Lee,2000,5,7.4
 1551665956,Between The Lines,Jayne Ann Krentz,2000,5,7.4
 0760700435,Sense and sensibility,Jane Austen,1996,5,7.4
 0373709366,Born in a Small Town (Harlequin SuperRomance 936),Debbie Macomber,2000,5,7.4
 0316693707,Kiss the Girls,James Patterson,1995,5,7.4
 1853260614,Dr. Jekyll &amp; Mr. Hyde (Wordsworth Classics),Robert Louis Stevenson,1997,5,7.4
-0345435648,Indigo Slam: An Elvis Cole Novel (Elvis Cole Novels (Paperback)),Robert Crais,2003,5,7.4
 0688084885,Memories of Midnight,Sidney Sheldon,1990,5,7.4
 0312926456,"Unanswered Cries : A True Story Of Friends, Neighbors, And Murder In A Small Town",Thomas French,1992,5,7.4
+0345435648,Indigo Slam: An Elvis Cole Novel (Elvis Cole Novels (Paperback)),Robert Crais,2003,5,7.4
 089577402X,A journey to the center of the earth (World's best reading),Jules Verne,1992,5,7.4
 0671013971,"The Two Front War (Star Trek New Frontier, No 3)",Peter David,1997,5,7.4
 084230052X,Atonement Child,Francine Rivers,1999,5,7.4
@@ -6476,13 +6476,13 @@ ISBN,title,author,year,total_ratings,average_rating
 0749336021,The Joy Luck Club,Amy Tan,1994,5,7.4
 0140075569,It Was a Dark and Stormy Night: The Best (?) from the Bulwer-Lytton Contest,Scott Rice,1984,5,7.4
 006105903X,Moonseed,Stephen Baxter,1999,5,7.4
-0805063315,Dr. Tatiana's Sex Advice to All Creation: The Definitive Guide to the Evolutionary Biology of Sex,Olivia Judson,2002,5,7.4
 0786011440,Cradle and All,Zachary Alan Fox,2000,5,7.4
+0805063315,Dr. Tatiana's Sex Advice to All Creation: The Definitive Guide to the Evolutionary Biology of Sex,Olivia Judson,2002,5,7.4
 0140430032,Great Expectations (English Library),Charles Dickens,1985,5,7.4
 0156005646,The Answer Is Yes: A Novel,Sara Lewis,1999,5,7.4
 0684853302,"The Touch : A Novel (Mccullough, Colleen)",Colleen McCullough,2003,5,7.4
-0060083255,Ties That Bind: A Novel,Phillip Margolin,2004,5,7.4
 038529932X,Tunnel Vision (V.I. Warshawski Novels (Hardcover)),Sara Paretsky,1994,5,7.4
+0060083255,Ties That Bind: A Novel,Phillip Margolin,2004,5,7.4
 1400032644,The Diary of an American Au Pair: A Novel,Marjorie Leet Ford,2003,5,7.4
 0312876637,The Folk of the Fringe,Orson Scott Card,2001,5,7.4
 0553268120,All Creatures Great and Small,James Herriot,1985,5,7.4
@@ -6491,8 +6491,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0552144789,Automated Alice,Jeff Noon,1997,5,7.4
 0451195671,Crimes and Misdemeanors: New and Original Stories of Love and Death,Elaine Koster,1998,5,7.4
 034531798X,Foundation (Foundation Novels (Paperback)),Isaac Asimov,1984,5,7.4
-042517638X,Godplayer,Robin Cook,2002,5,7.4
 3442435951,Ich schenk Dir meinen Mann.,Claudia Keller,1997,5,7.4
+042517638X,Godplayer,Robin Cook,2002,5,7.4
 0345440080,Seven Dials,ANNE PERRY,2004,5,7.4
 3442448794,Traumreisende.,Marlo Morgan,2000,5,7.4
 0679441239,Anything Considered,Peter Mayle,1996,5,7.4
@@ -6500,24 +6500,24 @@ ISBN,title,author,year,total_ratings,average_rating
 0451208501,Bubbles in Trouble (Bubbles Books),Sarah Strohmeyer,2003,5,7.4
 0609810022,Kiss and Make-Up,Gene Simmons,2002,5,7.4
 0425093476,Clive Barker's Books of Blood (Clive Barker's Books of Blood),Clive Barker,1992,5,7.4
-0446363383,The Last Camel Died at Noon (Amelia Peabody Mysteries (Paperback)),Elizabeth Peters,1992,5,7.4
 0843951826,Body Rides,Richard Laymon,2004,5,7.4
+0446363383,The Last Camel Died at Noon (Amelia Peabody Mysteries (Paperback)),Elizabeth Peters,1992,5,7.4
 0316570826,The Man in My Basement: A Novel,Walter Mosley,2004,5,7.4
 0399147632,The Music of the Spheres,Elizabeth Redfern,2001,5,7.4
-0553230212,Parsifal Mosaic,Robert Ludlum,1983,5,7.4
 0446612618,A Kiss Remembered,Sandra Brown,2003,5,7.4
+0553230212,Parsifal Mosaic,Robert Ludlum,1983,5,7.4
 0394758277,"Farewell, My Lovely (Vintage Crime/Black Lizard)",Raymond Chandler,1992,5,7.4
 0671878670,DID YOU SAY CHICKS,Esther Friesner,1998,5,7.4
 0440167477,The Old Fox Deceiv'D,Martha Grimes,1988,5,7.4
-0380764008,Grime and Punishment (Jane Jeffry Mysteries (Paperback)),Jill Churchill,1992,5,7.4
 1551666936,Prospect Street,Emilie Richards,2003,5,7.4
+0380764008,Grime and Punishment (Jane Jeffry Mysteries (Paperback)),Jill Churchill,1992,5,7.4
 0671502522,A Holiday Of Love,Judith McNaught,1994,5,7.4
 0345374266,Shadows in Bronze,Lindsey Davis,1993,5,7.4
 0553273701,Out on a Limb,Shirley MacLaine,1986,5,7.4
 0671013955,"House of Cards (Star Trek New Frontier, No 1)",Peter David,1997,5,7.4
 2264029951,"Chroniques de San Francisco, tome 1",Armistead Maupin,2000,5,7.4
-2070757625,Balzac et la petite tailleuse chinoise,Dai Sijie,2002,5,7.4
 0140233903,Paddy Clarke Ha Ha Ha,Roddy Doyle,1995,5,7.4
+2070757625,Balzac et la petite tailleuse chinoise,Dai Sijie,2002,5,7.4
 3426615355,How to be good.,Nick Hornby,2003,5,7.4
 0140501738,Corduroy (Picture Puffins),Don Freeman,1976,5,7.4
 037322592X,"Alias Mommy (Secret Identity) (Intrigue, 592)",Linda O. Johnston,2000,5,7.4
@@ -6538,8 +6538,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0812507452,"People of the Sea (The First North Americans series, Book 5)",W. Michael Gear,1994,5,7.4
 1577489756,Once upon a Time: 4 Modern Romance Stories With All the Enchantment of a Fairy Tale,Irene Brand,2000,5,7.4
 0812522400,Lord of the Isles (Lord of the Isles),David Drake,1998,5,7.4
-0345311078,Dragon on a Pedestal,Piers Anthony,1983,5,7.4
 0449150046,Mrs. Pollifax and the Lion Killer (Mrs. Pollifax Mysteries (Paperback)),Dorothy Gilman,1997,5,7.4
+0345311078,Dragon on a Pedestal,Piers Anthony,1983,5,7.4
 037387216X,Promise Forever,Marta Perry,2003,5,7.4
 0671799312,SILENT PASSAGE: MENOPAUSE : SILENT PASSAGE: MENOPAUSE,Gail Sheehy,1993,5,7.4
 0767902912,An Equal Music,Vikram Seth,1999,5,7.4
@@ -6563,8 +6563,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0670030457,The Grave Maurice,Martha Grimes,2002,5,7.4
 0553249002,Aquitaine Progression,Robert Ludlum,1985,5,7.4
 0967370167,Ella Minnow Pea: A Progressively Lipogrammatic Epistolary Fable,Mark Dunn,2001,5,7.4
-0373802048,In Camelot's Shadow,Sarah Zettel,2004,5,7.4
 0515118362,The Valentine Legacy,Catherine Coulter,1996,5,7.4
+0373802048,In Camelot's Shadow,Sarah Zettel,2004,5,7.4
 0553211684,Tess of the d'Urbervilles,THOMAS HARDY,1984,5,7.4
 0843948272,The Blue Viking,Sandra Hill,2001,5,7.4
 1741140781,Growth Fetish,Clive Hamilton,2003,5,7.4
@@ -6583,8 +6583,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0425174379,Other People's Children,Joanna Trollope,2000,5,7.4
 1551664372,Pirate,Jayne Ann Krentz,1998,5,7.4
 0380791986,Six Moon Dance,Sheri S. Tepper,1999,5,7.4
-3257201834,Der Grobe Gatsby/the Great Gatsby,F. Scott Fitzgerald,1994,5,7.4
 0060009012,The Lost Son: A Life in Pursuit of Justice,Bernard B. Kerik,2001,5,7.4
+3257201834,Der Grobe Gatsby/the Great Gatsby,F. Scott Fitzgerald,1994,5,7.4
 0515135305,Catching Midnight,Emma Holly,2003,5,7.4
 0060987529,Confessions of an Ugly Stepsister : A Novel,Gregory Maguire,2000,74,7.39
 0767905202,Mr. Maybe,Jane Green,2002,28,7.39
@@ -6635,9 +6635,9 @@ ISBN,title,author,year,total_ratings,average_rating
 0553571907,Mischief,Amanda Quick,1997,8,7.38
 0684824892,Wait Till Next Year : A MEMOIR,Doris Kearns Goodwin,1997,8,7.38
 0060001453,Love With the Proper Husband (Avon Historical Romance),Victoria Alexander,2003,8,7.38
-0671527886,POSSESSION,Ann Rule,1997,8,7.38
 0380814390,Lola Carlyle Reveals All (Avon Light Contemporary Romances),Rachel Gibson,2002,8,7.38
 8423309142,Requiem Por un Campesino Espanol (Coleccibon Destinolibro),Ramon J. Sender,1997,8,7.38
+0671527886,POSSESSION,Ann Rule,1997,8,7.38
 0399146652,The Cat Who Smelled a Rat,Lilian Jackson Braun,2001,8,7.38
 0425163717,Holiday in Death,J. D. Robb,1998,8,7.38
 0743411439,Bitterroot,James Lee Burke,2002,8,7.38
@@ -6652,8 +6652,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0446601640,Slow Waltz in Cedar Bend,Robert James Waller,1994,8,7.38
 0061090808,New York Dead,Stuart Woods,1992,8,7.38
 0385312202,Leaving Cold Sassy: The Unfinished Sequel to Cold Sassy,Olive Ann Burns,1994,8,7.38
-0380400480,A Pirate's Love,Johanna Lindsey,1978,8,7.38
 0679441557,Ladder of Years,Anne Tyler,1995,8,7.38
+0380400480,A Pirate's Love,Johanna Lindsey,1978,8,7.38
 0743451414,"Sin Killer : The Berrybender Narrative, Book 1",Larry McMurtry,2003,8,7.38
 0345453417,"Cry No More (Howard, Linda)",LINDA HOWARD,2003,8,7.38
 0765300176,Shadow Puppets (Ender),Orson Scott Card,2002,8,7.38
@@ -6712,8 +6712,8 @@ ISBN,title,author,year,total_ratings,average_rating
 055358099X,Cloud Nine,Luanne Rice,2000,15,7.33
 0141001771,Welcome to My Planet: Where English Is Sometimes Spoken,Shannon Olson,2001,15,7.33
 0140092323,Lake Wobegon days,Garrison Keillor,1986,15,7.33
-0380815923,Blackberry Wine : A Novel,Joanne Harris,2001,15,7.33
 0440235804,Her Father's House,BELVA PLAIN,2003,15,7.33
+0380815923,Blackberry Wine : A Novel,Joanne Harris,2001,15,7.33
 0446605581,Fat Tuesday,Sandra Brown,1998,12,7.33
 0345391829,"Life, the Universe, and Everything (Hitchhiker's Trilogy (Paperback))",DOUGLAS ADAMS,1995,12,7.33
 0345404777,No Safe Place,RICHARD NORTH PATTERSON,1999,12,7.33
@@ -6724,8 +6724,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0446603392,Strange Highways,Dean Koontz,1996,12,7.33
 0553585118,Once a Thief,Kay Hooper,2002,12,7.33
 0140262032,Revenge of the Cootie Girls: A Robin Hudson Mystery (Robin Hudson Mysteries (Paperback)),Sparkle Hayter,1998,12,7.33
-042514545X,Fool's Puzzle,Earlene Fowler,1995,12,7.33
 0060008776,Pagan Babies,Elmore Leonard,2002,12,7.33
+042514545X,Fool's Puzzle,Earlene Fowler,1995,12,7.33
 0743418131,Deck the Halls (Holiday Classics),Mary Higgins Clark,2002,9,7.33
 0679781277,Martin Dressler : The Tale of an American Dreamer (Vintage Contemporaries),STEVEN MILLHAUSER,1997,9,7.33
 0446341916,The Naked Face,Sidney Sheldon,1985,9,7.33
@@ -6791,9 +6791,9 @@ ISBN,title,author,year,total_ratings,average_rating
 0140099832,Lake Wobegon Days,Garrison Keillor,1990,6,7.33
 0684859726,Fatal Voyage : A Novel,Kathy Reichs,2001,6,7.33
 006440031X,The First Four Years (Little House),Laura Ingalls Wilder,1953,6,7.33
+0440501601,"Do What You Love, The Money Will Follow : Discovering Your Right Livelihood",MARSHA SINETAR,1989,6,7.33
 0765342510,The Santaroga Barrier,Frank Herbert,2002,6,7.33
 0836204158,It'S Obvious You Won'T Survive By Your Wits Alone,Scott Adams,1995,6,7.33
-0440501601,"Do What You Love, The Money Will Follow : Discovering Your Right Livelihood",MARSHA SINETAR,1989,6,7.33
 0345423631,Night of the Wolf,Alice Borchardt,2000,6,7.33
 0060972459,Tracks RI,Louise Erdrich,2004,6,7.33
 0515131741,Lost and Found,Jayne Ann Krentz,2001,6,7.33
@@ -6820,8 +6820,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0679737383,Anywhere but Here,MONA SIMPSON,1992,6,7.33
 0671646575,Heat and Dust,Ruth Prawer Jhabvala,1987,6,7.33
 0684848066,In the Meantime : Finding Yourself and the Love You Want,Iyanla Vanzant,1999,6,7.33
-0061007161,First Among Equals,Jeffrey Archer,1997,6,7.33
 0812589041,Ender's Game,Orson Scott Card,1999,6,7.33
+0061007161,First Among Equals,Jeffrey Archer,1997,6,7.33
 0345466632,The Demon in the Freezer,RICHARD PRESTON,2003,6,7.33
 0553581767,Manhattan Is My Beat,JEFFERY DEAVER,2000,6,7.33
 0425165701,Ruthless.Com (Tom Clancy's Power Plays (Paperback)),Tom Clancy,1998,6,7.33
@@ -6830,12 +6830,12 @@ ISBN,title,author,year,total_ratings,average_rating
 0451209540,The Policy,Bentley Little,2003,6,7.33
 0316107107,Bloom County: Loose Tails,Berke Breathed,1983,6,7.33
 0553802038,Fatal,MICHAEL PALMER,2002,6,7.33
-0345351959,Willow: A Novel,Wayland Drew (Adapter),1988,6,7.33
 0449003655,Thale's Folly,Dorothy Gilman,2000,6,7.33
+0345351959,Willow: A Novel,Wayland Drew (Adapter),1988,6,7.33
 0670032808,The Good Wife Strikes Back,Elizabeth Buchan,2003,6,7.33
 0380811898,A Penny Urned (Den of Antiquity),Tamar Myers,2000,6,7.33
-8433912542,Wilt/Spanish,Tom Sharpe,1985,6,7.33
 2253154393,Le dÃ?Â©mon et mademoiselle Prym,P. Coelho,2003,6,7.33
+8433912542,Wilt/Spanish,Tom Sharpe,1985,6,7.33
 0385334389,Gates of Eden,Ethan Coen,1999,6,7.33
 0679766758,Push,Sapphire,1997,6,7.33
 0425156842,Sophie's World: A Novel About the History of Philosophy (Berkeley Signature Edition),Jostein Gaarder,1997,6,7.33
@@ -6897,8 +6897,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0060184957,"Pride, Prejudice and Jasmin Field : A Novel",Melissa Nathan,2001,10,7.3
 081257639X,"Faith of the Fallen (Sword of Truth, Book 6)",Terry Goodkind,2001,10,7.3
 0553572512,Playing for the Ashes,ELIZABETH GEORGE,1995,10,7.3
-0553288342,Sleepwalk,John Saul,1997,10,7.3
 0061093327,Low Country,Anne Rivers Siddons,1999,10,7.3
+0553288342,Sleepwalk,John Saul,1997,10,7.3
 0440224624,The Loop,Nicholas Evans,1999,35,7.29
 0671004565,We'll Meet Again,Mary Higgins Clark,2000,34,7.29
 1565122968,Gap Creek: A Novel,Robert Morgan,2000,21,7.29
@@ -6926,8 +6926,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0425132935,Pastime,Robert B. Parker,1996,7,7.29
 0380794470,Dream a Little Dream,Susan Elizabeth Phillips,1998,7,7.29
 0312962452,Medusa's Child,John J. Nance,1997,7,7.29
-0932379516,Trash,Dorothy Allison,1989,7,7.29
 0553579835,The Matarese Countdown,Robert Ludlum,1998,7,7.29
+0932379516,Trash,Dorothy Allison,1989,7,7.29
 0451197429,The Disappearance,J. F. Freedman,1999,7,7.29
 0517706814,The Law of Love,Laura Esquivel,1996,7,7.29
 0156329301,The Four Loves,C. S. Lewis,1971,7,7.29
@@ -6946,17 +6946,17 @@ ISBN,title,author,year,total_ratings,average_rating
 0684848961,Chocolate For A Womans Heart : 77 Stories Of Love Kindness And Compassion To Nourish Your Soul And Sweeten Yo,Kay Allenbaugh,1998,7,7.29
 0786817089,"The Arctic Incident (Artemis Fowl, Book 2)",Eoin Colfer,2003,7,7.29
 0816710384,The Whipping Boy,Sid Fleischman,1987,7,7.29
-0425184056,Gunpowder Green,Laura Childs,2002,7,7.29
 0440237300,Three Weeks in Paris,BARBARA TAYLOR BRADFORD,2002,7,7.29
+0425184056,Gunpowder Green,Laura Childs,2002,7,7.29
 0440204321,A Gift of Wings,Richard Bach,1989,7,7.29
 0345459407,Perdido Street Station,China Mieville,2003,7,7.29
 0671742647,"Chains of Command (Star Trek The Next Generation, No 21)",W.A. McCay,1992,7,7.29
 0743235355,Jarhead : A Marine's Chronicle of the Gulf War and Other Battles,Anthony Swofford,2003,7,7.29
 0349113920,Whatever Love Means,David Baddiel,2000,7,7.29
-3257229364,Endstation Venedig. Commissario Brunettis zweiter Fall.,Donna Leon,1996,7,7.29
 0425098680,Dinner at the Homesick Restaurant,Anne Tyler,1992,7,7.29
-0758201346,I Love Bad Boys,Lori Foster,2002,7,7.29
+3257229364,Endstation Venedig. Commissario Brunettis zweiter Fall.,Donna Leon,1996,7,7.29
 0618334661,"Reefer Madness: Sex, Drugs, and Cheap Labor in the American Black Market",Eric Schlosser,2003,7,7.29
+0758201346,I Love Bad Boys,Lori Foster,2002,7,7.29
 1565075722,The Power of a Praying Wife,Stormie Omartian,1997,7,7.29
 0140430423,Hard Times for These Times (English Library),Charles Dickens,1985,7,7.29
 067173976X,Counterfeit Lady,Jude Deveraux,1991,7,7.29
@@ -7052,8 +7052,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0679441018,Memnoch the Devil : The Vampire Chronicles (Vampire Chronicles),ANNE RICE,1995,26,7.23
 0743477081,Forever and Always,Jude Deveraux,2003,13,7.23
 0451409000,Messiah,Boris Starling,1999,13,7.23
-0345435796,The First Horseman,John Case,1999,13,7.23
 0440167531,Palomino,DANIELLE STEEL,1985,13,7.23
+0345435796,The First Horseman,John Case,1999,13,7.23
 0679776818,Birdsong: A Novel of Love and War,Sebastian Faulks,1997,13,7.23
 0425179885,The Devil's Code,John Sandford,2004,13,7.23
 0515136557,The Cat Who Brought Down the House,Lilian Jackson Braun,2004,13,7.23
@@ -7117,8 +7117,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0670896764,A Day Late and a Dollar Short,Terry McMillan,2001,10,7.2
 0439049962,Captain Underpants and the Invasion of the Incredibly Naughty Cafeteria Ladies from Outer Space,Dav Pilkey,1999,10,7.2
 0440236665,Lone Eagle,Danielle Steel,2002,10,7.2
-0451209710,The Dewey Decimal System of Love,Josephine Carr,2003,10,7.2
 0553801821,The Man Who Ate the 747,Ben Sherwood,2000,10,7.2
+0451209710,The Dewey Decimal System of Love,Josephine Carr,2003,10,7.2
 0440226406,Legacy of Silence,Belva Plain,1999,10,7.2
 0812589718,Daughter of God,Lewis Perdue,2001,10,7.2
 0446606243,The Tenth Justice,Brad Meltzer,1998,10,7.2
@@ -7139,8 +7139,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0451458540,Once upon a Winters Night,Dennis L. McKiernan,2002,5,7.2
 0743229061,Absolute Certainty : A Crime Novel,Rose Connors,2002,5,7.2
 052594673X,"Oh, the Things I Know! A Guide to Success, or, Failing That, Happiness",Al Franken,2002,5,7.2
-0345319672,The Ballad of Typhoid Mary,J.F. Federspiel,1985,5,7.2
 0446610607,Raveling : A Novel,Peter Moore Smith,2001,5,7.2
+0345319672,The Ballad of Typhoid Mary,J.F. Federspiel,1985,5,7.2
 0751519782,Time for Bed,David Baddiel,1997,5,7.2
 0679731210,The Leopard,Giuseppe Tomasi di Lampedusa,1991,5,7.2
 055357857X,The Dead Cat Bounce : A Home Repair is Homicide Mystery (Home Repair is Homicide Mysteries (Paperback)),SARAH GRAVES,1998,5,7.2
@@ -7171,10 +7171,10 @@ ISBN,title,author,year,total_ratings,average_rating
 0451206665,Always in My Heart,Catherine Anderson,2002,5,7.2
 0743477103,Macbeth,William Shakespeare,2003,5,7.2
 0140287434,The Haunting,Shirley Jackson,1999,5,7.2
-185326007X,Women in Love (Wordsworth Classics),D. H. Lawrence,1997,5,7.2
 0884042820,"The Invaders Plan (Mission Earth Series, Vol 1)",L. Ron Hubbard,1990,5,7.2
-0425135772,A Fatal Thaw,Dana Stabenow,1996,5,7.2
+185326007X,Women in Love (Wordsworth Classics),D. H. Lawrence,1997,5,7.2
 0440209862,The Vig,John T. Lescroart,1992,5,7.2
+0425135772,A Fatal Thaw,Dana Stabenow,1996,5,7.2
 0743463544,The Man I Should Have Married,Pamela Redmond Satran,2003,5,7.2
 0842355715,Finding God in the Lord of the Rings,Kurt D. Bruner,2001,5,7.2
 0671020951,Dangerous Kiss (Lucky Santangelo Novels (Paperback)),Jackie Collins,2000,5,7.2
@@ -7196,8 +7196,8 @@ ISBN,title,author,year,total_ratings,average_rating
 8804375914,Il sentiero dei nidi di ragno (Oscar Mondadori),Italo Calvino,1995,5,7.2
 0671041460,Redemption (Angel),Mel Odom,2000,5,7.2
 0740706721,"I Hated, Hated, Hated This Movie",Roger Ebert,2000,5,7.2
-8439709498,Vivir Para Contarla,Gabriel Garcia Marquez,2002,5,7.2
 0805066322,In Harm's Way: The Sinking of the USS Indianapolis and the Extraordinary Story of Its Survivors,Doug Stanton,2001,5,7.2
+8439709498,Vivir Para Contarla,Gabriel Garcia Marquez,2002,5,7.2
 0375758623,The Piano Shop on the Left Bank: Discovering a Forgotten Passion in a Paris Atelier,Thaddeus Carhart,2002,5,7.2
 1558599177,Vicky's World Postcard Packet,Dolce &amp; Gabbana,1994,5,7.2
 0425140318,Private Pleasures,Lawrence Sanders,1994,5,7.2
@@ -7213,22 +7213,22 @@ ISBN,title,author,year,total_ratings,average_rating
 0374236488,"Positively Fifth Street: Murderers, Cheetahs, and Binion's World Series of Poker",James McManus,2003,5,7.2
 050552337X,Rejar (Timeswept),Dara Joy,1997,5,7.2
 0449149080,When Lightning Strikes,Kristin Hannah,1994,5,7.2
-0345447859,The Apprentice,TESS GERRITSEN,2002,5,7.2
 067089558X,A Heart of Stone,Renate Dorrestein,2001,5,7.2
+0345447859,The Apprentice,TESS GERRITSEN,2002,5,7.2
 0380704161,Through a Glass Darkly,Karleen Koen,1987,5,7.2
 1576730360,I Kissed Dating Goodbye: A New Attitude Toward Relationships And Romance,Joshua Harris,1997,5,7.2
-0452272734,Some Girls,Kristin McCloy,1995,5,7.2
 044990542X,Tales from Margaritaville: Fictional Facts and Factual Fictions,Jimmy Buffett,1990,5,7.2
-0679736646,Ubik,Philip K. Dick,1991,5,7.2
+0452272734,Some Girls,Kristin McCloy,1995,5,7.2
 3442720036,Die verborgene Geschichte.,Caroline Llewellyn,1996,5,7.2
+0679736646,Ubik,Philip K. Dick,1991,5,7.2
 0380808315,Married in Haste,Cathy Maxwell,1999,5,7.2
 0743444043,Double Dealer : Crime Scene Investigation,Max Allan Collins,2003,5,7.2
 0452272785,In the Name of the Father,Gerry Conlon,1993,5,7.2
 0451194063,Milk in My Coffee,Eric Jerome Dickey,1999,5,7.2
 0552139246,The Greatest Show Off Earth,Robert Rankin,1995,5,7.2
 0449209598,Murder in the Smithsonian (Capital Crime Mysteries),Margaret Truman,1990,5,7.2
-1551660202,Last Honest Woman,Nora Roberts,1995,5,7.2
 0380978555,The Pursuit (Sherring Cross (Hardcover)),Johanna Lindsey,2002,5,7.2
+1551660202,Last Honest Woman,Nora Roberts,1995,5,7.2
 0140186425,Of Mice and Men (Twentieth-Century Classics),John Steinbeck,1994,5,7.2
 0679403922,The Cold Six Thousand: A Novel,James Ellroy,2001,5,7.2
 0671686151,Then She Found Me,Elinor Lipman,1991,5,7.2
@@ -7238,9 +7238,9 @@ ISBN,title,author,year,total_ratings,average_rating
 0316748641,Pasquale's Nose: Idle Days in an Italian Town,Michael Rips,2002,5,7.2
 0345453433,"Kiss Me While I Sleep (Howard, Linda)",Linda Howard,2004,5,7.2
 1558533834,Cooking With Friends,Amy Lyles Wilson,1995,5,7.2
-0060183225,A Marriage Made in Heaven... or Too Tired for an Affair,Erma Bombeck,1993,5,7.2
 1860499627,Desert Dawn,Jeanne D'Haem,2003,5,7.2
 0140314601,Playing Beatie Bow (Puffin Books),Ruth Park,1984,5,7.2
+0060183225,A Marriage Made in Heaven... or Too Tired for an Affair,Erma Bombeck,1993,5,7.2
 8495501465,Dios vuelve ne una Harley,Joan Brady,2001,5,7.2
 0446604763,Mayday,Thomas Block,1998,5,7.2
 044990587X,Dave Barry Turns 40,Dave Barry,1991,5,7.2
@@ -7265,10 +7265,10 @@ ISBN,title,author,year,total_ratings,average_rating
 0380721457,Mrs. Dewinter,Susan Hill Long,1994,5,7.2
 0553262807,Always Coming Home,Ursula K. Le Guin,1993,5,7.2
 0440986591,"Then Again, Maybe I Won't",Judy Blume,1976,5,7.2
-0385720211,In the Drink,Kate Christensen,2000,5,7.2
 0380788314,Einstein's Bridge,John Cramer,1998,5,7.2
 0671027514,SPRINGWATER,Linda Lael Miller,1998,5,7.2
 0553568736,A Plague of Angels,Sheri S. Tepper,1994,5,7.2
+0385720211,In the Drink,Kate Christensen,2000,5,7.2
 0345330129,The Door into Summer,Robert A. Heinlein,1993,5,7.2
 0671624415,Postcards from the Edge,Carrie Fisher,1987,5,7.2
 0451408683,The Case Has Altered: A Richard Jury Mystery (Richard Jury Mysteries (Paperback)),Martha Grimes,1998,5,7.2
@@ -7324,9 +7324,9 @@ ISBN,title,author,year,total_ratings,average_rating
 0451197968,The Running Man,Stephen King,1999,6,7.17
 0380812037,On a Wild Night (Cynster Novels),Stephanie Laurens,2002,6,7.17
 0671039970,Broken Wings (Broken Wings),V.C. Andrews,2003,6,7.17
+8466300651,"El Evangelio Segun Jesucristo (Punto De Lectura, 8/3)",Jose Saramago,2001,6,7.17
 3492229417,Der trÃ?Â¤umende Delphin. Eine magische Reise zu dir selbst.,Sergio Bambaren,1999,6,7.17
 0743217713,Bad Girl Creek : A Novel,Jo-Ann Mapson,2002,6,7.17
-8466300651,"El Evangelio Segun Jesucristo (Punto De Lectura, 8/3)",Jose Saramago,2001,6,7.17
 0140431179,"The Strange Case of Dr. Jekyll and Mr. Hyde, and Other Stories (The Penguin English Library)",Robert Louis Stevenson,1979,6,7.17
 0061032077,To Cut a Long Story Short,Jeffrey Archer,2001,6,7.17
 0140157352,Getting to Yes: Negotiating Agreement Without Giving In,Roger Fisher,1991,6,7.17
@@ -7359,8 +7359,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0399142703,Freedom's Choice,Anne McCaffrey,1997,6,7.17
 0062548662,Meditations for Women Who Do Too Much - 10th Anniversary,Anne Wilson Schaef,1990,6,7.17
 0688156134,Stalker: A Novel (Peter Decker &amp; Rina Lazarus Novels (Hardcover)),Faye Kellerman,2000,6,7.17
-0446360716,Shadows of Yesterday,Sandra Brown,1992,6,7.17
 0963270702,The Satanic Verses,Salman Rushdie,1992,6,7.17
+0446360716,Shadows of Yesterday,Sandra Brown,1992,6,7.17
 006000925X,Daisy's Back in Town,Rachel Gibson,2004,6,7.17
 0684803143,Messiah,Andrei Codrescu,1999,6,7.17
 0385007515,'Salem's Lot,Stephen King,1993,6,7.17
@@ -7403,9 +7403,9 @@ ISBN,title,author,year,total_ratings,average_rating
 0440221501,Lightning,DANIELLE STEEL,1996,7,7.14
 059050214X,"A Journey to the New World: The Diary of Remember Patience Whipple, Mayflower, 1620 (Dear America Series)",Kathryn Lasky,1996,7,7.14
 0380773155,"It Happened to Nancy : By an Anonymous Teenager, A True Story from Her Diary (Confident Collector)",Beatrice Sparks,1994,7,7.14
-0671017047,OBSESSION,John E. Douglas,1998,7,7.14
 0449212750,Murder in the CIA (Capital Crime Mysteries),Margaret Truman,1991,7,7.14
 038547167X,Minding the Body: Women Writers on Body and Soul,Patricia Foster,1995,7,7.14
+0671017047,OBSESSION,John E. Douglas,1998,7,7.14
 0345375580,"The Elf Queen of Shannara (Heritage of Shannara, Book 3)",Terry Brooks,1993,7,7.14
 044021422X,Jewels,Danielle Steel,1993,7,7.14
 0671010093,One White Rose,Julie Garwood,1997,7,7.14
@@ -7434,8 +7434,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0140386351,A Girl Named Disaster,Nancy Farmer,1998,7,7.14
 0553273604,Of Love and Shadows,Isabel Allende,1988,7,7.14
 0671524097,Sharp Edges,Jayne Ann Krentz,1998,7,7.14
-0441003389,Freedom's Landing,Anne McCaffrey,1996,7,7.14
 0553572350,Murder at Monticello (Mrs. Murphy Mysteries (Paperback)),RITA MAE BROWN,1995,7,7.14
+0441003389,Freedom's Landing,Anne McCaffrey,1996,7,7.14
 0895771845,The scarlet letter (The World's best reading),Nathaniel Hawthorne,1984,7,7.14
 0316154075,A Darkness More Than Night,Michael Connelly,2001,7,7.14
 3404131606,Nachtschicht.,Stephen King,2003,7,7.14
@@ -7444,8 +7444,8 @@ ISBN,title,author,year,total_ratings,average_rating
 1580082319,How Wal-Mart is Destroying America and The World and What You Can Do About It,Bill Quinn,2000,7,7.14
 0345463153,The Fourth Hand,JOHN IRVING,2003,7,7.14
 0786886021,Don't Sweat the Small Stuff for Women : Simple and Practical Ways to Do What Matters Most and Find Time for You,Kristine Carlson,2001,7,7.14
-0449210928,Texas,James A. Michener,1994,7,7.14
 0380790076,Simply Irresistible (Avon Light Contemporary Romances),Rachel Gibson,1998,7,7.14
+0449210928,Texas,James A. Michener,1994,7,7.14
 0316785644,The Fig Eater,Jody Shields,2000,7,7.14
 0449003795,P Is for Peril,Sue Grafton,2002,39,7.13
 0446607711,The Simple Truth,David Baldacci,1999,31,7.13
@@ -7473,8 +7473,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0345434773,Evensong (Ballantine Reader's Circle),Gail Godwin,2000,8,7.13
 0061053104,The Terminal Experiment,Robert J. Sawyer,1995,8,7.13
 0061095540,Marrying Mom,Olivia Goldsmith,1997,8,7.13
-0380804700,Partner in Crime,J.A. Jance,2003,8,7.13
 0812507436,"People of the River (The First North Americans series, Book 4)",W. Michael Gear,1993,8,7.13
+0380804700,Partner in Crime,J.A. Jance,2003,8,7.13
 0060002492,Amazonia,James Rollins,2003,8,7.13
 0380791412,"Annie's Baby: The Diary of Anonymous, a Pregnant Teenager",Anonymous,1998,8,7.13
 0743457951,No Place Like Home (Holiday Classics),Fern Michaels,2002,8,7.13
@@ -7543,8 +7543,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0515127485,Archangel,Robert Harris,2000,11,7.09
 0553250256,Catcher in the Rye,Salinger,1984,11,7.09
 0446671002,The Celestine Prophecy,James Redfield,1995,26,7.08
-0440217547,Accident,Danielle Steel,1995,25,7.08
 0373484224,Stanislaski Brothers (Silhouette Promo),Nora Roberts,2000,25,7.08
+0440217547,Accident,Danielle Steel,1995,25,7.08
 0446354732,Nothing Lasts Forever,Sidney Sheldon,1995,13,7.08
 0061094129,Legal Tender,Lisa Scottoline,1997,13,7.08
 0786886463,A Density of Souls,Christopher Rice,2001,13,7.08
@@ -7621,8 +7621,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0446530239,If Looks Could Kill,Kate White,2002,12,7.0
 0060559128,"Holy Fools : A Novel (Harris, Joanne)",Joanne Harris,2004,12,7.0
 0373250215,Burning The Map,Laura Caldwell,2002,12,7.0
-0441328008,"Heretics of Dune (Dune Chronicles, Book 5)",Frank Herbert,1996,11,7.0
 081296683X,Girls' Poker Night: A Novel,Jill Davis,2003,11,7.0
+0441328008,"Heretics of Dune (Dune Chronicles, Book 5)",Frank Herbert,1996,11,7.0
 0399149422,The Cat Who Brought Down the House,Lilian Jackson Braun,2003,11,7.0
 0373484887,Hidden Star (The Star Series),Nora Roberts,2001,11,7.0
 0446604402,The Laws of Our Fathers,Scott Turow,1997,11,7.0
@@ -7680,8 +7680,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0345368959,The Dolphins of Pern (Dragonriders of Pern (Paperback)),Anne McCaffrey,1995,8,7.0
 0743457781,"Late Bloomer (Michaels, Fern)",Fern Michaels,2003,8,7.0
 0452284902,Weekend in Paris,Robyn Sisman,2004,8,7.0
-0440229707,The Sisterhood of the Traveling Pants (Readers Circle),ANN BRASHARES,2004,7,7.0
 0440114756,Comes the Blind Fury,John Saul,1990,7,7.0
+0440229707,The Sisterhood of the Traveling Pants (Readers Circle),ANN BRASHARES,2004,7,7.0
 0380812029,All About Passion (Cynster Novels),Stephanie Laurens,2001,7,7.0
 0151002290,East of the Mountains,David Guterson,1999,7,7.0
 0812590554,White Smoke: A Novel About the Next Papal Conclave,Andrew M. Greeley,1997,7,7.0
@@ -7691,8 +7691,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0345322401,Songs of Distant Earth,Arthur C. Clarke,1991,7,7.0
 0751502014,Kingdom of Shadows,Barbara Erskine,1988,7,7.0
 0060510323,LA Ciudad De Las Bestias,Isabel Allende,2003,7,7.0
-0684822768,In Our Time,Ernest Hemingway,1996,7,7.0
 0446300152,Fit for Life,Harvey Diamond,1987,7,7.0
+0684822768,In Our Time,Ernest Hemingway,1996,7,7.0
 0743442660,My Big Old Texas Heartache,Geralyn Dawson,2003,7,7.0
 0679762906,Being Digital,Nicholas Negroponte,1996,7,7.0
 0446386405,How to Live Cat,Stephen Baker,1989,7,7.0
@@ -7716,8 +7716,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0440215285,Killing Orders,Sara Paretsky,1993,7,7.0
 1573221562,Affinity,Sarah Waters,2000,7,7.0
 0385299087,Heartbeat,Danielle Steel,1991,7,7.0
-0345422473,Gods and Generals,Jeff Shaara,1998,7,7.0
 0345359321,Travels,Michael Crichton,1989,7,7.0
+0345422473,Gods and Generals,Jeff Shaara,1998,7,7.0
 0671521705,GUMP &amp; CO,Winston Groom,1995,6,7.0
 0553272543,Ballad of the Sad Cafe and Other Stories,Carson McCullers,1990,6,7.0
 0446674168,Lives of the Monster Dogs,Kirsten Bakis,1998,6,7.0
@@ -7747,8 +7747,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0684848465,Cold Hit (Alexandra Cooper Mysteries (Hardcover)),Linda Fairstein,1999,6,7.0
 0590452037,Maniac Magee,Jerry Spinelli,2002,6,7.0
 0345334302,Ringworld Engineers,Larry Niven,1990,6,7.0
-0151002630,The Magician's Assistant,Ann Patchett,1997,6,7.0
 0140620435,The Tenant of Wildfell Hall (Penguin Popular Classics),Anne Bronte,1994,6,7.0
+0151002630,The Magician's Assistant,Ann Patchett,1997,6,7.0
 0345352467,Centaur Aisle (Xanth Novels (Paperback)),Piers Anthony,1990,6,7.0
 0385487622,The Weigh Down Diet,Gwen Shamblin,1997,6,7.0
 0425104273,The First Deadly Sin,Lawrence Sanders,1993,6,7.0
@@ -7805,8 +7805,8 @@ ISBN,title,author,year,total_ratings,average_rating
 345307565X,Die Akte. Roman.,John Grisham,1994,5,7.0
 0688160042,Dark Lord of Derkholm,Diana Wynne Jones,1998,5,7.0
 0425140040,For My Lady's Heart,Laura Kinsale,2004,5,7.0
-0451523369,"Frankenstein Or, the Modern Prometheus",Mary Wollstonecraft Shelley,1994,5,7.0
 1551666537,Through My Eyes,Barbara Delinsky,2003,5,7.0
+0451523369,"Frankenstein Or, the Modern Prometheus",Mary Wollstonecraft Shelley,1994,5,7.0
 0446529788,A Kiss Remembered: A Classic Love Story,Sandra Brown,2002,5,7.0
 0786888083,Confessions of a Dangerous Mind : An Unauthorized Autobiography,Chuck Barris,2002,5,7.0
 0140119205,Nice Work,David Lodge,1989,5,7.0
@@ -7847,20 +7847,20 @@ ISBN,title,author,year,total_ratings,average_rating
 0380752298,The White Raven,Dianna L. Paxson,1989,5,7.0
 074343434X,The Battle of Betazed (Star Trek: The Next Generation),Susan Kearney,2002,5,7.0
 8420427845,LA Tabla De Flandes (Alfaguara Extra),Arturo Perez-Reverte,1999,5,7.0
-0440183669,Strong Medicine,Arthur Hailey,1986,5,7.0
 0380792923,Signal to Noise,Eric S. Nylund,1999,5,7.0
+0440183669,Strong Medicine,Arthur Hailey,1986,5,7.0
 0440222877,Missing Pieces,JOY FIELDING,1998,5,7.0
 0590461265,Dream Date,Sinclair Smith,1996,5,7.0
 0553582534,Temporary Mistress (St. John-Duras),Susan Johnson,2000,5,7.0
-0684849739,The BIBLE CODE,Michael Drosnin,1998,5,7.0
 006101253X,Sinners,Jackie Collins,1997,5,7.0
+0684849739,The BIBLE CODE,Michael Drosnin,1998,5,7.0
 0440917190,Dragons in the Waters (Laurel Leaf Books),Madeleine L'Engle,1982,5,7.0
 0553569570,The Apocalypse Watch,Robert Ludlum,1996,5,7.0
-0312422911,Child of My Heart : A Novel,Alice McDermott,2003,5,7.0
 0812574737,The Dastard (Xanth),Piers Anthony,2001,5,7.0
+0312422911,Child of My Heart : A Novel,Alice McDermott,2003,5,7.0
+1853260533,Collected Ghost Stories (Classics Library (NTC)),Montague Rhodes James,1999,5,7.0
 089296720X,Uncommon Clay,Margaret Maron,2001,5,7.0
 0140440011,The Odyssey (Classics S.),Homer,1970,5,7.0
-1853260533,Collected Ghost Stories (Classics Library (NTC)),Montague Rhodes James,1999,5,7.0
 0451140354,Maia,Richard Adams,1986,5,7.0
 0399134409,Clear and Present Danger,Tom Clancy,1989,5,7.0
 0671791974,"IMZADI: STAR TREK, NEXT GENERATION (Star Trek the Next Generation)",Peter David,1992,5,7.0
@@ -7870,11 +7870,11 @@ ISBN,title,author,year,total_ratings,average_rating
 0425178234,Ladies With Options,Cynthia Hartwick,2001,5,7.0
 0399143629,Critical Mass,Steven Paul Martini,1998,5,7.0
 3257214367,Der Verdacht. Kriminalroman.,Friedrich DÃ?Â¼rrenmatt,1985,5,7.0
-0373225628,Protecting His Own (Harlequin Intrigue 562),Molly Rice,2000,5,7.0
 0373790937,"Working It (Harlequin Blaze, 89)",Cathy Yardley,2003,5,7.0
+0373225628,Protecting His Own (Harlequin Intrigue 562),Molly Rice,2000,5,7.0
 0060958324,Zen and the Art of Motorcycle Maintenance: An Inquiry into Values,Robert M. Pirsig,2000,5,7.0
-0380817705,The Sandman: Book of Dreams,Neil Gaiman,2002,5,7.0
 0385334702,After the Fire,Belva Plain,2000,5,7.0
+0380817705,The Sandman: Book of Dreams,Neil Gaiman,2002,5,7.0
 0064404781,Little House on Rocky Ridge (Little House),Roger Lea Macbride,1993,5,7.0
 8495501651,"Circulo Magico, El - Bolsillo",Katherine Neville,2000,5,7.0
 0684830426,The Great Gatsby (Scribner Classics),F. Scott Fitzgerald,1996,5,7.0
@@ -7897,18 +7897,18 @@ ISBN,title,author,year,total_ratings,average_rating
 0446355453,Master of the Game,Sidney Sheldon,1988,5,7.0
 050552421X,Scarletti Curse (Candleglow),Christine Feehan,2001,5,7.0
 0609600788,How to Know God : The Soul's Journey into the Mystery of Mysteries,DEEPAK CHOPRA,2000,5,7.0
-0515135356,Crime School,Carol O'Connell,2003,5,7.0
 0330376136,Once,James Herbert,2002,5,7.0
+0515135356,Crime School,Carol O'Connell,2003,5,7.0
 2290313238,"L'Assassin Royal, tome 2 : L'Assassin du roi",Robin Hobb,2001,5,7.0
 0060195703,Long Time No See,Susan Isaacs,2001,5,7.0
-0345356748,The Lady,ANNE MCCAFFREY,1988,5,7.0
 0451208072,St. Raven,Jo Beverley,2003,5,7.0
+0345356748,The Lady,ANNE MCCAFFREY,1988,5,7.0
 0671039288,Sins of the Father (Buffy the Vampire Slayer),Christopher Golden,1999,5,7.0
 0698118650,Backwater,Joan Bauer,2000,5,7.0
 0679445102,A Long Fatal Love Chase,Louisa May Alcott,1995,5,7.0
 0684865114,The Restraint of Beasts,Magnus Mills,1999,5,7.0
-0373834357,"Family Men (Midnight Sons, Volume 2)",Debbie Macomber,2000,5,7.0
 0671014676,"Fire Ship (Star Trek Voyager: The Captains Table, Book 4)",Diane Carey,1998,5,7.0
+0373834357,"Family Men (Midnight Sons, Volume 2)",Debbie Macomber,2000,5,7.0
 0451180062,Abuse of Power,Nancy Taylor Rosenberg,1997,5,7.0
 0671727583,Smart Women,Judy Blume,1990,22,6.95
 0515095826,The Cat Who Knew Shakespeare,Lilian Jackson Braun,1988,20,6.95
@@ -7942,8 +7942,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0156907399,To the Lighthouse,Virginia Woolf,1989,11,6.91
 0385498799,Bee Season,Myla Goldberg,2000,11,6.91
 0515093556,Belinda,Anne Rice,1994,21,6.9
-0061091944,Stonehenge,Bernard Cornwell,2001,10,6.9
 0451165594,The I-5 Killer (Signet True Crime S.),Ann Rule,1989,10,6.9
+0061091944,Stonehenge,Bernard Cornwell,2001,10,6.9
 042515601X,Acts of War (Tom Clancy's Op Center (Paperback)),Tom Clancy,1997,10,6.9
 8401491029,Misery,Stephen King,1999,10,6.9
 0312978332,Name Dropping : What If Two Very Different Women Had The Same Exact Name?,Jane Heller,2001,10,6.9
@@ -7985,8 +7985,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0425191729,Golden Buddha (Oregon Files (Paperback)),Clive Cussler,2003,8,6.88
 0515120278,The Cat Who Said Cheese,Lilian Jackson Braun,1997,8,6.88
 0767906039,The Nudist on the Late Shift,Po Bronson,2000,8,6.88
-2070414574,L'Amour Dure Trois,Frederick Beigbeder,2002,8,6.88
 0425161722,Net Force,Tom Clancy,1999,8,6.88
+2070414574,L'Amour Dure Trois,Frederick Beigbeder,2002,8,6.88
 0373710992,The Farmer's Wife,Lori Handeland,2002,8,6.88
 0385316860,Secrecy,Belva Plain,1997,8,6.88
 0140430229,Gulliver's Travels (Penguin Classics),Jonathan Swift,1967,8,6.88
@@ -8059,8 +8059,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0671722778,Merchant of Venice (New Folger Library Shakespeare (Paperback)),William Shakespeare,1992,6,6.83
 050552113X,Deeper Than the Night (Paranormal Romance),Amanda Ashley,1996,6,6.83
 0778320286,Changing Habits (Mira),Debbie Macomber,2004,6,6.83
-0060934425,"The Binding Chair : or, A Visit from the Foot Emancipation Society",Kathryn Harrison,2001,6,6.83
 0312950489,The Black Echo (Detective Harry Bosch Mysteries),Michael Connelly,1993,6,6.83
+0060934425,"The Binding Chair : or, A Visit from the Foot Emancipation Society",Kathryn Harrison,2001,6,6.83
 0440942500,Johnny Tremain (Laurel Leaf Books),Esther Forbes,1969,6,6.83
 0385313136,Covenant With the Vampire: The Diaries of the Family Dracul,Jeanne Kalogridis,1994,6,6.83
 0812509242,"Heartfire (Tales of Alvin Maker, Book 5)",Orson Scott Card,1999,6,6.83
@@ -8073,9 +8073,9 @@ ISBN,title,author,year,total_ratings,average_rating
 0446356832,The Sands of Time,Sidney Sheldon,1989,6,6.83
 037570731X,The Ladies' Man,ELINOR LIPMAN,2000,6,6.83
 0670873926,Larry's Party,Carol Shields,1997,6,6.83
-0440237009,The House on Hope Street,Danielle Steel,2001,6,6.83
 3404131215,Carrie,Stephen King,1994,6,6.83
 0316845221,Do What You Are,Paul D. Tieger,1995,6,6.83
+0440237009,The House on Hope Street,Danielle Steel,2001,6,6.83
 0451163494,The Key to Rebecca,Ken Follett,1989,6,6.83
 0767917413,"I Don't Mean to Be Rude, But... : Backstage Gossip from American Idol &amp; the Secrets that Can Make You a Star",SIMON COWELL,2003,6,6.83
 0812516826,Catnap : A Midnight Louie Mystery (A Midnight Louie Mystery),Carole Nelson Douglas,1993,6,6.83
@@ -8090,9 +8090,9 @@ ISBN,title,author,year,total_ratings,average_rating
 0451119932,Fever,Robin Cook,1983,6,6.83
 006018311X,"When You Look Like Your Passport Photo, It's Time to Go Home",Erma Bombeck,1991,6,6.83
 0679400702,How to Make an American Quilt,Whitney Otto,1991,6,6.83
-0590981811,My Side of the Mountain,Jean Craighead George,1988,6,6.83
 0590477404,"Monster Blood II (Goosebumps, No 18)",R. L. Stine,1995,6,6.83
 0765305224,"Naked Empire (Sword of Truth, Book 8)",Terry Goodkind,2003,6,6.83
+0590981811,My Side of the Mountain,Jean Craighead George,1988,6,6.83
 0440993717,The Wave (Laurel Leaf Books),Todd Strasser,1981,6,6.83
 0446523089,The Secret of Shambhala : In Search of the Eleventh Insight,James Redfield,1999,6,6.83
 0440240875,Presumption of Death,PERRI O'SHAUGHNESSY,2004,6,6.83
@@ -8103,8 +8103,8 @@ ISBN,title,author,year,total_ratings,average_rating
 1551668440,Snowfall,Sharon Sala,2001,6,6.83
 1853262005,Crime and Punishment (Wordsworth Classics),Fyodor Dostoevsky,1997,6,6.83
 0425176932,"Breaking Point (Tom Clancy's Net Force, No. 4)",Steve Perry,2000,6,6.83
-0451457897,The Glasswrights' Apprentice,Mindy L. Klasky,2000,6,6.83
 1551669161,Prescribed Danger (Dr. Rhea Lynch Novels),Gwen Hunter,2002,6,6.83
+0451457897,The Glasswrights' Apprentice,Mindy L. Klasky,2000,6,6.83
 0345432991,A Death in White Bear Lake,Barry Siegel,2000,6,6.83
 0345412923,"Feel This Book: An Essential Guide to Self-Empowerment, Spiritual Supremacy, and Sexual Satisfaction",Janeane Garofalo,1999,6,6.83
 0380807122,"Baby, Don't Go (Avon Light Contemporary Romances)",Susan Andersen,2000,6,6.83
@@ -8166,8 +8166,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0399148337,Midnight Runner,Jack Higgins,2002,5,6.8
 8478447229,La Joven de Las Naranjas,Jostein Gaarder,2003,5,6.8
 0440221870,The Master Sniper,Stephen Hunter,1996,5,6.8
-0312857691,The Path of Daggers : Book Eight of 'The Wheel of Time' (Wheel of Time),Robert Jordan,1998,5,6.8
 0345272463,Dinosaur Planet Survivors,Anne McCaffrey,1990,5,6.8
+0312857691,The Path of Daggers : Book Eight of 'The Wheel of Time' (Wheel of Time),Robert Jordan,1998,5,6.8
 0373226144,"Familiar Lullaby (Fear Familiar) (Harlequin Intrigue, No 614)",Caroline Burnes,2001,5,6.8
 0373484933,A Game Of Chance,Linda Howard,2002,5,6.8
 0590483471,"Monster Blood III (Goosebumps, No 29)",R. L. Stine,1995,5,6.8
@@ -8238,13 +8238,13 @@ ISBN,title,author,year,total_ratings,average_rating
 0312854277,The Fires of Heaven : Book Five of 'The Wheel of Time' (Wheel of Time),Robert Jordan,1993,5,6.8
 0553576003,Tidings of Great Joy,Sandra Brown,1999,5,6.8
 055327211X,Daughter of the Empire,RAYMOND FEIST,1988,5,6.8
-0449911608,Saint Maybe,Anne Tyler,1996,5,6.8
 0743437314,The Merchant of Death (Pendragon Series #1),D.J. MacHale,2002,5,6.8
 0553213113,Moby-Dick,HERMAN MELVILLE,1981,5,6.8
+0449911608,Saint Maybe,Anne Tyler,1996,5,6.8
 0451211014,The Last Promise,Richard Paul Evans,2003,5,6.8
 0679766626,Last Orders,Graham Swift,1997,5,6.8
-1560763264,"The Reign of Istar (Dragonlance Tales II, Vol. 1)",Margaret Weis,1992,5,6.8
 0345307674,Return of the Jedi (Star Wars),James Kahn,1983,5,6.8
+1560763264,"The Reign of Istar (Dragonlance Tales II, Vol. 1)",Margaret Weis,1992,5,6.8
 0312198396,Boondocking,Tricia Bauer,1999,5,6.8
 0060393211,Running in Heels: A Novel,Anna Maxted,2001,5,6.8
 0671019708,After The Night,Linda Howard,1997,5,6.8
@@ -8252,12 +8252,12 @@ ISBN,title,author,year,total_ratings,average_rating
 0767906632,Life Makeovers,CHERYL RICHARDSON,2000,5,6.8
 0671025325,Imzadi II Triangle (Star Trek The Next Generation),Peter David,1998,5,6.8
 092007944X,The Rez Sisters: A Play in Two Acts,Tomson Highway,1988,5,6.8
-0385491085,Lady Oracle,MARGARET ATWOOD,1998,5,6.8
 881787017X,Senza Sangue,Alessandro Baricco,2002,5,6.8
+0385491085,Lady Oracle,MARGARET ATWOOD,1998,5,6.8
 0425193500,Girl from the South,Joanna Trollope,2003,5,6.8
 0553276328,Pacific Vortex! (Dirk Pitt Adventures (Paperback)),Clive Cussler,1984,5,6.8
-037541178X,While I Was Gone,SUE MILLER,2000,5,6.8
 0451157974,Brain,Robin Cook,1999,5,6.8
+037541178X,While I Was Gone,SUE MILLER,2000,5,6.8
 0440205573,Star,Danielle Steel,1990,5,6.8
 0156028778,The Crimson Petal and the White,Michel Faber,2003,29,6.79
 0767916069,Under the Tuscan Sun : At Home in Italy,FRANCES MAYES,2003,19,6.79
@@ -8324,8 +8324,8 @@ ISBN,title,author,year,total_ratings,average_rating
 1573223425,Blue Shoe,Anne Lamott,2003,11,6.73
 0446603503,Superstitious,R. L. Stine,1996,11,6.73
 0553280147,Till We Meet Again,Judith Krantz,1989,11,6.73
-0553285343,"RUSSIA HOUSE, THE",JOHN LE CARRE,1990,11,6.73
 0380759500,Firefly,Piers Anthony,1992,11,6.73
+0553285343,"RUSSIA HOUSE, THE",JOHN LE CARRE,1990,11,6.73
 0449149986,If I'd Killed Him When I Met Him (Elizabeth MacPherson Novels (Paperback)),SHARYN MCCRUMB,1996,11,6.73
 0786890436,The Diary of Ellen Rimbauer: My Life at Rose Red,Ellen Rimbauer,2002,25,6.72
 0446607207,Tell Me Your Dreams,Sidney Sheldon,1999,14,6.71
@@ -8478,8 +8478,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0451164075,Ax: An 87th Precinct Mystery,Ed McBain,1994,5,6.6
 074320395X,The Body Artist : A Novel,Don DeLillo,2001,5,6.6
 0380804387,The Present (Malory Novels (Paperback)),Johanna Lindsey,1999,5,6.6
-0743456653,Man and Wife: A Novel,Tony Parsons,2003,5,6.6
 0451409892,Phantom Waltz,Catherine Anderson,2001,5,6.6
+0743456653,Man and Wife: A Novel,Tony Parsons,2003,5,6.6
 0671019163,X-Men Planet X (Star Trek The Next Generation),Michael Jan Friedman,1998,5,6.6
 0671797476,"Grounded (Star Trek The Next Generation, No 25)",David Bischoff,1993,5,6.6
 0061095869,Her Own Rules,Barbara Taylor Bradford,1997,5,6.6
@@ -8491,8 +8491,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0060191872,The Run: A Novel,Stuart Woods,2000,5,6.6
 0671619373,LADY BOSS,Jackie Collins,1990,5,6.6
 0743418727,Perfect Match : A Novel,Jodi Picoult,2002,5,6.6
-044630798X,And More by Andy Rooney,Andy Rooney,1983,5,6.6
 0446673757,Mail,Mameve Medwed,1998,5,6.6
+044630798X,And More by Andy Rooney,Andy Rooney,1983,5,6.6
 0345440951,X-Men: A Novelization,Kristine Kathryn Rusch,2000,5,6.6
 0440219779,The Voice on the Radio (Laurel Leaf Books),Caroline B. Cooney,1998,5,6.6
 0385503466,Shutterbug Follies (Doubleday Graphic Novels),Jason Little,2002,5,6.6
@@ -8515,8 +8515,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0812516001,The Inheritor,Marion Zimmer Bradley,1984,5,6.6
 0804107432,Dying Young,Marti Leimbach,1991,5,6.6
 0684869403,The Wife: A Novel,Meg Wolitzer,2003,5,6.6
-8440694539,El Ultimo Judio,Noah Gordon,1999,5,6.6
 0061031755,The Promise in a Kiss,Stephanie Laurens,2002,5,6.6
+8440694539,El Ultimo Judio,Noah Gordon,1999,5,6.6
 0515131334,Headhunters,Jules Bass,2001,5,6.6
 8466610685,El Psicoanalista,John Katzenbach,2003,5,6.6
 0449003299,False Prophet: A Peter Decker/Rina Lazarus Novel (Peter Decker &amp; Rina Lazarus Novels (Paperback)),Faye Kellerman,1998,5,6.6
@@ -8607,8 +8607,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0590877437,"Search for Senna (Everworld, 1)",K. A. Applegate,1999,6,6.5
 0806994754,The Illustrated Dream Dictionary,Russell Grant,1996,6,6.5
 0802131301,Baby With the Bathwater and Laughing Wild: Two Plays,Christopher Durang,1989,6,6.5
-0618164723,Fat Land: How Americans Became the Fattest People in the World,Greg Critser,2003,6,6.5
 0451456548,Cold Iron,Melisa Michaels,1997,6,6.5
+0618164723,Fat Land: How Americans Became the Fattest People in the World,Greg Critser,2003,6,6.5
 0425185508,Picture Perfect,Jodi Picoult,2002,6,6.5
 0915230151,The Mirror,Marlys Millhiser,1997,6,6.5
 0802150616,A Personal Matter,Kenzaburo OÃ«,1982,6,6.5
@@ -8662,8 +8662,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0743204077,Soul Stories,Gary Zukav,2000,7,6.43
 0553210416,The Aeneid of Virgil (Bantam Classics),ALLEN MANDELBAUM,1981,7,6.43
 0425169871,Firebird,Janice Graham,1999,7,6.43
-0743448944,Mount Vernon Love Story : A Novel of George and Martha Washington,Mary Higgins Clark,2003,7,6.43
 074323748X,The Moment She Was Gone : A Novel,Evan Hunter,2002,7,6.43
+0743448944,Mount Vernon Love Story : A Novel of George and Martha Washington,Mary Higgins Clark,2003,7,6.43
 1551667002,Skyward,Mary Alice Monroe,2003,7,6.43
 0156027607,Solaris,Stanislaw Lem,2002,7,6.43
 031228327X,Joe College : A Novel,Tom Perrotta,2001,7,6.43
@@ -8709,14 +8709,14 @@ ISBN,title,author,year,total_ratings,average_rating
 0446673560,Ramses: The Son of Light - Volume I (Vol 1),Christian Jacq,1997,5,6.4
 1551667215,The Book Club,Mary Alice Monroe,2003,5,6.4
 0330491024,The Spartan,Valerio Massimo Manfredi,2003,5,6.4
-0060525460,The Beachcomber,Josephine Cox,2003,5,6.4
 0399143335,The Cat Who Sang for the Birds,Lilian Jackson Braun,1998,5,6.4
+0060525460,The Beachcomber,Josephine Cox,2003,5,6.4
 0385318804,The Only Girl in the Car : A Memoir,KATHY DOBIE,2003,5,6.4
 1576739759,Secrets of the Vine: Breaking Through to Abundance,Bruce Wilkinson,2001,5,6.4
 0312289871,Robert Ludlum's The Paris Option : A Covert-One Novel (A Covert-One Novel),Robert Ludlum,2002,5,6.4
 0451206096,The Collection,Bentley Little,2002,5,6.4
-038056176X,Congo -Canc,Michael Crichton,1981,5,6.4
 0312422164,How to Be Alone: Essays,Jonathan Franzen,2003,5,6.4
+038056176X,Congo -Canc,Michael Crichton,1981,5,6.4
 8440664370,Riesgo calculado,Katherine Neville,1996,5,6.4
 067976657X,Krik? Krak! (Vintage Contemporaries),Edwidge Danticat,1996,5,6.4
 0345395069,Reign in Hell,William Diehl,1998,5,6.4
@@ -8885,8 +8885,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0312984685,The Good Sister,Diana Diamond,2003,6,6.17
 0743230213,Harem: A Novel,Dora Levy Mossanen,2002,6,6.17
 0553580884,The Undertaker's Widow,Phillip Margolin,1999,6,6.17
-006091307X,The Crying of Lot 49: A Novel (Perennial Fiction Library),Thomas Pynchon,1990,6,6.17
 0671887173,DAILY REFLECTIONS FOR HIGHLY EFFECTIVE PEOPLE : Living The 7 Habits Of Highly Successful People Every Day,Stephen R. Covey,1994,6,6.17
+006091307X,The Crying of Lot 49: A Novel (Perennial Fiction Library),Thomas Pynchon,1990,6,6.17
 0894716905,Five Minute Mysteries: 37 Challenging Cases of Murder and Mayhem for You to Solve,Ken Weber,1989,6,6.17
 0679741011,"Sex, Art, and American Culture: Essays",Camille Paglia,1992,6,6.17
 0590477382,"One Day at Horrorland (Goosebumps, No 16)",R. L. Stine,1995,6,6.17
@@ -8967,8 +8967,8 @@ ISBN,title,author,year,total_ratings,average_rating
 0446609951,The Letter of the Law,Tim Green,2001,5,6.0
 0752801686,Career Girls,Louise Bagshawe,1996,5,6.0
 0679866957,"Junie B. Jones and That Meanie Jim's B-Day (Junie B. Jones 6, paper)",Barbara Park,1996,5,6.0
-0312420021,A Cold Case,Philip Gourevitch,2002,5,6.0
 0380710811,The First Man in Rome,Colleen McCullough,1991,5,6.0
+0312420021,A Cold Case,Philip Gourevitch,2002,5,6.0
 3257231008,Vendetta. Commissario Brunettis vierter Fall.,Donna Leon,1998,5,6.0
 0425187055,"Tom Clancy's Power Plays: Cutting Edge (Power Plays, 6)",Tom Clancy,2002,5,6.0
 0894808850,Jewish As a Second Language,Molly Katz,1991,5,6.0

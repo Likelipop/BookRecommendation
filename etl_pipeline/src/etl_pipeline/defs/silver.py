@@ -4,9 +4,6 @@ from ..databrick_resource import DatabricksServerlessResource
 import pyspark.sql.functions as F
 
 
-# Assuming DatabricksServerlessResource is imported or available in your project scope.
-# If it's in a separate file, you might need: from resources import DatabricksServerlessResource
-
 def separate_errors(df, condition, error_reason):
     """
     Separates the DataFrame into valid rows and error rows based on a condition.

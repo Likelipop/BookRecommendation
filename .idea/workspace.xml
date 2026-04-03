@@ -2,9 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17d691cc-de79-4d0a-b558-e32766654027" name="Changes" comment="add data quality check, perform upsert on bronze layer">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/etl_pipeline/src/etl_pipeline/sensors/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/etl_pipeline/src/etl_pipeline/sensors/silver_sensors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/etl_pipeline/src/etl_pipeline/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/etl_pipeline/src/etl_pipeline/utils/email_helper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_21_2026_8_03_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_21_2026_8_03_PM__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/gold/gold_book_metrics.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/gold/gold_book_metrics.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/gold/gold_user_item_interactions.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/gold/gold_user_item_interactions.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/minio/.minio.sys/buckets/.bloomcycle.bin/xl.meta" beforeDir="false" afterPath="$PROJECT_DIR$/data/minio/.minio.sys/buckets/.bloomcycle.bin/xl.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/minio/.minio.sys/buckets/.heal/mrf/list.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/minio/.minio.sys/buckets/.usage-cache.bin.bkp/xl.meta" beforeDir="false" afterPath="$PROJECT_DIR$/data/minio/.minio.sys/buckets/.usage-cache.bin.bkp/xl.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/minio/.minio.sys/buckets/.usage-cache.bin/xl.meta" beforeDir="false" afterPath="$PROJECT_DIR$/data/minio/.minio.sys/buckets/.usage-cache.bin/xl.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/minio/.minio.sys/buckets/.usage.json/xl.meta" beforeDir="false" afterPath="$PROJECT_DIR$/data/minio/.minio.sys/buckets/.usage.json/xl.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/minio/.minio.sys/buckets/warehouse/.usage-cache.bin.bkp/xl.meta" beforeDir="false" afterPath="$PROJECT_DIR$/data/minio/.minio.sys/buckets/warehouse/.usage-cache.bin.bkp/xl.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/minio/.minio.sys/buckets/warehouse/.usage-cache.bin/xl.meta" beforeDir="false" afterPath="$PROJECT_DIR$/data/minio/.minio.sys/buckets/warehouse/.usage-cache.bin/xl.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/minio/.minio.sys/tmp/36ee31ad-fa4f-4d2b-9666-e88cd743917c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/etl_pipeline/src/etl_pipeline/checks.py" beforeDir="false" afterPath="$PROJECT_DIR$/etl_pipeline/src/etl_pipeline/checks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/etl_pipeline/src/etl_pipeline/definitions.py" beforeDir="false" afterPath="$PROJECT_DIR$/etl_pipeline/src/etl_pipeline/definitions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/etl_pipeline/src/etl_pipeline/defs/bronze.py" beforeDir="false" afterPath="$PROJECT_DIR$/etl_pipeline/src/etl_pipeline/defs/bronze.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/etl_pipeline/src/etl_pipeline/defs/silver.py" beforeDir="false" afterPath="$PROJECT_DIR$/etl_pipeline/src/etl_pipeline/defs/silver.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,16 +66,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Projects\BookRecommendation\etl_pipeline\src\etl_pipeline" />
@@ -136,7 +154,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -149,5 +179,15 @@
     <MESSAGE value="add one gold assets.py, add streamlit module." />
     <MESSAGE value="add data quality check, perform upsert on bronze layer" />
     <option name="LAST_COMMIT_MESSAGE" value="add data quality check, perform upsert on bronze layer" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/etl_pipeline/src/etl_pipeline/defs/silver.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
