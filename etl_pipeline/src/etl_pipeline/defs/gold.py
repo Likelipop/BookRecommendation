@@ -2,6 +2,11 @@ from dagster import asset, AssetKey, MaterializeResult
 from databricks.connect import DatabricksSession
 from ..databrick_resource import DatabricksServerlessResource
 import pyspark.sql.functions as F
+from sklearn.neighbors import NearestNeighbors
+from scipy.sparse import csr_matrix
+import pandas as pd
+import joblib
+import tempfile
 import os
 
 
@@ -10,6 +15,18 @@ def get_serverless_session():
     Initializes and returns a Databricks Serverless Spark session.
     """
     return DatabricksSession.builder.serverless().getOrCreate()
+
+
+def _resolve_local_dir(current_file: str, *subpath: str) -> str:
+    """
+    Resolves an absolute path under the project root's data directory.
+    """
+    current_dir = os.path.dirname(os.path.abspath(current_file))
+    project_root = os.path.abspath(os.path.join(current_dir, "..", "..", "..", ".."))
+    return os.path.join(project_root, *subpath)
+
+
+_VOLUME_BASE = "/Volumes/book_project/models/ml_artifacts"
 
 
 @asset(
@@ -34,7 +51,6 @@ def gold_book_metrics(context, db_resource: DatabricksServerlessResource):
     books_df = spark.table("book_project.cleaned_library.silver_cleaned_books")
     ratings_df = spark.table("book_project.cleaned_library.silver_cleaned_ratings")
 
-    # Aggregate ratings per book and filter out books with fewer than 5 ratings
     agg_ratings_df = ratings_df.groupBy("ISBN").agg(
         F.count("book_rating").alias("total_ratings"),
         F.round(F.avg("book_rating"), 2).alias("average_rating")
@@ -42,7 +58,6 @@ def gold_book_metrics(context, db_resource: DatabricksServerlessResource):
 
     filtered_ratings_df = agg_ratings_df.filter(F.col("total_ratings") >= 5)
 
-    # Join with book metadata and sort by rating and popularity
     gold_df = filtered_ratings_df.join(books_df, "ISBN", "left")
 
     final_gold_df = gold_df.select(
@@ -59,14 +74,9 @@ def gold_book_metrics(context, db_resource: DatabricksServerlessResource):
 
     context.log.info(f"Successfully wrote Delta table to {dest_table}")
 
-    # Convert to Pandas to save locally (safe due to reduced aggregated size)
     pandas_df = final_gold_df.toPandas()
 
-    # Resolve path to project root and define local export directory
-    current_dir = os.path.dirname(os.path.abspath(__file__))
-    project_root = os.path.abspath(os.path.join(current_dir, "..", "..", "..", ".."))
-    local_dir = os.path.join(project_root, "data", "gold")
-
+    local_dir = _resolve_local_dir(__file__, "data", "gold")
     os.makedirs(local_dir, exist_ok=True)
     local_csv_path = os.path.join(local_dir, "gold_book_metrics.csv")
 
@@ -101,7 +111,6 @@ def gold_user_item_interactions(context, db_resource: DatabricksServerlessResour
     ratings_df = spark.table("book_project.cleaned_library.silver_cleaned_ratings")
     books_df = spark.table("book_project.cleaned_library.silver_cleaned_books")
 
-    # Reduce sparsity: Filter for active users (>= 5 ratings) and popular books (>= 10 ratings)
     active_users = ratings_df.groupBy("user_id").count().filter(F.col("count") >= 5).select("user_id")
     popular_books = ratings_df.groupBy("ISBN").count().filter(F.col("count") >= 10).select("ISBN")
 
@@ -120,13 +129,9 @@ def gold_user_item_interactions(context, db_resource: DatabricksServerlessResour
 
     context.log.info(f"Successfully wrote Delta table to {dest_table}")
 
-    # Convert to Pandas and save to local directory for Streamlit consumption
     pandas_df = final_ml_df.toPandas()
 
-    current_dir = os.path.dirname(os.path.abspath(__file__))
-    project_root = os.path.abspath(os.path.join(current_dir, "..", "..", "..", ".."))
-    local_dir = os.path.join(project_root, "data", "gold")
-
+    local_dir = _resolve_local_dir(__file__, "data", "gold")
     os.makedirs(local_dir, exist_ok=True)
     local_csv_path = os.path.join(local_dir, "gold_user_item_interactions.csv")
 
@@ -139,5 +144,56 @@ def gold_user_item_interactions(context, db_resource: DatabricksServerlessResour
             "unique_users": int(pandas_df['user_id'].nunique()),
             "unique_books": int(pandas_df['ISBN'].nunique()),
             "local_file_path": local_csv_path
+        }
+    )
+
+
+@asset(
+    deps=[AssetKey(["gold", "library", "gold_user_item_interactions"])],
+    key_prefix=["gold", "library"],
+    group_name="gold_layer",
+    description="Trains a KNN Item-Based Collaborative Filtering model and uploads it to Databricks Volume."
+)
+def gold_item_based_knn_model(context, db_resource: DatabricksServerlessResource):
+    """
+    Reads the gold user-item interaction CSV, builds a Book x User pivot table,
+    trains a cosine KNN model, and uploads both the model and pivot index
+    to Databricks Volume for consumption by the Streamlit application.
+    """
+    spark = db_resource.get_session()
+
+    local_dir = _resolve_local_dir(__file__, "data", "gold")
+    csv_path = os.path.join(local_dir, "gold_user_item_interactions.csv")
+
+    df = pd.read_csv(csv_path)
+
+    book_pivot = df.pivot_table(index='title', columns='user_id', values='book_rating').fillna(0)
+    book_sparse = csr_matrix(book_pivot.values)
+
+    model = NearestNeighbors(metric='cosine', algorithm='brute')
+    model.fit(book_sparse)
+
+    volume_model_path = f"{_VOLUME_BASE}/item_based_knn.joblib"
+    volume_pivot_path = f"{_VOLUME_BASE}/item_based_pivot_index.joblib"
+
+    with tempfile.TemporaryDirectory() as tmp_dir:
+        tmp_model_path = os.path.join(tmp_dir, "item_based_knn.joblib")
+        tmp_pivot_path = os.path.join(tmp_dir, "item_based_pivot_index.joblib")
+
+        joblib.dump(model, tmp_model_path)
+        joblib.dump(book_pivot.index.tolist(), tmp_pivot_path)
+
+        spark.sql(f"PUT '{tmp_model_path}' INTO '{volume_model_path}' OVERWRITE")
+        spark.sql(f"PUT '{tmp_pivot_path}' INTO '{volume_pivot_path}' OVERWRITE")
+
+    context.log.info(f"Model uploaded to {volume_model_path}")
+    context.log.info(f"Pivot index uploaded to {volume_pivot_path}")
+
+    yield MaterializeResult(
+        metadata={
+            "total_books_in_matrix": len(book_pivot),
+            "total_users_in_matrix": len(book_pivot.columns),
+            "volume_model_path": volume_model_path,
+            "volume_pivot_path": volume_pivot_path
         }
     )

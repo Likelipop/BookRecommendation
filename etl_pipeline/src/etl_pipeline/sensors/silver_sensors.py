@@ -74,3 +74,75 @@ def silver_books_error_sensor(context, asset_event):
         )
 
     return SkipReason("No errors detected in silver_cleaned_books.")
+
+
+@asset_sensor(
+    asset_key=AssetKey(["silver", "library", "silver_cleaned_users"]),
+    job=email_alert_job
+)
+def silver_users_error_sensor(context, asset_event):
+    """
+    Sensor that monitors materialization events for the 'silver_cleaned_users' asset.
+    Evaluates metadata and triggers the email alert job if data quality errors are found.
+    """
+    metadata = asset_event.asset_materialization.metadata
+
+    # Safely extract metrics from the asset's materialization metadata
+    err_count = metadata.get("error_count").value if "error_count" in metadata else 0
+    clean_count = metadata.get("final_clean_count").value if "final_clean_count" in metadata else 0
+
+    # Trigger a run request if bad records were detected
+    if err_count > 0:
+        return RunRequest(
+            run_key=f"error_alert_{asset_event.run_id}",
+            run_config={
+                "ops": {
+                    "send_email_op": {
+                        "config": {
+                            "asset_name": "silver_cleaned_users",
+                            "error_count": err_count,
+                            "clean_count": clean_count
+                        }
+                    }
+                }
+            }
+        )
+
+    return SkipReason("No errors detected in silver_cleaned_users.")
+
+
+@asset_sensor(
+    asset_key=AssetKey(["silver", "library", "silver_cleaned_ratings"]),
+    job=email_alert_job
+)
+def silver_ratings_error_sensor(context, asset_event):
+    """
+    Sensor that monitors materialization events for the 'silver_cleaned_ratings' asset.
+    Evaluates metadata and triggers the email alert job if data quality errors are found.
+    Note: this asset uses 'total_errors_caught' and 'final_clean_count' as metadata keys.
+    """
+    metadata = asset_event.asset_materialization.metadata
+
+    # Safely extract metrics from the asset's materialization metadata
+    # silver_cleaned_ratings yields 'total_errors_caught' instead of 'error_count'
+    err_count = metadata.get("total_errors_caught").value if "total_errors_caught" in metadata else 0
+    clean_count = metadata.get("final_clean_count").value if "final_clean_count" in metadata else 0
+
+    # Trigger a run request if bad records were detected
+    if err_count > 0:
+        return RunRequest(
+            run_key=f"error_alert_{asset_event.run_id}",
+            run_config={
+                "ops": {
+                    "send_email_op": {
+                        "config": {
+                            "asset_name": "silver_cleaned_ratings",
+                            "error_count": err_count,
+                            "clean_count": clean_count
+                        }
+                    }
+                }
+            }
+        )
+
+    return SkipReason("No errors detected in silver_cleaned_ratings.")

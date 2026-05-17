@@ -9,7 +9,7 @@ from .checks import (
     check_ratings_no_null_keys
 )
 
-from .sensors.silver_sensors import silver_books_error_sensor
+from .sensors.silver_sensors import silver_books_error_sensor, silver_users_error_sensor, silver_ratings_error_sensor
 
 
 from .databrick_resource import DatabricksServerlessResource
@@ -28,7 +28,11 @@ defs = Definitions(
         check_ratings_error_rate,
         check_ratings_no_null_keys
     ],
-    sensors=[silver_books_error_sensor],
+    sensors=[
+        silver_books_error_sensor,
+        silver_users_error_sensor,
+        silver_ratings_error_sensor
+    ],
     resources={
         "db_resource": db_resource
     }
